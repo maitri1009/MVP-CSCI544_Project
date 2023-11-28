@@ -1,0 +1,8 @@
+{
+    "precision": 0.9421265141318977,
+    "recall": 0.8760951188986232,
+    "f1": 0.9079118028534372,
+    "model": "model_asqp_rest15",
+    "task": "asqp",
+    "subtask": "rest16"
+}

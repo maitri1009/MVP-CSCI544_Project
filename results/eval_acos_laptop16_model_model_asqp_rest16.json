@@ -1,0 +1,8 @@
+{
+    "precision": 0.1779359430604982,
+    "recall": 0.16792611251049538,
+    "f1": 0.1727861771058315,
+    "model": "model_asqp_rest16",
+    "task": "acos",
+    "subtask": "laptop16"
+}

@@ -1,0 +1,8 @@
+{
+    "precision": 56.36132315521628,
+    "recall": 50.86107921928817,
+    "f1": 53.470126735063374,
+    "model": "model_tasd_rest15",
+    "task": "tasd",
+    "subtask": "rest16"
+}

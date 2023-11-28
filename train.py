@@ -365,7 +365,7 @@ def evaluate_function(task, subtask, model_name):
                 input_ids=in_ids,
                 attention_mask = in_masks,
                 max_length = 100,
-                prefix_allowed_tokens_fn = partial(callback_fn, "acos", "rest16", in_ids, tokenizer)
+                prefix_allowed_tokens_fn = partial(callback_fn, task, subtask, in_ids, tokenizer)
             )
             in_ids = in_ids.to(cpu_device)
             in_masks = in_masks.to(cpu_device)

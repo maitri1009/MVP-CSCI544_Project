@@ -1,0 +1,8 @@
+{
+    "precision": 59.33806146572104,
+    "recall": 51.59301130524152,
+    "f1": 55.19516217702033,
+    "model": "model_aste_rest14",
+    "task": "aste",
+    "subtask": "rest14"
+}
