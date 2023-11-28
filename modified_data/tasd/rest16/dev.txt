@@ -1,0 +1,145 @@
+judging from previous posts this used to be a good place , but not any longer . [A] [C] [S]	[A] place [C] restaurant general [S] bad
+judging from previous posts this used to be a good place , but not any longer . [A] [S] [C]	[A] place [S] bad [C] restaurant general
+judging from previous posts this used to be a good place , but not any longer . [C] [S] [A]	[C] restaurant general [S] bad [A] place
+judging from previous posts this used to be a good place , but not any longer . [C] [A] [S]	[C] restaurant general [A] place [S] bad
+judging from previous posts this used to be a good place , but not any longer . [S] [C] [A]	[S] bad [C] restaurant general [A] place
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [A] [C] [S]	[A] staff [C] service general [S] bad
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [A] [S] [C]	[A] staff [S] bad [C] service general
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [C] [S] [A]	[C] service general [S] bad [A] staff
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [C] [A] [S]	[C] service general [A] staff [S] bad
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [S] [C] [A]	[S] bad [C] service general [A] staff
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [A] [C] [S]	[A] it [C] service general [S] bad
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [A] [S] [C]	[A] it [S] bad [C] service general
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [C] [S] [A]	[C] service general [S] bad [A] it
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [C] [A] [S]	[C] service general [A] it [S] bad
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [S] [C] [A]	[S] bad [C] service general [A] it
+the food was lousy - too sweet or too salty and the portions tiny . [A] [C] [S]	[A] food [C] food quality [S] bad [SSEP] [A] portions [C] food style_options [S] bad
+the food was lousy - too sweet or too salty and the portions tiny . [A] [S] [C]	[A] food [S] bad [C] food quality [SSEP] [A] portions [S] bad [C] food style_options
+the food was lousy - too sweet or too salty and the portions tiny . [C] [S] [A]	[C] food quality [S] bad [A] food [SSEP] [C] food style_options [S] bad [A] portions
+the food was lousy - too sweet or too salty and the portions tiny . [C] [A] [S]	[C] food quality [A] food [S] bad [SSEP] [C] food style_options [A] portions [S] bad
+the food was lousy - too sweet or too salty and the portions tiny . [S] [C] [A]	[S] bad [C] food quality [A] food [SSEP] [S] bad [C] food style_options [A] portions
+after all that , they complained to me about the small tip . [A] [C] [S]	[A] it [C] service general [S] bad
+after all that , they complained to me about the small tip . [A] [S] [C]	[A] it [S] bad [C] service general
+after all that , they complained to me about the small tip . [C] [S] [A]	[C] service general [S] bad [A] it
+after all that , they complained to me about the small tip . [C] [A] [S]	[C] service general [A] it [S] bad
+after all that , they complained to me about the small tip . [S] [C] [A]	[S] bad [C] service general [A] it
+avoid this place ! [A] [C] [S]	[A] place [C] restaurant general [S] bad
+avoid this place ! [A] [S] [C]	[A] place [S] bad [C] restaurant general
+avoid this place ! [C] [S] [A]	[C] restaurant general [S] bad [A] place
+avoid this place ! [C] [A] [S]	[C] restaurant general [A] place [S] bad
+avoid this place ! [S] [C] [A]	[S] bad [C] restaurant general [A] place
+i have eaten at saul , many times , the food is always consistently , outrageously good . [A] [C] [S]	[A] food [C] food quality [S] good
+i have eaten at saul , many times , the food is always consistently , outrageously good . [A] [S] [C]	[A] food [S] good [C] food quality
+i have eaten at saul , many times , the food is always consistently , outrageously good . [C] [S] [A]	[C] food quality [S] good [A] food
+i have eaten at saul , many times , the food is always consistently , outrageously good . [C] [A] [S]	[C] food quality [A] food [S] good
+i have eaten at saul , many times , the food is always consistently , outrageously good . [S] [C] [A]	[S] good [C] food quality [A] food
+saul is the best restaurant on smith street and in brooklyn . [A] [C] [S]	[A] saul [C] restaurant general [S] good
+saul is the best restaurant on smith street and in brooklyn . [A] [S] [C]	[A] saul [S] good [C] restaurant general
+saul is the best restaurant on smith street and in brooklyn . [C] [S] [A]	[C] restaurant general [S] good [A] saul
+saul is the best restaurant on smith street and in brooklyn . [C] [A] [S]	[C] restaurant general [A] saul [S] good
+saul is the best restaurant on smith street and in brooklyn . [S] [C] [A]	[S] good [C] restaurant general [A] saul
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [A] [C] [S]	[A] foie gras terrine with figs [C] food quality [S] good [SSEP] [A] duck confit [C] food quality [S] good
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [A] [S] [C]	[A] foie gras terrine with figs [S] good [C] food quality [SSEP] [A] duck confit [S] good [C] food quality
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [C] [S] [A]	[C] food quality [S] good [A] foie gras terrine with figs [SSEP] [C] food quality [S] good [A] duck confit
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [C] [A] [S]	[C] food quality [A] foie gras terrine with figs [S] good [SSEP] [C] food quality [A] duck confit [S] good
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [S] [C] [A]	[S] good [C] food quality [A] foie gras terrine with figs [SSEP] [S] good [C] food quality [A] duck confit
+the wine list is interesting and has many good values . [A] [C] [S]	[A] wine list [C] drinks style_options [S] good [SSEP] [A] wine list [C] drinks prices [S] good
+the wine list is interesting and has many good values . [A] [S] [C]	[A] wine list [S] good [C] drinks style_options [SSEP] [A] wine list [S] good [C] drinks prices
+the wine list is interesting and has many good values . [C] [S] [A]	[C] drinks style_options [S] good [A] wine list [SSEP] [C] drinks prices [S] good [A] wine list
+the wine list is interesting and has many good values . [C] [A] [S]	[C] drinks style_options [A] wine list [S] good [SSEP] [C] drinks prices [A] wine list [S] good
+the wine list is interesting and has many good values . [S] [C] [A]	[S] good [C] drinks style_options [A] wine list [SSEP] [S] good [C] drinks prices [A] wine list
+for the price , you cannot eat this well in manhattan . [A] [C] [S]	[A] it [C] restaurant prices [S] good [SSEP] [A] it [C] food quality [S] good
+for the price , you cannot eat this well in manhattan . [A] [S] [C]	[A] it [S] good [C] restaurant prices [SSEP] [A] it [S] good [C] food quality
+for the price , you cannot eat this well in manhattan . [C] [S] [A]	[C] restaurant prices [S] good [A] it [SSEP] [C] food quality [S] good [A] it
+for the price , you cannot eat this well in manhattan . [C] [A] [S]	[C] restaurant prices [A] it [S] good [SSEP] [C] food quality [A] it [S] good
+for the price , you cannot eat this well in manhattan . [S] [C] [A]	[S] good [C] restaurant prices [A] it [SSEP] [S] good [C] food quality [A] it
+i was very disappointed with this restaurant . [A] [C] [S]	[A] restaurant [C] restaurant general [S] bad
+i was very disappointed with this restaurant . [A] [S] [C]	[A] restaurant [S] bad [C] restaurant general
+i was very disappointed with this restaurant . [C] [S] [A]	[C] restaurant general [S] bad [A] restaurant
+i was very disappointed with this restaurant . [C] [A] [S]	[C] restaurant general [A] restaurant [S] bad
+i was very disappointed with this restaurant . [S] [C] [A]	[S] bad [C] restaurant general [A] restaurant
+ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away . [A] [C] [S]	[A] cart attendant [C] service general [S] bad
+ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away . [A] [S] [C]	[A] cart attendant [S] bad [C] service general
+ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away . [C] [S] [A]	[C] service general [S] bad [A] cart attendant
+ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away . [C] [A] [S]	[C] service general [A] cart attendant [S] bad
+ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away . [S] [C] [A]	[S] bad [C] service general [A] cart attendant
+i had to ask her three times before she finally came back with the dish ive requested . [A] [C] [S]	[A] it [C] service general [S] bad
+i had to ask her three times before she finally came back with the dish ive requested . [A] [S] [C]	[A] it [S] bad [C] service general
+i had to ask her three times before she finally came back with the dish ive requested . [C] [S] [A]	[C] service general [S] bad [A] it
+i had to ask her three times before she finally came back with the dish ive requested . [C] [A] [S]	[C] service general [A] it [S] bad
+i had to ask her three times before she finally came back with the dish ive requested . [S] [C] [A]	[S] bad [C] service general [A] it
+food was okay , nothing great . [A] [C] [S]	[A] food [C] food quality [S] ok
+food was okay , nothing great . [A] [S] [C]	[A] food [S] ok [C] food quality
+food was okay , nothing great . [C] [S] [A]	[C] food quality [S] ok [A] food
+food was okay , nothing great . [C] [A] [S]	[C] food quality [A] food [S] ok
+food was okay , nothing great . [S] [C] [A]	[S] ok [C] food quality [A] food
+chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family . [A] [C] [S]	[A] chow fun [C] food quality [S] bad [SSEP] [A] pork shu mai [C] food quality [S] bad [SSEP] [A] it [C] restaurant miscellaneous [S] bad
+chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family . [A] [S] [C]	[A] chow fun [S] bad [C] food quality [SSEP] [A] pork shu mai [S] bad [C] food quality [SSEP] [A] it [S] bad [C] restaurant miscellaneous
+chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family . [C] [S] [A]	[C] food quality [S] bad [A] chow fun [SSEP] [C] food quality [S] bad [A] pork shu mai [SSEP] [C] restaurant miscellaneous [S] bad [A] it
+chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family . [C] [A] [S]	[C] food quality [A] chow fun [S] bad [SSEP] [C] food quality [A] pork shu mai [S] bad [SSEP] [C] restaurant miscellaneous [A] it [S] bad
+chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family . [S] [C] [A]	[S] bad [C] food quality [A] chow fun [SSEP] [S] bad [C] food quality [A] pork shu mai [SSEP] [S] bad [C] restaurant miscellaneous [A] it
+i /we will never go back to this place again . [A] [C] [S]	[A] place [C] restaurant general [S] bad
+i /we will never go back to this place again . [A] [S] [C]	[A] place [S] bad [C] restaurant general
+i /we will never go back to this place again . [C] [S] [A]	[C] restaurant general [S] bad [A] place
+i /we will never go back to this place again . [C] [A] [S]	[C] restaurant general [A] place [S] bad
+i /we will never go back to this place again . [S] [C] [A]	[S] bad [C] restaurant general [A] place
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great ! [A] [C] [S]	[A] fish [C] restaurant general [S] good
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great ! [A] [S] [C]	[A] fish [S] good [C] restaurant general
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great ! [C] [S] [A]	[C] restaurant general [S] good [A] fish
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great ! [C] [A] [S]	[C] restaurant general [A] fish [S] good
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great ! [S] [C] [A]	[S] good [C] restaurant general [A] fish
+service was devine , oysters where a sensual as they come , and the price can 't be beat ! ! ! [A] [C] [S]	[A] service [C] service general [S] good [SSEP] [A] oysters [C] food quality [S] good [SSEP] [A] it [C] restaurant prices [S] good
+service was devine , oysters where a sensual as they come , and the price can 't be beat ! ! ! [A] [S] [C]	[A] service [S] good [C] service general [SSEP] [A] oysters [S] good [C] food quality [SSEP] [A] it [S] good [C] restaurant prices
+service was devine , oysters where a sensual as they come , and the price can 't be beat ! ! ! [C] [S] [A]	[C] service general [S] good [A] service [SSEP] [C] food quality [S] good [A] oysters [SSEP] [C] restaurant prices [S] good [A] it
+service was devine , oysters where a sensual as they come , and the price can 't be beat ! ! ! [C] [A] [S]	[C] service general [A] service [S] good [SSEP] [C] food quality [A] oysters [S] good [SSEP] [C] restaurant prices [A] it [S] good
+service was devine , oysters where a sensual as they come , and the price can 't be beat ! ! ! [S] [C] [A]	[S] good [C] service general [A] service [SSEP] [S] good [C] food quality [A] oysters [SSEP] [S] good [C] restaurant prices [A] it
+you can 't go wrong here . [A] [C] [S]	[A] it [C] restaurant general [S] good
+you can 't go wrong here . [A] [S] [C]	[A] it [S] good [C] restaurant general
+you can 't go wrong here . [C] [S] [A]	[C] restaurant general [S] good [A] it
+you can 't go wrong here . [C] [A] [S]	[C] restaurant general [A] it [S] good
+you can 't go wrong here . [S] [C] [A]	[S] good [C] restaurant general [A] it
+every time in new york i make it a point to visit restaurant saul on smith street . [A] [C] [S]	[A] restaurant saul [C] restaurant general [S] good
+every time in new york i make it a point to visit restaurant saul on smith street . [A] [S] [C]	[A] restaurant saul [S] good [C] restaurant general
+every time in new york i make it a point to visit restaurant saul on smith street . [C] [S] [A]	[C] restaurant general [S] good [A] restaurant saul
+every time in new york i make it a point to visit restaurant saul on smith street . [C] [A] [S]	[C] restaurant general [A] restaurant saul [S] good
+every time in new york i make it a point to visit restaurant saul on smith street . [S] [C] [A]	[S] good [C] restaurant general [A] restaurant saul
+everything is always cooked to perfection , the service is excellent , the decor cool and understated . [A] [C] [S]	[A] it [C] food quality [S] good [SSEP] [A] service [C] service general [S] good [SSEP] [A] decor [C] ambience general [S] good
+everything is always cooked to perfection , the service is excellent , the decor cool and understated . [A] [S] [C]	[A] it [S] good [C] food quality [SSEP] [A] service [S] good [C] service general [SSEP] [A] decor [S] good [C] ambience general
+everything is always cooked to perfection , the service is excellent , the decor cool and understated . [C] [S] [A]	[C] food quality [S] good [A] it [SSEP] [C] service general [S] good [A] service [SSEP] [C] ambience general [S] good [A] decor
+everything is always cooked to perfection , the service is excellent , the decor cool and understated . [C] [A] [S]	[C] food quality [A] it [S] good [SSEP] [C] service general [A] service [S] good [SSEP] [C] ambience general [A] decor [S] good
+everything is always cooked to perfection , the service is excellent , the decor cool and understated . [S] [C] [A]	[S] good [C] food quality [A] it [SSEP] [S] good [C] service general [A] service [SSEP] [S] good [C] ambience general [A] decor
+i had the duck breast special on my last visit and it was incredible . [A] [C] [S]	[A] duck breast special [C] food quality [S] good
+i had the duck breast special on my last visit and it was incredible . [A] [S] [C]	[A] duck breast special [S] good [C] food quality
+i had the duck breast special on my last visit and it was incredible . [C] [S] [A]	[C] food quality [S] good [A] duck breast special
+i had the duck breast special on my last visit and it was incredible . [C] [A] [S]	[C] food quality [A] duck breast special [S] good
+i had the duck breast special on my last visit and it was incredible . [S] [C] [A]	[S] good [C] food quality [A] duck breast special
+can 't wait wait for my next visit . [A] [C] [S]	[A] it [C] restaurant general [S] good
+can 't wait wait for my next visit . [A] [S] [C]	[A] it [S] good [C] restaurant general
+can 't wait wait for my next visit . [C] [S] [A]	[C] restaurant general [S] good [A] it
+can 't wait wait for my next visit . [C] [A] [S]	[C] restaurant general [A] it [S] good
+can 't wait wait for my next visit . [S] [C] [A]	[S] good [C] restaurant general [A] it
+and i hate to say this but i doubt i 'll ever go back . [A] [C] [S]	[A] it [C] restaurant general [S] bad
+and i hate to say this but i doubt i 'll ever go back . [A] [S] [C]	[A] it [S] bad [C] restaurant general
+and i hate to say this but i doubt i 'll ever go back . [C] [S] [A]	[C] restaurant general [S] bad [A] it
+and i hate to say this but i doubt i 'll ever go back . [C] [A] [S]	[C] restaurant general [A] it [S] bad
+and i hate to say this but i doubt i 'll ever go back . [S] [C] [A]	[S] bad [C] restaurant general [A] it
+the food is very average . . .the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [A] [C] [S]	[A] food [C] food quality [S] bad [SSEP] [A] thai fusion stuff [C] food quality [S] bad [SSEP] [A] it [C] food quality [S] bad
+the food is very average . . .the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [A] [S] [C]	[A] food [S] bad [C] food quality [SSEP] [A] thai fusion stuff [S] bad [C] food quality [SSEP] [A] it [S] bad [C] food quality
+the food is very average . . .the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [C] [S] [A]	[C] food quality [S] bad [A] food [SSEP] [C] food quality [S] bad [A] thai fusion stuff [SSEP] [C] food quality [S] bad [A] it
+the food is very average . . .the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [C] [A] [S]	[C] food quality [A] food [S] bad [SSEP] [C] food quality [A] thai fusion stuff [S] bad [SSEP] [C] food quality [A] it [S] bad
+the food is very average . . .the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [S] [C] [A]	[S] bad [C] food quality [A] food [SSEP] [S] bad [C] food quality [A] thai fusion stuff [SSEP] [S] bad [C] food quality [A] it
+the only thing i moderately enjoyed was their grilled chicken special with edamame puree . [A] [C] [S]	[A] grilled chicken special with edamame puree [C] food quality [S] good
+the only thing i moderately enjoyed was their grilled chicken special with edamame puree . [A] [S] [C]	[A] grilled chicken special with edamame puree [S] good [C] food quality
+the only thing i moderately enjoyed was their grilled chicken special with edamame puree . [C] [S] [A]	[C] food quality [S] good [A] grilled chicken special with edamame puree
+the only thing i moderately enjoyed was their grilled chicken special with edamame puree . [C] [A] [S]	[C] food quality [A] grilled chicken special with edamame puree [S] good
+the only thing i moderately enjoyed was their grilled chicken special with edamame puree . [S] [C] [A]	[S] good [C] food quality [A] grilled chicken special with edamame puree
+i had never had edamame pureed before but i thought it was innovative and tasty  (could 've used a bit more salt ) . [A] [C] [S]	[A] edamame pureed [C] food quality [S] good [SSEP] [A] edamame pureed [C] food style_options [S] good
+i had never had edamame pureed before but i thought it was innovative and tasty  (could 've used a bit more salt ) . [A] [S] [C]	[A] edamame pureed [S] good [C] food quality [SSEP] [A] edamame pureed [S] good [C] food style_options
+i had never had edamame pureed before but i thought it was innovative and tasty  (could 've used a bit more salt ) . [C] [S] [A]	[C] food quality [S] good [A] edamame pureed [SSEP] [C] food style_options [S] good [A] edamame pureed
+i had never had edamame pureed before but i thought it was innovative and tasty  (could 've used a bit more salt ) . [C] [A] [S]	[C] food quality [A] edamame pureed [S] good [SSEP] [C] food style_options [A] edamame pureed [S] good
+i had never had edamame pureed before but i thought it was innovative and tasty  (could 've used a bit more salt ) . [S] [C] [A]	[S] good [C] food quality [A] edamame pureed [SSEP] [S] good [C] food style_options [A] edamame pureed
+the decor is night tho . . .but they really need to clean that vent in the ceiling . . .its quite un-appetizing , and kills your effort to make this place look sleek and modern . [A] [C] [S]	[A] place [C] ambience general [S] bad [SSEP] [A] decor [C] ambience general [S] good [SSEP] [A] vent [C] ambience general [S] bad
+the decor is night tho . . .but they really need to clean that vent in the ceiling . . .its quite un-appetizing , and kills your effort to make this place look sleek and modern . [A] [S] [C]	[A] place [S] bad [C] ambience general [SSEP] [A] decor [S] good [C] ambience general [SSEP] [A] vent [S] bad [C] ambience general
+the decor is night tho . . .but they really need to clean that vent in the ceiling . . .its quite un-appetizing , and kills your effort to make this place look sleek and modern . [C] [S] [A]	[C] ambience general [S] bad [A] place [SSEP] [C] ambience general [S] good [A] decor [SSEP] [C] ambience general [S] bad [A] vent
+the decor is night tho . . .but they really need to clean that vent in the ceiling . . .its quite un-appetizing , and kills your effort to make this place look sleek and modern . [C] [A] [S]	[C] ambience general [A] place [S] bad [SSEP] [C] ambience general [A] decor [S] good [SSEP] [C] ambience general [A] vent [S] bad
+the decor is night tho . . .but they really need to clean that vent in the ceiling . . .its quite un-appetizing , and kills your effort to make this place look sleek and modern . [S] [C] [A]	[S] bad [C] ambience general [A] place [SSEP] [S] good [C] ambience general [A] decor [SSEP] [S] bad [C] ambience general [A] vent

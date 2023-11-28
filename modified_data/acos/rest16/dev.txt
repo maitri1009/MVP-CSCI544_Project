@@ -1,0 +1,855 @@
+ca n ' t wait wait for my next visit . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant general
+ca n ' t wait wait for my next visit . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] good
+ca n ' t wait wait for my next visit . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant general
+ca n ' t wait wait for my next visit . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] good
+ca n ' t wait wait for my next visit . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant general
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request ! [A] [O] [S] [C]	[A] sake list [O] extensive [S] good [C] drinks style_options [SSEP] [A] it [O] null [S] good [C] service general
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request ! [A] [O] [C] [S]	[A] sake list [O] extensive [C] drinks style_options [S] good [SSEP] [A] it [O] null [C] service general [S] good
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request ! [A] [S] [O] [C]	[A] sake list [S] good [O] extensive [C] drinks style_options [SSEP] [A] it [S] good [O] null [C] service general
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request ! [O] [A] [C] [S]	[O] extensive [A] sake list [C] drinks style_options [S] good [SSEP] [O] null [A] it [C] service general [S] good
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request ! [O] [A] [S] [C]	[O] extensive [A] sake list [S] good [C] drinks style_options [SSEP] [O] null [A] it [S] good [C] service general
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share ! [A] [O] [S] [C]	[A] spicy tuna roll [O] good [S] good [C] food quality [SSEP] [A] rock shrimp tempura [O] awesome [S] good [C] food quality
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share ! [A] [O] [C] [S]	[A] spicy tuna roll [O] good [C] food quality [S] good [SSEP] [A] rock shrimp tempura [O] awesome [C] food quality [S] good
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share ! [A] [S] [O] [C]	[A] spicy tuna roll [S] good [O] good [C] food quality [SSEP] [A] rock shrimp tempura [S] good [O] awesome [C] food quality
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share ! [O] [A] [C] [S]	[O] good [A] spicy tuna roll [C] food quality [S] good [SSEP] [O] awesome [A] rock shrimp tempura [C] food quality [S] good
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share ! [O] [A] [S] [C]	[O] good [A] spicy tuna roll [S] good [C] food quality [SSEP] [O] awesome [A] rock shrimp tempura [S] good [C] food quality
+we love th pink pony . [A] [O] [S] [C]	[A] pink pony [O] love [S] good [C] restaurant general
+we love th pink pony . [A] [O] [C] [S]	[A] pink pony [O] love [C] restaurant general [S] good
+we love th pink pony . [A] [S] [O] [C]	[A] pink pony [S] good [O] love [C] restaurant general
+we love th pink pony . [O] [A] [C] [S]	[O] love [A] pink pony [C] restaurant general [S] good
+we love th pink pony . [O] [A] [S] [C]	[O] love [A] pink pony [S] good [C] restaurant general
+this place has got to be the best japanese restaurant in the new york area . [A] [O] [S] [C]	[A] place [O] best [S] good [C] restaurant general
+this place has got to be the best japanese restaurant in the new york area . [A] [O] [C] [S]	[A] place [O] best [C] restaurant general [S] good
+this place has got to be the best japanese restaurant in the new york area . [A] [S] [O] [C]	[A] place [S] good [O] best [C] restaurant general
+this place has got to be the best japanese restaurant in the new york area . [O] [A] [C] [S]	[O] best [A] place [C] restaurant general [S] good
+this place has got to be the best japanese restaurant in the new york area . [O] [A] [S] [C]	[O] best [A] place [S] good [C] restaurant general
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [A] [O] [S] [C]	[A] sea urchin [O] heavenly [S] good [C] food quality
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [A] [O] [C] [S]	[A] sea urchin [O] heavenly [C] food quality [S] good
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [A] [S] [O] [C]	[A] sea urchin [S] good [O] heavenly [C] food quality
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [O] [A] [C] [S]	[O] heavenly [A] sea urchin [C] food quality [S] good
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [O] [A] [S] [C]	[O] heavenly [A] sea urchin [S] good [C] food quality
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [A] [O] [S] [C]	[A] prix fixe menu [O] worth [S] good [C] food quality [SSEP] [A] prix fixe menu [O] worth [S] good [C] food style_options [SSEP] [A] prix fixe menu [O] worth [S] good [C] food prices
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [A] [O] [C] [S]	[A] prix fixe menu [O] worth [C] food quality [S] good [SSEP] [A] prix fixe menu [O] worth [C] food style_options [S] good [SSEP] [A] prix fixe menu [O] worth [C] food prices [S] good
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [A] [S] [O] [C]	[A] prix fixe menu [S] good [O] worth [C] food quality [SSEP] [A] prix fixe menu [S] good [O] worth [C] food style_options [SSEP] [A] prix fixe menu [S] good [O] worth [C] food prices
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [O] [A] [C] [S]	[O] worth [A] prix fixe menu [C] food quality [S] good [SSEP] [O] worth [A] prix fixe menu [C] food style_options [S] good [SSEP] [O] worth [A] prix fixe menu [C] food prices [S] good
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [O] [A] [S] [C]	[O] worth [A] prix fixe menu [S] good [C] food quality [SSEP] [O] worth [A] prix fixe menu [S] good [C] food style_options [SSEP] [O] worth [A] prix fixe menu [S] good [C] food prices
+the food here is rather good , but only if you like to wait for it . [A] [O] [S] [C]	[A] food [O] good [S] good [C] food quality [SSEP] [A] it [O] null [S] bad [C] service general
+the food here is rather good , but only if you like to wait for it . [A] [O] [C] [S]	[A] food [O] good [C] food quality [S] good [SSEP] [A] it [O] null [C] service general [S] bad
+the food here is rather good , but only if you like to wait for it . [A] [S] [O] [C]	[A] food [S] good [O] good [C] food quality [SSEP] [A] it [S] bad [O] null [C] service general
+the food here is rather good , but only if you like to wait for it . [O] [A] [C] [S]	[O] good [A] food [C] food quality [S] good [SSEP] [O] null [A] it [C] service general [S] bad
+the food here is rather good , but only if you like to wait for it . [O] [A] [S] [C]	[O] good [A] food [S] good [C] food quality [SSEP] [O] null [A] it [S] bad [C] service general
+also , specify if you like your food spicy - its rather bland if you do n ' t . [A] [O] [S] [C]	[A] food [O] bland [S] bad [C] food quality
+also , specify if you like your food spicy - its rather bland if you do n ' t . [A] [O] [C] [S]	[A] food [O] bland [C] food quality [S] bad
+also , specify if you like your food spicy - its rather bland if you do n ' t . [A] [S] [O] [C]	[A] food [S] bad [O] bland [C] food quality
+also , specify if you like your food spicy - its rather bland if you do n ' t . [O] [A] [C] [S]	[O] bland [A] food [C] food quality [S] bad
+also , specify if you like your food spicy - its rather bland if you do n ' t . [O] [A] [S] [C]	[O] bland [A] food [S] bad [C] food quality
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best . [A] [O] [S] [C]	[A] ambience [O] pretty [S] good [C] ambience general [SSEP] [A] ambience [O] nice [S] good [C] ambience general [SSEP] [A] it [O] best [S] good [C] restaurant miscellaneous
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best . [A] [O] [C] [S]	[A] ambience [O] pretty [C] ambience general [S] good [SSEP] [A] ambience [O] nice [C] ambience general [S] good [SSEP] [A] it [O] best [C] restaurant miscellaneous [S] good
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best . [A] [S] [O] [C]	[A] ambience [S] good [O] pretty [C] ambience general [SSEP] [A] ambience [S] good [O] nice [C] ambience general [SSEP] [A] it [S] good [O] best [C] restaurant miscellaneous
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best . [O] [A] [C] [S]	[O] pretty [A] ambience [C] ambience general [S] good [SSEP] [O] nice [A] ambience [C] ambience general [S] good [SSEP] [O] best [A] it [C] restaurant miscellaneous [S] good
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best . [O] [A] [S] [C]	[O] pretty [A] ambience [S] good [C] ambience general [SSEP] [O] nice [A] ambience [S] good [C] ambience general [SSEP] [O] best [A] it [S] good [C] restaurant miscellaneous
+it was horrible . [A] [O] [S] [C]	[A] it [O] horrible [S] bad [C] restaurant general
+it was horrible . [A] [O] [C] [S]	[A] it [O] horrible [C] restaurant general [S] bad
+it was horrible . [A] [S] [O] [C]	[A] it [S] bad [O] horrible [C] restaurant general
+it was horrible . [O] [A] [C] [S]	[O] horrible [A] it [C] restaurant general [S] bad
+it was horrible . [O] [A] [S] [C]	[O] horrible [A] it [S] bad [C] restaurant general
+have been dozens of times and never failed to enjoy the experience . [A] [O] [S] [C]	[A] it [O] enjoy [S] good [C] restaurant general
+have been dozens of times and never failed to enjoy the experience . [A] [O] [C] [S]	[A] it [O] enjoy [C] restaurant general [S] good
+have been dozens of times and never failed to enjoy the experience . [A] [S] [O] [C]	[A] it [S] good [O] enjoy [C] restaurant general
+have been dozens of times and never failed to enjoy the experience . [O] [A] [C] [S]	[O] enjoy [A] it [C] restaurant general [S] good
+have been dozens of times and never failed to enjoy the experience . [O] [A] [S] [C]	[O] enjoy [A] it [S] good [C] restaurant general
+make sure you try this place as often as you can . [A] [O] [S] [C]	[A] place [O] often [S] good [C] restaurant general
+make sure you try this place as often as you can . [A] [O] [C] [S]	[A] place [O] often [C] restaurant general [S] good
+make sure you try this place as often as you can . [A] [S] [O] [C]	[A] place [S] good [O] often [C] restaurant general
+make sure you try this place as often as you can . [O] [A] [C] [S]	[O] often [A] place [C] restaurant general [S] good
+make sure you try this place as often as you can . [O] [A] [S] [C]	[O] often [A] place [S] good [C] restaurant general
+i had a huge group for my birthday and we were well taken care of . [A] [O] [S] [C]	[A] it [O] well [S] good [C] service general
+i had a huge group for my birthday and we were well taken care of . [A] [O] [C] [S]	[A] it [O] well [C] service general [S] good
+i had a huge group for my birthday and we were well taken care of . [A] [S] [O] [C]	[A] it [S] good [O] well [C] service general
+i had a huge group for my birthday and we were well taken care of . [O] [A] [C] [S]	[O] well [A] it [C] service general [S] good
+i had a huge group for my birthday and we were well taken care of . [O] [A] [S] [C]	[O] well [A] it [S] good [C] service general
+get the tuna of gari . [A] [O] [S] [C]	[A] tuna of gari [O] null [S] good [C] food quality
+get the tuna of gari . [A] [O] [C] [S]	[A] tuna of gari [O] null [C] food quality [S] good
+get the tuna of gari . [A] [S] [O] [C]	[A] tuna of gari [S] good [O] null [C] food quality
+get the tuna of gari . [O] [A] [C] [S]	[O] null [A] tuna of gari [C] food quality [S] good
+get the tuna of gari . [O] [A] [S] [C]	[O] null [A] tuna of gari [S] good [C] food quality
+make sure you have the spicy scallop roll . . . [A] [O] [S] [C]	[A] spicy scallop roll [O] null [S] good [C] food quality
+make sure you have the spicy scallop roll . . . [A] [O] [C] [S]	[A] spicy scallop roll [O] null [C] food quality [S] good
+make sure you have the spicy scallop roll . . . [A] [S] [O] [C]	[A] spicy scallop roll [S] good [O] null [C] food quality
+make sure you have the spicy scallop roll . . . [O] [A] [C] [S]	[O] null [A] spicy scallop roll [C] food quality [S] good
+make sure you have the spicy scallop roll . . . [O] [A] [S] [C]	[O] null [A] spicy scallop roll [S] good [C] food quality
+raga ' s is a romantic , cozy restaurant . [A] [O] [S] [C]	[A] raga ' s [O] romantic [S] good [C] ambience general [SSEP] [A] raga ' s [O] cozy [S] good [C] ambience general
+raga ' s is a romantic , cozy restaurant . [A] [O] [C] [S]	[A] raga ' s [O] romantic [C] ambience general [S] good [SSEP] [A] raga ' s [O] cozy [C] ambience general [S] good
+raga ' s is a romantic , cozy restaurant . [A] [S] [O] [C]	[A] raga ' s [S] good [O] romantic [C] ambience general [SSEP] [A] raga ' s [S] good [O] cozy [C] ambience general
+raga ' s is a romantic , cozy restaurant . [O] [A] [C] [S]	[O] romantic [A] raga ' s [C] ambience general [S] good [SSEP] [O] cozy [A] raga ' s [C] ambience general [S] good
+raga ' s is a romantic , cozy restaurant . [O] [A] [S] [C]	[O] romantic [A] raga ' s [S] good [C] ambience general [SSEP] [O] cozy [A] raga ' s [S] good [C] ambience general
+i had a great time at jekyll and hyde ! [A] [O] [S] [C]	[A] jekyll and hyde [O] great [S] good [C] restaurant general
+i had a great time at jekyll and hyde ! [A] [O] [C] [S]	[A] jekyll and hyde [O] great [C] restaurant general [S] good
+i had a great time at jekyll and hyde ! [A] [S] [O] [C]	[A] jekyll and hyde [S] good [O] great [C] restaurant general
+i had a great time at jekyll and hyde ! [O] [A] [C] [S]	[O] great [A] jekyll and hyde [C] restaurant general [S] good
+i had a great time at jekyll and hyde ! [O] [A] [S] [C]	[O] great [A] jekyll and hyde [S] good [C] restaurant general
+i am bringing my whole family back next time . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant miscellaneous
+i am bringing my whole family back next time . [A] [O] [C] [S]	[A] it [O] null [C] restaurant miscellaneous [S] good
+i am bringing my whole family back next time . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant miscellaneous
+i am bringing my whole family back next time . [O] [A] [C] [S]	[O] null [A] it [C] restaurant miscellaneous [S] good
+i am bringing my whole family back next time . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant miscellaneous
+fine dining restaurant quality . [A] [O] [S] [C]	[A] dining [O] fine [S] good [C] food quality
+fine dining restaurant quality . [A] [O] [C] [S]	[A] dining [O] fine [C] food quality [S] good
+fine dining restaurant quality . [A] [S] [O] [C]	[A] dining [S] good [O] fine [C] food quality
+fine dining restaurant quality . [O] [A] [C] [S]	[O] fine [A] dining [C] food quality [S] good
+fine dining restaurant quality . [O] [A] [S] [C]	[O] fine [A] dining [S] good [C] food quality
+we will return many times for this oasis in mid - town . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant general
+we will return many times for this oasis in mid - town . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] good
+we will return many times for this oasis in mid - town . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant general
+we will return many times for this oasis in mid - town . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] good
+we will return many times for this oasis in mid - town . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant general
+the food options rule . [A] [O] [S] [C]	[A] food [O] null [S] good [C] food style_options
+the food options rule . [A] [O] [C] [S]	[A] food [O] null [C] food style_options [S] good
+the food options rule . [A] [S] [O] [C]	[A] food [S] good [O] null [C] food style_options
+the food options rule . [O] [A] [C] [S]	[O] null [A] food [C] food style_options [S] good
+the food options rule . [O] [A] [S] [C]	[O] null [A] food [S] good [C] food style_options
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [A] [O] [S] [C]	[A] jekyll and hyde pub [O] great [S] good [C] restaurant general [SSEP] [A] jekyll and hyde pub [O] fantastic [S] good [C] restaurant general
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [A] [O] [C] [S]	[A] jekyll and hyde pub [O] great [C] restaurant general [S] good [SSEP] [A] jekyll and hyde pub [O] fantastic [C] restaurant general [S] good
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [A] [S] [O] [C]	[A] jekyll and hyde pub [S] good [O] great [C] restaurant general [SSEP] [A] jekyll and hyde pub [S] good [O] fantastic [C] restaurant general
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [O] [A] [C] [S]	[O] great [A] jekyll and hyde pub [C] restaurant general [S] good [SSEP] [O] fantastic [A] jekyll and hyde pub [C] restaurant general [S] good
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [O] [A] [S] [C]	[O] great [A] jekyll and hyde pub [S] good [C] restaurant general [SSEP] [O] fantastic [A] jekyll and hyde pub [S] good [C] restaurant general
+please take my advice , go and try this place . [A] [O] [S] [C]	[A] place [O] null [S] good [C] restaurant general
+please take my advice , go and try this place . [A] [O] [C] [S]	[A] place [O] null [C] restaurant general [S] good
+please take my advice , go and try this place . [A] [S] [O] [C]	[A] place [S] good [O] null [C] restaurant general
+please take my advice , go and try this place . [O] [A] [C] [S]	[O] null [A] place [C] restaurant general [S] good
+please take my advice , go and try this place . [O] [A] [S] [C]	[O] null [A] place [S] good [C] restaurant general
+they were served warm and had a soft fluffy interior . [A] [O] [S] [C]	[A] it [O] warm [S] good [C] food quality [SSEP] [A] it [O] soft [S] good [C] food quality
+they were served warm and had a soft fluffy interior . [A] [O] [C] [S]	[A] it [O] warm [C] food quality [S] good [SSEP] [A] it [O] soft [C] food quality [S] good
+they were served warm and had a soft fluffy interior . [A] [S] [O] [C]	[A] it [S] good [O] warm [C] food quality [SSEP] [A] it [S] good [O] soft [C] food quality
+they were served warm and had a soft fluffy interior . [O] [A] [C] [S]	[O] warm [A] it [C] food quality [S] good [SSEP] [O] soft [A] it [C] food quality [S] good
+they were served warm and had a soft fluffy interior . [O] [A] [S] [C]	[O] warm [A] it [S] good [C] food quality [SSEP] [O] soft [A] it [S] good [C] food quality
+but they do . [A] [O] [S] [C]	[A] it [O] null [S] good [C] service general
+but they do . [A] [O] [C] [S]	[A] it [O] null [C] service general [S] good
+but they do . [A] [S] [O] [C]	[A] it [S] good [O] null [C] service general
+but they do . [O] [A] [C] [S]	[O] null [A] it [C] service general [S] good
+but they do . [O] [A] [S] [C]	[O] null [A] it [S] good [C] service general
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh . [A] [O] [S] [C]	[A] restaurant [O] fresh [S] good [C] restaurant general [SSEP] [A] restaurant [O] amazing [S] good [C] restaurant general [SSEP] [A] food [O] delicious [S] good [C] food quality [SSEP] [A] food [O] fresh [S] good [C] food quality
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh . [A] [O] [C] [S]	[A] restaurant [O] fresh [C] restaurant general [S] good [SSEP] [A] restaurant [O] amazing [C] restaurant general [S] good [SSEP] [A] food [O] delicious [C] food quality [S] good [SSEP] [A] food [O] fresh [C] food quality [S] good
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh . [A] [S] [O] [C]	[A] restaurant [S] good [O] fresh [C] restaurant general [SSEP] [A] restaurant [S] good [O] amazing [C] restaurant general [SSEP] [A] food [S] good [O] delicious [C] food quality [SSEP] [A] food [S] good [O] fresh [C] food quality
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh . [O] [A] [C] [S]	[O] fresh [A] restaurant [C] restaurant general [S] good [SSEP] [O] amazing [A] restaurant [C] restaurant general [S] good [SSEP] [O] delicious [A] food [C] food quality [S] good [SSEP] [O] fresh [A] food [C] food quality [S] good
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh . [O] [A] [S] [C]	[O] fresh [A] restaurant [S] good [C] restaurant general [SSEP] [O] amazing [A] restaurant [S] good [C] restaurant general [SSEP] [O] delicious [A] food [S] good [C] food quality [SSEP] [O] fresh [A] food [S] good [C] food quality
+hats off to the chef . [A] [O] [S] [C]	[A] chef [O] hats off [S] good [C] food quality
+hats off to the chef . [A] [O] [C] [S]	[A] chef [O] hats off [C] food quality [S] good
+hats off to the chef . [A] [S] [O] [C]	[A] chef [S] good [O] hats off [C] food quality
+hats off to the chef . [O] [A] [C] [S]	[O] hats off [A] chef [C] food quality [S] good
+hats off to the chef . [O] [A] [S] [C]	[O] hats off [A] chef [S] good [C] food quality
+this is some really good , inexpensive sushi . [A] [O] [S] [C]	[A] sushi [O] good [S] good [C] food quality [SSEP] [A] sushi [O] inexpensive [S] good [C] food prices
+this is some really good , inexpensive sushi . [A] [O] [C] [S]	[A] sushi [O] good [C] food quality [S] good [SSEP] [A] sushi [O] inexpensive [C] food prices [S] good
+this is some really good , inexpensive sushi . [A] [S] [O] [C]	[A] sushi [S] good [O] good [C] food quality [SSEP] [A] sushi [S] good [O] inexpensive [C] food prices
+this is some really good , inexpensive sushi . [O] [A] [C] [S]	[O] good [A] sushi [C] food quality [S] good [SSEP] [O] inexpensive [A] sushi [C] food prices [S] good
+this is some really good , inexpensive sushi . [O] [A] [S] [C]	[O] good [A] sushi [S] good [C] food quality [SSEP] [O] inexpensive [A] sushi [S] good [C] food prices
+this place is always very crowded and popular . [A] [O] [S] [C]	[A] place [O] crowded [S] good [C] restaurant miscellaneous [SSEP] [A] place [O] popular [S] good [C] restaurant miscellaneous
+this place is always very crowded and popular . [A] [O] [C] [S]	[A] place [O] crowded [C] restaurant miscellaneous [S] good [SSEP] [A] place [O] popular [C] restaurant miscellaneous [S] good
+this place is always very crowded and popular . [A] [S] [O] [C]	[A] place [S] good [O] crowded [C] restaurant miscellaneous [SSEP] [A] place [S] good [O] popular [C] restaurant miscellaneous
+this place is always very crowded and popular . [O] [A] [C] [S]	[O] crowded [A] place [C] restaurant miscellaneous [S] good [SSEP] [O] popular [A] place [C] restaurant miscellaneous [S] good
+this place is always very crowded and popular . [O] [A] [S] [C]	[O] crowded [A] place [S] good [C] restaurant miscellaneous [SSEP] [O] popular [A] place [S] good [C] restaurant miscellaneous
+and evaluated on those terms pastis is simply wonderful . [A] [O] [S] [C]	[A] pastis [O] wonderful [S] good [C] restaurant general
+and evaluated on those terms pastis is simply wonderful . [A] [O] [C] [S]	[A] pastis [O] wonderful [C] restaurant general [S] good
+and evaluated on those terms pastis is simply wonderful . [A] [S] [O] [C]	[A] pastis [S] good [O] wonderful [C] restaurant general
+and evaluated on those terms pastis is simply wonderful . [O] [A] [C] [S]	[O] wonderful [A] pastis [C] restaurant general [S] good
+and evaluated on those terms pastis is simply wonderful . [O] [A] [S] [C]	[O] wonderful [A] pastis [S] good [C] restaurant general
+i ' m still mad that i had to pay for lousy food . [A] [O] [S] [C]	[A] food [O] lousy [S] bad [C] food quality
+i ' m still mad that i had to pay for lousy food . [A] [O] [C] [S]	[A] food [O] lousy [C] food quality [S] bad
+i ' m still mad that i had to pay for lousy food . [A] [S] [O] [C]	[A] food [S] bad [O] lousy [C] food quality
+i ' m still mad that i had to pay for lousy food . [O] [A] [C] [S]	[O] lousy [A] food [C] food quality [S] bad
+i ' m still mad that i had to pay for lousy food . [O] [A] [S] [C]	[O] lousy [A] food [S] bad [C] food quality
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed . [A] [O] [S] [C]	[A] hanger steak [O] rubber [S] bad [C] food quality [SSEP] [A] tuna [O] flavorless [S] bad [C] food quality
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed . [A] [O] [C] [S]	[A] hanger steak [O] rubber [C] food quality [S] bad [SSEP] [A] tuna [O] flavorless [C] food quality [S] bad
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed . [A] [S] [O] [C]	[A] hanger steak [S] bad [O] rubber [C] food quality [SSEP] [A] tuna [S] bad [O] flavorless [C] food quality
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed . [O] [A] [C] [S]	[O] rubber [A] hanger steak [C] food quality [S] bad [SSEP] [O] flavorless [A] tuna [C] food quality [S] bad
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed . [O] [A] [S] [C]	[O] rubber [A] hanger steak [S] bad [C] food quality [SSEP] [O] flavorless [A] tuna [S] bad [C] food quality
+big thumbs up ! [A] [O] [S] [C]	[A] it [O] thumbs up [S] good [C] restaurant general
+big thumbs up ! [A] [O] [C] [S]	[A] it [O] thumbs up [C] restaurant general [S] good
+big thumbs up ! [A] [S] [O] [C]	[A] it [S] good [O] thumbs up [C] restaurant general
+big thumbs up ! [O] [A] [C] [S]	[O] thumbs up [A] it [C] restaurant general [S] good
+big thumbs up ! [O] [A] [S] [C]	[O] thumbs up [A] it [S] good [C] restaurant general
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area . [A] [O] [S] [C]	[A] pizza [O] excellent [S] good [C] food quality [SSEP] [A] wine [O] excellent [S] good [C] drinks quality [SSEP] [A] service [O] excellent [S] good [C] service general [SSEP] [A] backyard dining area [O] null [S] good [C] ambience general
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area . [A] [O] [C] [S]	[A] pizza [O] excellent [C] food quality [S] good [SSEP] [A] wine [O] excellent [C] drinks quality [S] good [SSEP] [A] service [O] excellent [C] service general [S] good [SSEP] [A] backyard dining area [O] null [C] ambience general [S] good
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area . [A] [S] [O] [C]	[A] pizza [S] good [O] excellent [C] food quality [SSEP] [A] wine [S] good [O] excellent [C] drinks quality [SSEP] [A] service [S] good [O] excellent [C] service general [SSEP] [A] backyard dining area [S] good [O] null [C] ambience general
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area . [O] [A] [C] [S]	[O] excellent [A] pizza [C] food quality [S] good [SSEP] [O] excellent [A] wine [C] drinks quality [S] good [SSEP] [O] excellent [A] service [C] service general [S] good [SSEP] [O] null [A] backyard dining area [C] ambience general [S] good
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area . [O] [A] [S] [C]	[O] excellent [A] pizza [S] good [C] food quality [SSEP] [O] excellent [A] wine [S] good [C] drinks quality [SSEP] [O] excellent [A] service [S] good [C] service general [SSEP] [O] null [A] backyard dining area [S] good [C] ambience general
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country . [A] [O] [S] [C]	[A] outdoor restaurants [O] nicest [S] good [C] ambience general
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country . [A] [O] [C] [S]	[A] outdoor restaurants [O] nicest [C] ambience general [S] good
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country . [A] [S] [O] [C]	[A] outdoor restaurants [S] good [O] nicest [C] ambience general
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country . [O] [A] [C] [S]	[O] nicest [A] outdoor restaurants [C] ambience general [S] good
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country . [O] [A] [S] [C]	[O] nicest [A] outdoor restaurants [S] good [C] ambience general
+it is simply amazing . [A] [O] [S] [C]	[A] it [O] amazing [S] good [C] food quality
+it is simply amazing . [A] [O] [C] [S]	[A] it [O] amazing [C] food quality [S] good
+it is simply amazing . [A] [S] [O] [C]	[A] it [S] good [O] amazing [C] food quality
+it is simply amazing . [O] [A] [C] [S]	[O] amazing [A] it [C] food quality [S] good
+it is simply amazing . [O] [A] [S] [C]	[O] amazing [A] it [S] good [C] food quality
+beautiful experience . [A] [O] [S] [C]	[A] it [O] beautiful [S] good [C] restaurant general
+beautiful experience . [A] [O] [C] [S]	[A] it [O] beautiful [C] restaurant general [S] good
+beautiful experience . [A] [S] [O] [C]	[A] it [S] good [O] beautiful [C] restaurant general
+beautiful experience . [O] [A] [C] [S]	[O] beautiful [A] it [C] restaurant general [S] good
+beautiful experience . [O] [A] [S] [C]	[O] beautiful [A] it [S] good [C] restaurant general
+the menu is very limited - i think we counted 4 or 5 entrees . [A] [O] [S] [C]	[A] menu [O] limited [S] bad [C] food style_options
+the menu is very limited - i think we counted 4 or 5 entrees . [A] [O] [C] [S]	[A] menu [O] limited [C] food style_options [S] bad
+the menu is very limited - i think we counted 4 or 5 entrees . [A] [S] [O] [C]	[A] menu [S] bad [O] limited [C] food style_options
+the menu is very limited - i think we counted 4 or 5 entrees . [O] [A] [C] [S]	[O] limited [A] menu [C] food style_options [S] bad
+the menu is very limited - i think we counted 4 or 5 entrees . [O] [A] [S] [C]	[O] limited [A] menu [S] bad [C] food style_options
+we will go back every time we are in the city . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant general
+we will go back every time we are in the city . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] good
+we will go back every time we are in the city . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant general
+we will go back every time we are in the city . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] good
+we will go back every time we are in the city . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant general
+the characters really make for an enjoyable experience . [A] [O] [S] [C]	[A] characters [O] enjoyable [S] good [C] ambience general
+the characters really make for an enjoyable experience . [A] [O] [C] [S]	[A] characters [O] enjoyable [C] ambience general [S] good
+the characters really make for an enjoyable experience . [A] [S] [O] [C]	[A] characters [S] good [O] enjoyable [C] ambience general
+the characters really make for an enjoyable experience . [O] [A] [C] [S]	[O] enjoyable [A] characters [C] ambience general [S] good
+the characters really make for an enjoyable experience . [O] [A] [S] [C]	[O] enjoyable [A] characters [S] good [C] ambience general
+however , i think jeckll and hydes t is one of those places that is fun to do once . [A] [O] [S] [C]	[A] jeckll and hydes [O] fun [S] good [C] restaurant general
+however , i think jeckll and hydes t is one of those places that is fun to do once . [A] [O] [C] [S]	[A] jeckll and hydes [O] fun [C] restaurant general [S] good
+however , i think jeckll and hydes t is one of those places that is fun to do once . [A] [S] [O] [C]	[A] jeckll and hydes [S] good [O] fun [C] restaurant general
+however , i think jeckll and hydes t is one of those places that is fun to do once . [O] [A] [C] [S]	[O] fun [A] jeckll and hydes [C] restaurant general [S] good
+however , i think jeckll and hydes t is one of those places that is fun to do once . [O] [A] [S] [C]	[O] fun [A] jeckll and hydes [S] good [C] restaurant general
+we had a good time . [A] [O] [S] [C]	[A] it [O] good [S] good [C] restaurant general
+we had a good time . [A] [O] [C] [S]	[A] it [O] good [C] restaurant general [S] good
+we had a good time . [A] [S] [O] [C]	[A] it [S] good [O] good [C] restaurant general
+we had a good time . [O] [A] [C] [S]	[O] good [A] it [C] restaurant general [S] good
+we had a good time . [O] [A] [S] [C]	[O] good [A] it [S] good [C] restaurant general
+a little overpriced but worth it once you take a bite . [A] [O] [S] [C]	[A] it [O] overpriced [S] bad [C] food prices [SSEP] [A] it [O] worth [S] good [C] food quality
+a little overpriced but worth it once you take a bite . [A] [O] [C] [S]	[A] it [O] overpriced [C] food prices [S] bad [SSEP] [A] it [O] worth [C] food quality [S] good
+a little overpriced but worth it once you take a bite . [A] [S] [O] [C]	[A] it [S] bad [O] overpriced [C] food prices [SSEP] [A] it [S] good [O] worth [C] food quality
+a little overpriced but worth it once you take a bite . [O] [A] [C] [S]	[O] overpriced [A] it [C] food prices [S] bad [SSEP] [O] worth [A] it [C] food quality [S] good
+a little overpriced but worth it once you take a bite . [O] [A] [S] [C]	[O] overpriced [A] it [S] bad [C] food prices [SSEP] [O] worth [A] it [S] good [C] food quality
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan . [A] [O] [S] [C]	[A] food [O] null [S] good [C] food quality [SSEP] [A] feel [O] null [S] good [C] ambience general
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan . [A] [O] [C] [S]	[A] food [O] null [C] food quality [S] good [SSEP] [A] feel [O] null [C] ambience general [S] good
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan . [A] [S] [O] [C]	[A] food [S] good [O] null [C] food quality [SSEP] [A] feel [S] good [O] null [C] ambience general
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan . [O] [A] [C] [S]	[O] null [A] food [C] food quality [S] good [SSEP] [O] null [A] feel [C] ambience general [S] good
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan . [O] [A] [S] [C]	[O] null [A] food [S] good [C] food quality [SSEP] [O] null [A] feel [S] good [C] ambience general
+check out the secret back room . [A] [O] [S] [C]	[A] back room [O] secret [S] good [C] ambience general
+check out the secret back room . [A] [O] [C] [S]	[A] back room [O] secret [C] ambience general [S] good
+check out the secret back room . [A] [S] [O] [C]	[A] back room [S] good [O] secret [C] ambience general
+check out the secret back room . [O] [A] [C] [S]	[O] secret [A] back room [C] ambience general [S] good
+check out the secret back room . [O] [A] [S] [C]	[O] secret [A] back room [S] good [C] ambience general
+thank you emilio . [A] [O] [S] [C]	[A] emilio [O] null [S] good [C] restaurant general
+thank you emilio . [A] [O] [C] [S]	[A] emilio [O] null [C] restaurant general [S] good
+thank you emilio . [A] [S] [O] [C]	[A] emilio [S] good [O] null [C] restaurant general
+thank you emilio . [O] [A] [C] [S]	[O] null [A] emilio [C] restaurant general [S] good
+thank you emilio . [O] [A] [S] [C]	[O] null [A] emilio [S] good [C] restaurant general
+the food was authentic . [A] [O] [S] [C]	[A] food [O] authentic [S] good [C] food quality
+the food was authentic . [A] [O] [C] [S]	[A] food [O] authentic [C] food quality [S] good
+the food was authentic . [A] [S] [O] [C]	[A] food [S] good [O] authentic [C] food quality
+the food was authentic . [O] [A] [C] [S]	[O] authentic [A] food [C] food quality [S] good
+the food was authentic . [O] [A] [S] [C]	[O] authentic [A] food [S] good [C] food quality
+fantastic ! [A] [O] [S] [C]	[A] it [O] fantastic [S] good [C] restaurant general
+fantastic ! [A] [O] [C] [S]	[A] it [O] fantastic [C] restaurant general [S] good
+fantastic ! [A] [S] [O] [C]	[A] it [S] good [O] fantastic [C] restaurant general
+fantastic ! [O] [A] [C] [S]	[O] fantastic [A] it [C] restaurant general [S] good
+fantastic ! [O] [A] [S] [C]	[O] fantastic [A] it [S] good [C] restaurant general
+but the staff was so horrible to us . [A] [O] [S] [C]	[A] staff [O] horrible [S] bad [C] service general
+but the staff was so horrible to us . [A] [O] [C] [S]	[A] staff [O] horrible [C] service general [S] bad
+but the staff was so horrible to us . [A] [S] [O] [C]	[A] staff [S] bad [O] horrible [C] service general
+but the staff was so horrible to us . [O] [A] [C] [S]	[O] horrible [A] staff [C] service general [S] bad
+but the staff was so horrible to us . [O] [A] [S] [C]	[O] horrible [A] staff [S] bad [C] service general
+decor is nice though service can be spotty . [A] [O] [S] [C]	[A] decor [O] nice [S] good [C] ambience general [SSEP] [A] service [O] spotty [S] bad [C] service general
+decor is nice though service can be spotty . [A] [O] [C] [S]	[A] decor [O] nice [C] ambience general [S] good [SSEP] [A] service [O] spotty [C] service general [S] bad
+decor is nice though service can be spotty . [A] [S] [O] [C]	[A] decor [S] good [O] nice [C] ambience general [SSEP] [A] service [S] bad [O] spotty [C] service general
+decor is nice though service can be spotty . [O] [A] [C] [S]	[O] nice [A] decor [C] ambience general [S] good [SSEP] [O] spotty [A] service [C] service general [S] bad
+decor is nice though service can be spotty . [O] [A] [S] [C]	[O] nice [A] decor [S] good [C] ambience general [SSEP] [O] spotty [A] service [S] bad [C] service general
+just awsome . [A] [O] [S] [C]	[A] it [O] awsome [S] good [C] food quality
+just awsome . [A] [O] [C] [S]	[A] it [O] awsome [C] food quality [S] good
+just awsome . [A] [S] [O] [C]	[A] it [S] good [O] awsome [C] food quality
+just awsome . [O] [A] [C] [S]	[O] awsome [A] it [C] food quality [S] good
+just awsome . [O] [A] [S] [C]	[O] awsome [A] it [S] good [C] food quality
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was . [A] [O] [S] [C]	[A] eggs benedict [O] worst [S] bad [C] food quality
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was . [A] [O] [C] [S]	[A] eggs benedict [O] worst [C] food quality [S] bad
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was . [A] [S] [O] [C]	[A] eggs benedict [S] bad [O] worst [C] food quality
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was . [O] [A] [C] [S]	[O] worst [A] eggs benedict [C] food quality [S] bad
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was . [O] [A] [S] [C]	[O] worst [A] eggs benedict [S] bad [C] food quality
+with the theater 2 blocks away we had a delicious meal in a beautiful room . [A] [O] [S] [C]	[A] meal [O] delicious [S] good [C] food quality [SSEP] [A] room [O] beautiful [S] good [C] ambience general [SSEP] [A] it [O] null [S] good [C] location general
+with the theater 2 blocks away we had a delicious meal in a beautiful room . [A] [O] [C] [S]	[A] meal [O] delicious [C] food quality [S] good [SSEP] [A] room [O] beautiful [C] ambience general [S] good [SSEP] [A] it [O] null [C] location general [S] good
+with the theater 2 blocks away we had a delicious meal in a beautiful room . [A] [S] [O] [C]	[A] meal [S] good [O] delicious [C] food quality [SSEP] [A] room [S] good [O] beautiful [C] ambience general [SSEP] [A] it [S] good [O] null [C] location general
+with the theater 2 blocks away we had a delicious meal in a beautiful room . [O] [A] [C] [S]	[O] delicious [A] meal [C] food quality [S] good [SSEP] [O] beautiful [A] room [C] ambience general [S] good [SSEP] [O] null [A] it [C] location general [S] good
+with the theater 2 blocks away we had a delicious meal in a beautiful room . [O] [A] [S] [C]	[O] delicious [A] meal [S] good [C] food quality [SSEP] [O] beautiful [A] room [S] good [C] ambience general [SSEP] [O] null [A] it [S] good [C] location general
+the service was attentive . [A] [O] [S] [C]	[A] service [O] attentive [S] good [C] service general
+the service was attentive . [A] [O] [C] [S]	[A] service [O] attentive [C] service general [S] good
+the service was attentive . [A] [S] [O] [C]	[A] service [S] good [O] attentive [C] service general
+the service was attentive . [O] [A] [C] [S]	[O] attentive [A] service [C] service general [S] good
+the service was attentive . [O] [A] [S] [C]	[O] attentive [A] service [S] good [C] service general
+patroon features a nice cigar bar and has great staff . [A] [O] [S] [C]	[A] cigar bar [O] nice [S] good [C] ambience general [SSEP] [A] staff [O] great [S] good [C] service general
+patroon features a nice cigar bar and has great staff . [A] [O] [C] [S]	[A] cigar bar [O] nice [C] ambience general [S] good [SSEP] [A] staff [O] great [C] service general [S] good
+patroon features a nice cigar bar and has great staff . [A] [S] [O] [C]	[A] cigar bar [S] good [O] nice [C] ambience general [SSEP] [A] staff [S] good [O] great [C] service general
+patroon features a nice cigar bar and has great staff . [O] [A] [C] [S]	[O] nice [A] cigar bar [C] ambience general [S] good [SSEP] [O] great [A] staff [C] service general [S] good
+patroon features a nice cigar bar and has great staff . [O] [A] [S] [C]	[O] nice [A] cigar bar [S] good [C] ambience general [SSEP] [O] great [A] staff [S] good [C] service general
+lloovve this place . [A] [O] [S] [C]	[A] place [O] lloovve [S] good [C] restaurant general
+lloovve this place . [A] [O] [C] [S]	[A] place [O] lloovve [C] restaurant general [S] good
+lloovve this place . [A] [S] [O] [C]	[A] place [S] good [O] lloovve [C] restaurant general
+lloovve this place . [O] [A] [C] [S]	[O] lloovve [A] place [C] restaurant general [S] good
+lloovve this place . [O] [A] [S] [C]	[O] lloovve [A] place [S] good [C] restaurant general
+the menu is limited but almost all of the dishes are excellent . [A] [O] [S] [C]	[A] menu [O] limited [S] bad [C] food style_options [SSEP] [A] dishes [O] excellent [S] good [C] food quality
+the menu is limited but almost all of the dishes are excellent . [A] [O] [C] [S]	[A] menu [O] limited [C] food style_options [S] bad [SSEP] [A] dishes [O] excellent [C] food quality [S] good
+the menu is limited but almost all of the dishes are excellent . [A] [S] [O] [C]	[A] menu [S] bad [O] limited [C] food style_options [SSEP] [A] dishes [S] good [O] excellent [C] food quality
+the menu is limited but almost all of the dishes are excellent . [O] [A] [C] [S]	[O] limited [A] menu [C] food style_options [S] bad [SSEP] [O] excellent [A] dishes [C] food quality [S] good
+the menu is limited but almost all of the dishes are excellent . [O] [A] [S] [C]	[O] limited [A] menu [S] bad [C] food style_options [SSEP] [O] excellent [A] dishes [S] good [C] food quality
+wine list is extensive without being over - priced . [A] [O] [S] [C]	[A] wine list [O] extensive [S] good [C] drinks style_options [SSEP] [A] wine list [O] without being over - priced [S] good [C] drinks prices
+wine list is extensive without being over - priced . [A] [O] [C] [S]	[A] wine list [O] extensive [C] drinks style_options [S] good [SSEP] [A] wine list [O] without being over - priced [C] drinks prices [S] good
+wine list is extensive without being over - priced . [A] [S] [O] [C]	[A] wine list [S] good [O] extensive [C] drinks style_options [SSEP] [A] wine list [S] good [O] without being over - priced [C] drinks prices
+wine list is extensive without being over - priced . [O] [A] [C] [S]	[O] extensive [A] wine list [C] drinks style_options [S] good [SSEP] [O] without being over - priced [A] wine list [C] drinks prices [S] good
+wine list is extensive without being over - priced . [O] [A] [S] [C]	[O] extensive [A] wine list [S] good [C] drinks style_options [SSEP] [O] without being over - priced [A] wine list [S] good [C] drinks prices
+the food was very good , a great deal , and the place its self was great . [A] [O] [S] [C]	[A] food [O] good [S] good [C] food quality [SSEP] [A] food [O] a [S] good [C] food prices [SSEP] [A] place [O] great [S] good [C] ambience general
+the food was very good , a great deal , and the place its self was great . [A] [O] [C] [S]	[A] food [O] good [C] food quality [S] good [SSEP] [A] food [O] a [C] food prices [S] good [SSEP] [A] place [O] great [C] ambience general [S] good
+the food was very good , a great deal , and the place its self was great . [A] [S] [O] [C]	[A] food [S] good [O] good [C] food quality [SSEP] [A] food [S] good [O] a [C] food prices [SSEP] [A] place [S] good [O] great [C] ambience general
+the food was very good , a great deal , and the place its self was great . [O] [A] [C] [S]	[O] good [A] food [C] food quality [S] good [SSEP] [O] a [A] food [C] food prices [S] good [SSEP] [O] great [A] place [C] ambience general [S] good
+the food was very good , a great deal , and the place its self was great . [O] [A] [S] [C]	[O] good [A] food [S] good [C] food quality [SSEP] [O] a [A] food [S] good [C] food prices [SSEP] [O] great [A] place [S] good [C] ambience general
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town . [A] [O] [S] [C]	[A] wait staff [O] freindly [S] good [C] service general
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town . [A] [O] [C] [S]	[A] wait staff [O] freindly [C] service general [S] good
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town . [A] [S] [O] [C]	[A] wait staff [S] good [O] freindly [C] service general
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town . [O] [A] [C] [S]	[O] freindly [A] wait staff [C] service general [S] good
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town . [O] [A] [S] [C]	[O] freindly [A] wait staff [S] good [C] service general
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place . [A] [O] [S] [C]	[A] staff [O] unprofessional and i wish cafe noir would get some good staff [S] bad [C] service general [SSEP] [A] cafe noir [O] great [S] good [C] restaurant general
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place . [A] [O] [C] [S]	[A] staff [O] unprofessional and i wish cafe noir would get some good staff [C] service general [S] bad [SSEP] [A] cafe noir [O] great [C] restaurant general [S] good
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place . [A] [S] [O] [C]	[A] staff [S] bad [O] unprofessional and i wish cafe noir would get some good staff [C] service general [SSEP] [A] cafe noir [S] good [O] great [C] restaurant general
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place . [O] [A] [C] [S]	[O] unprofessional and i wish cafe noir would get some good staff [A] staff [C] service general [S] bad [SSEP] [O] great [A] cafe noir [C] restaurant general [S] good
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place . [O] [A] [S] [C]	[O] unprofessional and i wish cafe noir would get some good staff [A] staff [S] bad [C] service general [SSEP] [O] great [A] cafe noir [S] good [C] restaurant general
+you should pass on the calamari . [A] [O] [S] [C]	[A] calamari [O] null [S] bad [C] food quality
+you should pass on the calamari . [A] [O] [C] [S]	[A] calamari [O] null [C] food quality [S] bad
+you should pass on the calamari . [A] [S] [O] [C]	[A] calamari [S] bad [O] null [C] food quality
+you should pass on the calamari . [O] [A] [C] [S]	[O] null [A] calamari [C] food quality [S] bad
+you should pass on the calamari . [O] [A] [S] [C]	[O] null [A] calamari [S] bad [C] food quality
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently [A] [O] [S] [C]	[A] it [O] null [S] bad [C] service general
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently [A] [O] [C] [S]	[A] it [O] null [C] service general [S] bad
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently [A] [S] [O] [C]	[A] it [S] bad [O] null [C] service general
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently [O] [A] [C] [S]	[O] null [A] it [C] service general [S] bad
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently [O] [A] [S] [C]	[O] null [A] it [S] bad [C] service general
+everything was wonderful ; food , drinks , staff , mileau . [A] [O] [S] [C]	[A] food [O] wonderful [S] good [C] food quality [SSEP] [A] drinks [O] wonderful [S] good [C] drinks quality [SSEP] [A] staff [O] wonderful [S] good [C] service general [SSEP] [A] mileau [O] wonderful [S] good [C] ambience general [SSEP] [A] it [O] wonderful [S] good [C] restaurant general
+everything was wonderful ; food , drinks , staff , mileau . [A] [O] [C] [S]	[A] food [O] wonderful [C] food quality [S] good [SSEP] [A] drinks [O] wonderful [C] drinks quality [S] good [SSEP] [A] staff [O] wonderful [C] service general [S] good [SSEP] [A] mileau [O] wonderful [C] ambience general [S] good [SSEP] [A] it [O] wonderful [C] restaurant general [S] good
+everything was wonderful ; food , drinks , staff , mileau . [A] [S] [O] [C]	[A] food [S] good [O] wonderful [C] food quality [SSEP] [A] drinks [S] good [O] wonderful [C] drinks quality [SSEP] [A] staff [S] good [O] wonderful [C] service general [SSEP] [A] mileau [S] good [O] wonderful [C] ambience general [SSEP] [A] it [S] good [O] wonderful [C] restaurant general
+everything was wonderful ; food , drinks , staff , mileau . [O] [A] [C] [S]	[O] wonderful [A] food [C] food quality [S] good [SSEP] [O] wonderful [A] drinks [C] drinks quality [S] good [SSEP] [O] wonderful [A] staff [C] service general [S] good [SSEP] [O] wonderful [A] mileau [C] ambience general [S] good [SSEP] [O] wonderful [A] it [C] restaurant general [S] good
+everything was wonderful ; food , drinks , staff , mileau . [O] [A] [S] [C]	[O] wonderful [A] food [S] good [C] food quality [SSEP] [O] wonderful [A] drinks [S] good [C] drinks quality [SSEP] [O] wonderful [A] staff [S] good [C] service general [SSEP] [O] wonderful [A] mileau [S] good [C] ambience general [SSEP] [O] wonderful [A] it [S] good [C] restaurant general
+i would highly recommend this place ! [A] [O] [S] [C]	[A] place [O] recommend [S] good [C] restaurant general
+i would highly recommend this place ! [A] [O] [C] [S]	[A] place [O] recommend [C] restaurant general [S] good
+i would highly recommend this place ! [A] [S] [O] [C]	[A] place [S] good [O] recommend [C] restaurant general
+i would highly recommend this place ! [O] [A] [C] [S]	[O] recommend [A] place [C] restaurant general [S] good
+i would highly recommend this place ! [O] [A] [S] [C]	[O] recommend [A] place [S] good [C] restaurant general
+fresh ingredients and everything is made to order . [A] [O] [S] [C]	[A] ingredients [O] fresh [S] good [C] food quality [SSEP] [A] it [O] null [S] good [C] food quality
+fresh ingredients and everything is made to order . [A] [O] [C] [S]	[A] ingredients [O] fresh [C] food quality [S] good [SSEP] [A] it [O] null [C] food quality [S] good
+fresh ingredients and everything is made to order . [A] [S] [O] [C]	[A] ingredients [S] good [O] fresh [C] food quality [SSEP] [A] it [S] good [O] null [C] food quality
+fresh ingredients and everything is made to order . [O] [A] [C] [S]	[O] fresh [A] ingredients [C] food quality [S] good [SSEP] [O] null [A] it [C] food quality [S] good
+fresh ingredients and everything is made to order . [O] [A] [S] [C]	[O] fresh [A] ingredients [S] good [C] food quality [SSEP] [O] null [A] it [S] good [C] food quality
+friendly staff that actually lets you enjoy your meal and the company you ' re with . [A] [O] [S] [C]	[A] staff [O] friendly [S] good [C] service general
+friendly staff that actually lets you enjoy your meal and the company you ' re with . [A] [O] [C] [S]	[A] staff [O] friendly [C] service general [S] good
+friendly staff that actually lets you enjoy your meal and the company you ' re with . [A] [S] [O] [C]	[A] staff [S] good [O] friendly [C] service general
+friendly staff that actually lets you enjoy your meal and the company you ' re with . [O] [A] [C] [S]	[O] friendly [A] staff [C] service general [S] good
+friendly staff that actually lets you enjoy your meal and the company you ' re with . [O] [A] [S] [C]	[O] friendly [A] staff [S] good [C] service general
+i will definitely be going back . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant general
+i will definitely be going back . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] good
+i will definitely be going back . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant general
+i will definitely be going back . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] good
+i will definitely be going back . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant general
+a great choice at any cost and a great deal . [A] [O] [S] [C]	[A] it [O] great [S] good [C] restaurant general [SSEP] [A] it [O] great [S] good [C] restaurant prices
+a great choice at any cost and a great deal . [A] [O] [C] [S]	[A] it [O] great [C] restaurant general [S] good [SSEP] [A] it [O] great [C] restaurant prices [S] good
+a great choice at any cost and a great deal . [A] [S] [O] [C]	[A] it [S] good [O] great [C] restaurant general [SSEP] [A] it [S] good [O] great [C] restaurant prices
+a great choice at any cost and a great deal . [O] [A] [C] [S]	[O] great [A] it [C] restaurant general [S] good [SSEP] [O] great [A] it [C] restaurant prices [S] good
+a great choice at any cost and a great deal . [O] [A] [S] [C]	[O] great [A] it [S] good [C] restaurant general [SSEP] [O] great [A] it [S] good [C] restaurant prices
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up . [A] [O] [S] [C]	[A] people [O] beautiful [S] good [C] service general [SSEP] [A] food [O] does n ' t quite match up [S] bad [C] food quality [SSEP] [A] thalia [O] beautiful [S] good [C] ambience general
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up . [A] [O] [C] [S]	[A] people [O] beautiful [C] service general [S] good [SSEP] [A] food [O] does n ' t quite match up [C] food quality [S] bad [SSEP] [A] thalia [O] beautiful [C] ambience general [S] good
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up . [A] [S] [O] [C]	[A] people [S] good [O] beautiful [C] service general [SSEP] [A] food [S] bad [O] does n ' t quite match up [C] food quality [SSEP] [A] thalia [S] good [O] beautiful [C] ambience general
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up . [O] [A] [C] [S]	[O] beautiful [A] people [C] service general [S] good [SSEP] [O] does n ' t quite match up [A] food [C] food quality [S] bad [SSEP] [O] beautiful [A] thalia [C] ambience general [S] good
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up . [O] [A] [S] [C]	[O] beautiful [A] people [S] good [C] service general [SSEP] [O] does n ' t quite match up [A] food [S] bad [C] food quality [SSEP] [O] beautiful [A] thalia [S] good [C] ambience general
+i ordered the smoked salmon and roe appetizer and it was off flavor . [A] [O] [S] [C]	[A] smoked salmon and roe appetizer [O] off flavor [S] bad [C] food quality
+i ordered the smoked salmon and roe appetizer and it was off flavor . [A] [O] [C] [S]	[A] smoked salmon and roe appetizer [O] off flavor [C] food quality [S] bad
+i ordered the smoked salmon and roe appetizer and it was off flavor . [A] [S] [O] [C]	[A] smoked salmon and roe appetizer [S] bad [O] off flavor [C] food quality
+i ordered the smoked salmon and roe appetizer and it was off flavor . [O] [A] [C] [S]	[O] off flavor [A] smoked salmon and roe appetizer [C] food quality [S] bad
+i ordered the smoked salmon and roe appetizer and it was off flavor . [O] [A] [S] [C]	[O] off flavor [A] smoked salmon and roe appetizer [S] bad [C] food quality
+the food is good , especially their more basic dishes , and the drinks are delicious . [A] [O] [S] [C]	[A] food [O] good [S] good [C] food quality [SSEP] [A] basic dishes [O] good [S] good [C] food quality [SSEP] [A] drinks [O] delicious [S] good [C] drinks quality
+the food is good , especially their more basic dishes , and the drinks are delicious . [A] [O] [C] [S]	[A] food [O] good [C] food quality [S] good [SSEP] [A] basic dishes [O] good [C] food quality [S] good [SSEP] [A] drinks [O] delicious [C] drinks quality [S] good
+the food is good , especially their more basic dishes , and the drinks are delicious . [A] [S] [O] [C]	[A] food [S] good [O] good [C] food quality [SSEP] [A] basic dishes [S] good [O] good [C] food quality [SSEP] [A] drinks [S] good [O] delicious [C] drinks quality
+the food is good , especially their more basic dishes , and the drinks are delicious . [O] [A] [C] [S]	[O] good [A] food [C] food quality [S] good [SSEP] [O] good [A] basic dishes [C] food quality [S] good [SSEP] [O] delicious [A] drinks [C] drinks quality [S] good
+the food is good , especially their more basic dishes , and the drinks are delicious . [O] [A] [S] [C]	[O] good [A] food [S] good [C] food quality [SSEP] [O] good [A] basic dishes [S] good [C] food quality [SSEP] [O] delicious [A] drinks [S] good [C] drinks quality
+the big complaint : no toasting available . [A] [O] [S] [C]	[A] it [O] complaint [S] bad [C] service general
+the big complaint : no toasting available . [A] [O] [C] [S]	[A] it [O] complaint [C] service general [S] bad
+the big complaint : no toasting available . [A] [S] [O] [C]	[A] it [S] bad [O] complaint [C] service general
+the big complaint : no toasting available . [O] [A] [C] [S]	[O] complaint [A] it [C] service general [S] bad
+the big complaint : no toasting available . [O] [A] [S] [C]	[O] complaint [A] it [S] bad [C] service general
+i ' ve been many time and have never been disappointed . [A] [O] [S] [C]	[A] it [O] never been disappointed [S] good [C] restaurant general
+i ' ve been many time and have never been disappointed . [A] [O] [C] [S]	[A] it [O] never been disappointed [C] restaurant general [S] good
+i ' ve been many time and have never been disappointed . [A] [S] [O] [C]	[A] it [S] good [O] never been disappointed [C] restaurant general
+i ' ve been many time and have never been disappointed . [O] [A] [C] [S]	[O] never been disappointed [A] it [C] restaurant general [S] good
+i ' ve been many time and have never been disappointed . [O] [A] [S] [C]	[O] never been disappointed [A] it [S] good [C] restaurant general
+the turkey burgers are scary ! [A] [O] [S] [C]	[A] turkey burgers [O] scary [S] bad [C] food quality
+the turkey burgers are scary ! [A] [O] [C] [S]	[A] turkey burgers [O] scary [C] food quality [S] bad
+the turkey burgers are scary ! [A] [S] [O] [C]	[A] turkey burgers [S] bad [O] scary [C] food quality
+the turkey burgers are scary ! [O] [A] [C] [S]	[O] scary [A] turkey burgers [C] food quality [S] bad
+the turkey burgers are scary ! [O] [A] [S] [C]	[O] scary [A] turkey burgers [S] bad [C] food quality
+for authentic thai food , look no further than toons . [A] [O] [S] [C]	[A] thai food [O] authentic [S] good [C] food quality
+for authentic thai food , look no further than toons . [A] [O] [C] [S]	[A] thai food [O] authentic [C] food quality [S] good
+for authentic thai food , look no further than toons . [A] [S] [O] [C]	[A] thai food [S] good [O] authentic [C] food quality
+for authentic thai food , look no further than toons . [O] [A] [C] [S]	[O] authentic [A] thai food [C] food quality [S] good
+for authentic thai food , look no further than toons . [O] [A] [S] [C]	[O] authentic [A] thai food [S] good [C] food quality
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious . [A] [O] [S] [C]	[A] pad thai [O] delicious [S] good [C] food quality [SSEP] [A] pad thai [O] delicious [S] good [C] food quality
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious . [A] [O] [C] [S]	[A] pad thai [O] delicious [C] food quality [S] good [SSEP] [A] pad thai [O] delicious [C] food quality [S] good
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious . [A] [S] [O] [C]	[A] pad thai [S] good [O] delicious [C] food quality [SSEP] [A] pad thai [S] good [O] delicious [C] food quality
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious . [O] [A] [C] [S]	[O] delicious [A] pad thai [C] food quality [S] good [SSEP] [O] delicious [A] pad thai [C] food quality [S] good
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious . [O] [A] [S] [C]	[O] delicious [A] pad thai [S] good [C] food quality [SSEP] [O] delicious [A] pad thai [S] good [C] food quality
+service was good and food is wonderful . [A] [O] [S] [C]	[A] service [O] good [S] good [C] service general [SSEP] [A] food [O] wonderful [S] good [C] food quality
+service was good and food is wonderful . [A] [O] [C] [S]	[A] service [O] good [C] service general [S] good [SSEP] [A] food [O] wonderful [C] food quality [S] good
+service was good and food is wonderful . [A] [S] [O] [C]	[A] service [S] good [O] good [C] service general [SSEP] [A] food [S] good [O] wonderful [C] food quality
+service was good and food is wonderful . [O] [A] [C] [S]	[O] good [A] service [C] service general [S] good [SSEP] [O] wonderful [A] food [C] food quality [S] good
+service was good and food is wonderful . [O] [A] [S] [C]	[O] good [A] service [S] good [C] service general [SSEP] [O] wonderful [A] food [S] good [C] food quality
+it is definitely a good spot for snacks and chat . [A] [O] [S] [C]	[A] spot [O] good [S] good [C] restaurant general
+it is definitely a good spot for snacks and chat . [A] [O] [C] [S]	[A] spot [O] good [C] restaurant general [S] good
+it is definitely a good spot for snacks and chat . [A] [S] [O] [C]	[A] spot [S] good [O] good [C] restaurant general
+it is definitely a good spot for snacks and chat . [O] [A] [C] [S]	[O] good [A] spot [C] restaurant general [S] good
+it is definitely a good spot for snacks and chat . [O] [A] [S] [C]	[O] good [A] spot [S] good [C] restaurant general
+do not get the go go hamburgers , no matter what the reviews say . [A] [O] [S] [C]	[A] go go hamburgers [O] null [S] bad [C] food quality
+do not get the go go hamburgers , no matter what the reviews say . [A] [O] [C] [S]	[A] go go hamburgers [O] null [C] food quality [S] bad
+do not get the go go hamburgers , no matter what the reviews say . [A] [S] [O] [C]	[A] go go hamburgers [S] bad [O] null [C] food quality
+do not get the go go hamburgers , no matter what the reviews say . [O] [A] [C] [S]	[O] null [A] go go hamburgers [C] food quality [S] bad
+do not get the go go hamburgers , no matter what the reviews say . [O] [A] [S] [C]	[O] null [A] go go hamburgers [S] bad [C] food quality
+steamed fresh so brought hot hot hot to your table . [A] [O] [S] [C]	[A] it [O] fresh [S] good [C] food quality
+steamed fresh so brought hot hot hot to your table . [A] [O] [C] [S]	[A] it [O] fresh [C] food quality [S] good
+steamed fresh so brought hot hot hot to your table . [A] [S] [O] [C]	[A] it [S] good [O] fresh [C] food quality
+steamed fresh so brought hot hot hot to your table . [O] [A] [C] [S]	[O] fresh [A] it [C] food quality [S] good
+steamed fresh so brought hot hot hot to your table . [O] [A] [S] [C]	[O] fresh [A] it [S] good [C] food quality
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good . [A] [O] [S] [C]	[A] salmon [O] wasnt impressed [S] bad [C] food quality [SSEP] [A] chicken [O] good [S] good [C] food quality [SSEP] [A] servings for main entree [O] small [S] bad [C] food general
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good . [A] [O] [C] [S]	[A] salmon [O] wasnt impressed [C] food quality [S] bad [SSEP] [A] chicken [O] good [C] food quality [S] good [SSEP] [A] servings for main entree [O] small [C] food general [S] bad
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good . [A] [S] [O] [C]	[A] salmon [S] bad [O] wasnt impressed [C] food quality [SSEP] [A] chicken [S] good [O] good [C] food quality [SSEP] [A] servings for main entree [S] bad [O] small [C] food general
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good . [O] [A] [C] [S]	[O] wasnt impressed [A] salmon [C] food quality [S] bad [SSEP] [O] good [A] chicken [C] food quality [S] good [SSEP] [O] small [A] servings for main entree [C] food general [S] bad
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good . [O] [A] [S] [C]	[O] wasnt impressed [A] salmon [S] bad [C] food quality [SSEP] [O] good [A] chicken [S] good [C] food quality [SSEP] [O] small [A] servings for main entree [S] bad [C] food general
+cute and decorative . [A] [O] [S] [C]	[A] it [O] cute [S] good [C] ambience general [SSEP] [A] it [O] decorative [S] good [C] ambience general
+cute and decorative . [A] [O] [C] [S]	[A] it [O] cute [C] ambience general [S] good [SSEP] [A] it [O] decorative [C] ambience general [S] good
+cute and decorative . [A] [S] [O] [C]	[A] it [S] good [O] cute [C] ambience general [SSEP] [A] it [S] good [O] decorative [C] ambience general
+cute and decorative . [O] [A] [C] [S]	[O] cute [A] it [C] ambience general [S] good [SSEP] [O] decorative [A] it [C] ambience general [S] good
+cute and decorative . [O] [A] [S] [C]	[O] cute [A] it [S] good [C] ambience general [SSEP] [O] decorative [A] it [S] good [C] ambience general
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while . [A] [O] [S] [C]	[A] spot [O] excellent [S] good [C] restaurant miscellaneous
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while . [A] [O] [C] [S]	[A] spot [O] excellent [C] restaurant miscellaneous [S] good
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while . [A] [S] [O] [C]	[A] spot [S] good [O] excellent [C] restaurant miscellaneous
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while . [O] [A] [C] [S]	[O] excellent [A] spot [C] restaurant miscellaneous [S] good
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while . [O] [A] [S] [C]	[O] excellent [A] spot [S] good [C] restaurant miscellaneous
+what a great place ! [A] [O] [S] [C]	[A] place [O] great [S] good [C] restaurant general
+what a great place ! [A] [O] [C] [S]	[A] place [O] great [C] restaurant general [S] good
+what a great place ! [A] [S] [O] [C]	[A] place [S] good [O] great [C] restaurant general
+what a great place ! [O] [A] [C] [S]	[O] great [A] place [C] restaurant general [S] good
+what a great place ! [O] [A] [S] [C]	[O] great [A] place [S] good [C] restaurant general
+not the typical nyc gimmick theme restaurant . [A] [O] [S] [C]	[A] restaurant [O] not the typical [S] good [C] ambience general
+not the typical nyc gimmick theme restaurant . [A] [O] [C] [S]	[A] restaurant [O] not the typical [C] ambience general [S] good
+not the typical nyc gimmick theme restaurant . [A] [S] [O] [C]	[A] restaurant [S] good [O] not the typical [C] ambience general
+not the typical nyc gimmick theme restaurant . [O] [A] [C] [S]	[O] not the typical [A] restaurant [C] ambience general [S] good
+not the typical nyc gimmick theme restaurant . [O] [A] [S] [C]	[O] not the typical [A] restaurant [S] good [C] ambience general
+service was very prompt but slightly rushed . [A] [O] [S] [C]	[A] service [O] prompt [S] good [C] service general [SSEP] [A] service [O] rushed [S] good [C] service general
+service was very prompt but slightly rushed . [A] [O] [C] [S]	[A] service [O] prompt [C] service general [S] good [SSEP] [A] service [O] rushed [C] service general [S] good
+service was very prompt but slightly rushed . [A] [S] [O] [C]	[A] service [S] good [O] prompt [C] service general [SSEP] [A] service [S] good [O] rushed [C] service general
+service was very prompt but slightly rushed . [O] [A] [C] [S]	[O] prompt [A] service [C] service general [S] good [SSEP] [O] rushed [A] service [C] service general [S] good
+service was very prompt but slightly rushed . [O] [A] [S] [C]	[O] prompt [A] service [S] good [C] service general [SSEP] [O] rushed [A] service [S] good [C] service general
+i really liked this place . [A] [O] [S] [C]	[A] place [O] liked [S] good [C] restaurant general
+i really liked this place . [A] [O] [C] [S]	[A] place [O] liked [C] restaurant general [S] good
+i really liked this place . [A] [S] [O] [C]	[A] place [S] good [O] liked [C] restaurant general
+i really liked this place . [O] [A] [C] [S]	[O] liked [A] place [C] restaurant general [S] good
+i really liked this place . [O] [A] [S] [C]	[O] liked [A] place [S] good [C] restaurant general
+everything i had was good , and i ' m a eater . [A] [O] [S] [C]	[A] it [O] good [S] good [C] food quality
+everything i had was good , and i ' m a eater . [A] [O] [C] [S]	[A] it [O] good [C] food quality [S] good
+everything i had was good , and i ' m a eater . [A] [S] [O] [C]	[A] it [S] good [O] good [C] food quality
+everything i had was good , and i ' m a eater . [O] [A] [C] [S]	[O] good [A] it [C] food quality [S] good
+everything i had was good , and i ' m a eater . [O] [A] [S] [C]	[O] good [A] it [S] good [C] food quality
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) . [A] [O] [S] [C]	[A] rice dishes [O] recommend [S] good [C] food quality [SSEP] [A] congee ( rice porridge ) [O] recommend [S] good [C] food quality
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) . [A] [O] [C] [S]	[A] rice dishes [O] recommend [C] food quality [S] good [SSEP] [A] congee ( rice porridge ) [O] recommend [C] food quality [S] good
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) . [A] [S] [O] [C]	[A] rice dishes [S] good [O] recommend [C] food quality [SSEP] [A] congee ( rice porridge ) [S] good [O] recommend [C] food quality
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) . [O] [A] [C] [S]	[O] recommend [A] rice dishes [C] food quality [S] good [SSEP] [O] recommend [A] congee ( rice porridge ) [C] food quality [S] good
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) . [O] [A] [S] [C]	[O] recommend [A] rice dishes [S] good [C] food quality [SSEP] [O] recommend [A] congee ( rice porridge ) [S] good [C] food quality
+i recently tried suan and i thought that it was great . [A] [O] [S] [C]	[A] suan [O] great [S] good [C] restaurant general
+i recently tried suan and i thought that it was great . [A] [O] [C] [S]	[A] suan [O] great [C] restaurant general [S] good
+i recently tried suan and i thought that it was great . [A] [S] [O] [C]	[A] suan [S] good [O] great [C] restaurant general
+i recently tried suan and i thought that it was great . [O] [A] [C] [S]	[O] great [A] suan [C] restaurant general [S] good
+i recently tried suan and i thought that it was great . [O] [A] [S] [C]	[O] great [A] suan [S] good [C] restaurant general
+have been several times and it never dissapoints . [A] [O] [S] [C]	[A] it [O] never dissapoints [S] good [C] restaurant general
+have been several times and it never dissapoints . [A] [O] [C] [S]	[A] it [O] never dissapoints [C] restaurant general [S] good
+have been several times and it never dissapoints . [A] [S] [O] [C]	[A] it [S] good [O] never dissapoints [C] restaurant general
+have been several times and it never dissapoints . [O] [A] [C] [S]	[O] never dissapoints [A] it [C] restaurant general [S] good
+have been several times and it never dissapoints . [O] [A] [S] [C]	[O] never dissapoints [A] it [S] good [C] restaurant general
+this place is a great bargain . [A] [O] [S] [C]	[A] place [O] great bargain [S] good [C] restaurant prices
+this place is a great bargain . [A] [O] [C] [S]	[A] place [O] great bargain [C] restaurant prices [S] good
+this place is a great bargain . [A] [S] [O] [C]	[A] place [S] good [O] great bargain [C] restaurant prices
+this place is a great bargain . [O] [A] [C] [S]	[O] great bargain [A] place [C] restaurant prices [S] good
+this place is a great bargain . [O] [A] [S] [C]	[O] great bargain [A] place [S] good [C] restaurant prices
+people are always friendly . [A] [O] [S] [C]	[A] people [O] friendly [S] good [C] service general
+people are always friendly . [A] [O] [C] [S]	[A] people [O] friendly [C] service general [S] good
+people are always friendly . [A] [S] [O] [C]	[A] people [S] good [O] friendly [C] service general
+people are always friendly . [O] [A] [C] [S]	[O] friendly [A] people [C] service general [S] good
+people are always friendly . [O] [A] [S] [C]	[O] friendly [A] people [S] good [C] service general
+the best pad thai i ' ve ever had . [A] [O] [S] [C]	[A] pad thai [O] best [S] good [C] food quality
+the best pad thai i ' ve ever had . [A] [O] [C] [S]	[A] pad thai [O] best [C] food quality [S] good
+the best pad thai i ' ve ever had . [A] [S] [O] [C]	[A] pad thai [S] good [O] best [C] food quality
+the best pad thai i ' ve ever had . [O] [A] [C] [S]	[O] best [A] pad thai [C] food quality [S] good
+the best pad thai i ' ve ever had . [O] [A] [S] [C]	[O] best [A] pad thai [S] good [C] food quality
+would n ' t recomend it for dinner ! [A] [O] [S] [C]	[A] it [O] n ' t recomend [S] bad [C] restaurant general
+would n ' t recomend it for dinner ! [A] [O] [C] [S]	[A] it [O] n ' t recomend [C] restaurant general [S] bad
+would n ' t recomend it for dinner ! [A] [S] [O] [C]	[A] it [S] bad [O] n ' t recomend [C] restaurant general
+would n ' t recomend it for dinner ! [O] [A] [C] [S]	[O] n ' t recomend [A] it [C] restaurant general [S] bad
+would n ' t recomend it for dinner ! [O] [A] [S] [C]	[O] n ' t recomend [A] it [S] bad [C] restaurant general
+ask for usha , the nicest bartender in manhattan . [A] [O] [S] [C]	[A] usha [O] nicest [S] good [C] service general
+ask for usha , the nicest bartender in manhattan . [A] [O] [C] [S]	[A] usha [O] nicest [C] service general [S] good
+ask for usha , the nicest bartender in manhattan . [A] [S] [O] [C]	[A] usha [S] good [O] nicest [C] service general
+ask for usha , the nicest bartender in manhattan . [O] [A] [C] [S]	[O] nicest [A] usha [C] service general [S] good
+ask for usha , the nicest bartender in manhattan . [O] [A] [S] [C]	[O] nicest [A] usha [S] good [C] service general
+the food ' s as good as ever . [A] [O] [S] [C]	[A] food [O] good [S] good [C] food quality
+the food ' s as good as ever . [A] [O] [C] [S]	[A] food [O] good [C] food quality [S] good
+the food ' s as good as ever . [A] [S] [O] [C]	[A] food [S] good [O] good [C] food quality
+the food ' s as good as ever . [O] [A] [C] [S]	[O] good [A] food [C] food quality [S] good
+the food ' s as good as ever . [O] [A] [S] [C]	[O] good [A] food [S] good [C] food quality
+best drumsticks over rice and sour spicy soup in town ! [A] [O] [S] [C]	[A] drumsticks over rice [O] best [S] good [C] food quality [SSEP] [A] sour spicy soup [O] best [S] good [C] food quality
+best drumsticks over rice and sour spicy soup in town ! [A] [O] [C] [S]	[A] drumsticks over rice [O] best [C] food quality [S] good [SSEP] [A] sour spicy soup [O] best [C] food quality [S] good
+best drumsticks over rice and sour spicy soup in town ! [A] [S] [O] [C]	[A] drumsticks over rice [S] good [O] best [C] food quality [SSEP] [A] sour spicy soup [S] good [O] best [C] food quality
+best drumsticks over rice and sour spicy soup in town ! [O] [A] [C] [S]	[O] best [A] drumsticks over rice [C] food quality [S] good [SSEP] [O] best [A] sour spicy soup [C] food quality [S] good
+best drumsticks over rice and sour spicy soup in town ! [O] [A] [S] [C]	[O] best [A] drumsticks over rice [S] good [C] food quality [SSEP] [O] best [A] sour spicy soup [S] good [C] food quality
+for those that go once and do n ' t enjoy it , all i can say is that they just do n ' t get it . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant miscellaneous
+for those that go once and do n ' t enjoy it , all i can say is that they just do n ' t get it . [A] [O] [C] [S]	[A] it [O] null [C] restaurant miscellaneous [S] good
+for those that go once and do n ' t enjoy it , all i can say is that they just do n ' t get it . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant miscellaneous
+for those that go once and do n ' t enjoy it , all i can say is that they just do n ' t get it . [O] [A] [C] [S]	[O] null [A] it [C] restaurant miscellaneous [S] good
+for those that go once and do n ' t enjoy it , all i can say is that they just do n ' t get it . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant miscellaneous
+not worth it . [A] [O] [S] [C]	[A] it [O] not worth [S] bad [C] food prices
+not worth it . [A] [O] [C] [S]	[A] it [O] not worth [C] food prices [S] bad
+not worth it . [A] [S] [O] [C]	[A] it [S] bad [O] not worth [C] food prices
+not worth it . [O] [A] [C] [S]	[O] not worth [A] it [C] food prices [S] bad
+not worth it . [O] [A] [S] [C]	[O] not worth [A] it [S] bad [C] food prices
+this dish is my favorite and i always get it when i go there and never get tired of it . [A] [O] [S] [C]	[A] dish [O] favorite [S] good [C] food quality
+this dish is my favorite and i always get it when i go there and never get tired of it . [A] [O] [C] [S]	[A] dish [O] favorite [C] food quality [S] good
+this dish is my favorite and i always get it when i go there and never get tired of it . [A] [S] [O] [C]	[A] dish [S] good [O] favorite [C] food quality
+this dish is my favorite and i always get it when i go there and never get tired of it . [O] [A] [C] [S]	[O] favorite [A] dish [C] food quality [S] good
+this dish is my favorite and i always get it when i go there and never get tired of it . [O] [A] [S] [C]	[O] favorite [A] dish [S] good [C] food quality
+big wong is a great place to eat and fill your stomach . [A] [O] [S] [C]	[A] big wong [O] great [S] good [C] restaurant general
+big wong is a great place to eat and fill your stomach . [A] [O] [C] [S]	[A] big wong [O] great [C] restaurant general [S] good
+big wong is a great place to eat and fill your stomach . [A] [S] [O] [C]	[A] big wong [S] good [O] great [C] restaurant general
+big wong is a great place to eat and fill your stomach . [O] [A] [C] [S]	[O] great [A] big wong [C] restaurant general [S] good
+big wong is a great place to eat and fill your stomach . [O] [A] [S] [C]	[O] great [A] big wong [S] good [C] restaurant general
+the food is okay and the prices here are mediocre . [A] [O] [S] [C]	[A] food [O] okay [S] ok [C] food quality [SSEP] [A] it [O] mediocre [S] ok [C] restaurant prices
+the food is okay and the prices here are mediocre . [A] [O] [C] [S]	[A] food [O] okay [C] food quality [S] ok [SSEP] [A] it [O] mediocre [C] restaurant prices [S] ok
+the food is okay and the prices here are mediocre . [A] [S] [O] [C]	[A] food [S] ok [O] okay [C] food quality [SSEP] [A] it [S] ok [O] mediocre [C] restaurant prices
+the food is okay and the prices here are mediocre . [O] [A] [C] [S]	[O] okay [A] food [C] food quality [S] ok [SSEP] [O] mediocre [A] it [C] restaurant prices [S] ok
+the food is okay and the prices here are mediocre . [O] [A] [S] [C]	[O] okay [A] food [S] ok [C] food quality [SSEP] [O] mediocre [A] it [S] ok [C] restaurant prices
+me and my girls will definitely go back . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant general
+me and my girls will definitely go back . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] good
+me and my girls will definitely go back . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant general
+me and my girls will definitely go back . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] good
+me and my girls will definitely go back . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant general
+the food is great . [A] [O] [S] [C]	[A] food [O] great [S] good [C] food quality
+the food is great . [A] [O] [C] [S]	[A] food [O] great [C] food quality [S] good
+the food is great . [A] [S] [O] [C]	[A] food [S] good [O] great [C] food quality
+the food is great . [O] [A] [C] [S]	[O] great [A] food [C] food quality [S] good
+the food is great . [O] [A] [S] [C]	[O] great [A] food [S] good [C] food quality
+la rosa waltzes in , and i think they are doing it the best . [A] [O] [S] [C]	[A] la rosa [O] best [S] good [C] food quality
+la rosa waltzes in , and i think they are doing it the best . [A] [O] [C] [S]	[A] la rosa [O] best [C] food quality [S] good
+la rosa waltzes in , and i think they are doing it the best . [A] [S] [O] [C]	[A] la rosa [S] good [O] best [C] food quality
+la rosa waltzes in , and i think they are doing it the best . [O] [A] [C] [S]	[O] best [A] la rosa [C] food quality [S] good
+la rosa waltzes in , and i think they are doing it the best . [O] [A] [S] [C]	[O] best [A] la rosa [S] good [C] food quality
+interesting selection , good wines , service fine , fun decor . [A] [O] [S] [C]	[A] wines [O] good [S] good [C] drinks quality [SSEP] [A] service [O] fine [S] good [C] service general [SSEP] [A] decor [O] fun [S] good [C] ambience general [SSEP] [A] selection [O] interesting [S] good [C] food style_options
+interesting selection , good wines , service fine , fun decor . [A] [O] [C] [S]	[A] wines [O] good [C] drinks quality [S] good [SSEP] [A] service [O] fine [C] service general [S] good [SSEP] [A] decor [O] fun [C] ambience general [S] good [SSEP] [A] selection [O] interesting [C] food style_options [S] good
+interesting selection , good wines , service fine , fun decor . [A] [S] [O] [C]	[A] wines [S] good [O] good [C] drinks quality [SSEP] [A] service [S] good [O] fine [C] service general [SSEP] [A] decor [S] good [O] fun [C] ambience general [SSEP] [A] selection [S] good [O] interesting [C] food style_options
+interesting selection , good wines , service fine , fun decor . [O] [A] [C] [S]	[O] good [A] wines [C] drinks quality [S] good [SSEP] [O] fine [A] service [C] service general [S] good [SSEP] [O] fun [A] decor [C] ambience general [S] good [SSEP] [O] interesting [A] selection [C] food style_options [S] good
+interesting selection , good wines , service fine , fun decor . [O] [A] [S] [C]	[O] good [A] wines [S] good [C] drinks quality [SSEP] [O] fine [A] service [S] good [C] service general [SSEP] [O] fun [A] decor [S] good [C] ambience general [SSEP] [O] interesting [A] selection [S] good [C] food style_options
+the food here was mediocre at best . [A] [O] [S] [C]	[A] food [O] mediocre [S] bad [C] food quality
+the food here was mediocre at best . [A] [O] [C] [S]	[A] food [O] mediocre [C] food quality [S] bad
+the food here was mediocre at best . [A] [S] [O] [C]	[A] food [S] bad [O] mediocre [C] food quality
+the food here was mediocre at best . [O] [A] [C] [S]	[O] mediocre [A] food [C] food quality [S] bad
+the food here was mediocre at best . [O] [A] [S] [C]	[O] mediocre [A] food [S] bad [C] food quality
+the cypriot restaurant has a lot going for it . [A] [O] [S] [C]	[A] cypriot restaurant [O] null [S] good [C] restaurant general
+the cypriot restaurant has a lot going for it . [A] [O] [C] [S]	[A] cypriot restaurant [O] null [C] restaurant general [S] good
+the cypriot restaurant has a lot going for it . [A] [S] [O] [C]	[A] cypriot restaurant [S] good [O] null [C] restaurant general
+the cypriot restaurant has a lot going for it . [O] [A] [C] [S]	[O] null [A] cypriot restaurant [C] restaurant general [S] good
+the cypriot restaurant has a lot going for it . [O] [A] [S] [C]	[O] null [A] cypriot restaurant [S] good [C] restaurant general
+will comeback for sure , wish they have it here in la . . [A] [O] [S] [C]	[A] it [O] null [S] good [C] restaurant general
+will comeback for sure , wish they have it here in la . . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] good
+will comeback for sure , wish they have it here in la . . [A] [S] [O] [C]	[A] it [S] good [O] null [C] restaurant general
+will comeback for sure , wish they have it here in la . . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] good
+will comeback for sure , wish they have it here in la . . [O] [A] [S] [C]	[O] null [A] it [S] good [C] restaurant general
+the space kind of feels like an alice in wonderland setting , without it trying to be that . [A] [O] [S] [C]	[A] space [O] null [S] bad [C] ambience general
+the space kind of feels like an alice in wonderland setting , without it trying to be that . [A] [O] [C] [S]	[A] space [O] null [C] ambience general [S] bad
+the space kind of feels like an alice in wonderland setting , without it trying to be that . [A] [S] [O] [C]	[A] space [S] bad [O] null [C] ambience general
+the space kind of feels like an alice in wonderland setting , without it trying to be that . [O] [A] [C] [S]	[O] null [A] space [C] ambience general [S] bad
+the space kind of feels like an alice in wonderland setting , without it trying to be that . [O] [A] [S] [C]	[O] null [A] space [S] bad [C] ambience general
+i paid just about $ 60 for a good meal , though : ) [A] [O] [S] [C]	[A] meal [O] good [S] good [C] food quality [SSEP] [A] meal [O] null [S] good [C] food prices
+i paid just about $ 60 for a good meal , though : ) [A] [O] [C] [S]	[A] meal [O] good [C] food quality [S] good [SSEP] [A] meal [O] null [C] food prices [S] good
+i paid just about $ 60 for a good meal , though : ) [A] [S] [O] [C]	[A] meal [S] good [O] good [C] food quality [SSEP] [A] meal [S] good [O] null [C] food prices
+i paid just about $ 60 for a good meal , though : ) [O] [A] [C] [S]	[O] good [A] meal [C] food quality [S] good [SSEP] [O] null [A] meal [C] food prices [S] good
+i paid just about $ 60 for a good meal , though : ) [O] [A] [S] [C]	[O] good [A] meal [S] good [C] food quality [SSEP] [O] null [A] meal [S] good [C] food prices
+love it . [A] [O] [S] [C]	[A] it [O] love [S] good [C] restaurant general
+love it . [A] [O] [C] [S]	[A] it [O] love [C] restaurant general [S] good
+love it . [A] [S] [O] [C]	[A] it [S] good [O] love [C] restaurant general
+love it . [O] [A] [C] [S]	[O] love [A] it [C] restaurant general [S] good
+love it . [O] [A] [S] [C]	[O] love [A] it [S] good [C] restaurant general
+the place is a bit hidden away , but once you get there , it ' s all worth it . [A] [O] [S] [C]	[A] place [O] hidden away [S] good [C] location general [SSEP] [A] place [O] worth [S] good [C] location general
+the place is a bit hidden away , but once you get there , it ' s all worth it . [A] [O] [C] [S]	[A] place [O] hidden away [C] location general [S] good [SSEP] [A] place [O] worth [C] location general [S] good
+the place is a bit hidden away , but once you get there , it ' s all worth it . [A] [S] [O] [C]	[A] place [S] good [O] hidden away [C] location general [SSEP] [A] place [S] good [O] worth [C] location general
+the place is a bit hidden away , but once you get there , it ' s all worth it . [O] [A] [C] [S]	[O] hidden away [A] place [C] location general [S] good [SSEP] [O] worth [A] place [C] location general [S] good
+the place is a bit hidden away , but once you get there , it ' s all worth it . [O] [A] [S] [C]	[O] hidden away [A] place [S] good [C] location general [SSEP] [O] worth [A] place [S] good [C] location general
+i love their chicken pasta cant remember the name but is sooo good [A] [O] [S] [C]	[A] chicken pasta [O] love [S] good [C] food quality [SSEP] [A] chicken pasta [O] good [S] good [C] food quality
+i love their chicken pasta cant remember the name but is sooo good [A] [O] [C] [S]	[A] chicken pasta [O] love [C] food quality [S] good [SSEP] [A] chicken pasta [O] good [C] food quality [S] good
+i love their chicken pasta cant remember the name but is sooo good [A] [S] [O] [C]	[A] chicken pasta [S] good [O] love [C] food quality [SSEP] [A] chicken pasta [S] good [O] good [C] food quality
+i love their chicken pasta cant remember the name but is sooo good [O] [A] [C] [S]	[O] love [A] chicken pasta [C] food quality [S] good [SSEP] [O] good [A] chicken pasta [C] food quality [S] good
+i love their chicken pasta cant remember the name but is sooo good [O] [A] [S] [C]	[O] love [A] chicken pasta [S] good [C] food quality [SSEP] [O] good [A] chicken pasta [S] good [C] food quality
+way below average [A] [O] [S] [C]	[A] it [O] below average [S] bad [C] restaurant general
+way below average [A] [O] [C] [S]	[A] it [O] below average [C] restaurant general [S] bad
+way below average [A] [S] [O] [C]	[A] it [S] bad [O] below average [C] restaurant general
+way below average [O] [A] [C] [S]	[O] below average [A] it [C] restaurant general [S] bad
+way below average [O] [A] [S] [C]	[O] below average [A] it [S] bad [C] restaurant general
+i think the pizza is so overrated and was under cooked . [A] [O] [S] [C]	[A] pizza [O] overrated [S] bad [C] food quality [SSEP] [A] pizza [O] under cooked [S] bad [C] food quality
+i think the pizza is so overrated and was under cooked . [A] [O] [C] [S]	[A] pizza [O] overrated [C] food quality [S] bad [SSEP] [A] pizza [O] under cooked [C] food quality [S] bad
+i think the pizza is so overrated and was under cooked . [A] [S] [O] [C]	[A] pizza [S] bad [O] overrated [C] food quality [SSEP] [A] pizza [S] bad [O] under cooked [C] food quality
+i think the pizza is so overrated and was under cooked . [O] [A] [C] [S]	[O] overrated [A] pizza [C] food quality [S] bad [SSEP] [O] under cooked [A] pizza [C] food quality [S] bad
+i think the pizza is so overrated and was under cooked . [O] [A] [S] [C]	[O] overrated [A] pizza [S] bad [C] food quality [SSEP] [O] under cooked [A] pizza [S] bad [C] food quality
+i love this place [A] [O] [S] [C]	[A] place [O] love [S] good [C] restaurant general
+i love this place [A] [O] [C] [S]	[A] place [O] love [C] restaurant general [S] good
+i love this place [A] [S] [O] [C]	[A] place [S] good [O] love [C] restaurant general
+i love this place [O] [A] [C] [S]	[O] love [A] place [C] restaurant general [S] good
+i love this place [O] [A] [S] [C]	[O] love [A] place [S] good [C] restaurant general
+the service was quick and friendly . [A] [O] [S] [C]	[A] service [O] quick [S] good [C] service general [SSEP] [A] service [O] friendly [S] good [C] service general
+the service was quick and friendly . [A] [O] [C] [S]	[A] service [O] quick [C] service general [S] good [SSEP] [A] service [O] friendly [C] service general [S] good
+the service was quick and friendly . [A] [S] [O] [C]	[A] service [S] good [O] quick [C] service general [SSEP] [A] service [S] good [O] friendly [C] service general
+the service was quick and friendly . [O] [A] [C] [S]	[O] quick [A] service [C] service general [S] good [SSEP] [O] friendly [A] service [C] service general [S] good
+the service was quick and friendly . [O] [A] [S] [C]	[O] quick [A] service [S] good [C] service general [SSEP] [O] friendly [A] service [S] good [C] service general
+i thought the restaurant was nice and clean . [A] [O] [S] [C]	[A] restaurant [O] nice [S] good [C] restaurant general [SSEP] [A] restaurant [O] clean [S] good [C] ambience general
+i thought the restaurant was nice and clean . [A] [O] [C] [S]	[A] restaurant [O] nice [C] restaurant general [S] good [SSEP] [A] restaurant [O] clean [C] ambience general [S] good
+i thought the restaurant was nice and clean . [A] [S] [O] [C]	[A] restaurant [S] good [O] nice [C] restaurant general [SSEP] [A] restaurant [S] good [O] clean [C] ambience general
+i thought the restaurant was nice and clean . [O] [A] [C] [S]	[O] nice [A] restaurant [C] restaurant general [S] good [SSEP] [O] clean [A] restaurant [C] ambience general [S] good
+i thought the restaurant was nice and clean . [O] [A] [S] [C]	[O] nice [A] restaurant [S] good [C] restaurant general [SSEP] [O] clean [A] restaurant [S] good [C] ambience general
+chicken teriyaki had tomato or pimentos on top ? ? [A] [O] [S] [C]	[A] chicken teriyaki [O] null [S] bad [C] food style_options
+chicken teriyaki had tomato or pimentos on top ? ? [A] [O] [C] [S]	[A] chicken teriyaki [O] null [C] food style_options [S] bad
+chicken teriyaki had tomato or pimentos on top ? ? [A] [S] [O] [C]	[A] chicken teriyaki [S] bad [O] null [C] food style_options
+chicken teriyaki had tomato or pimentos on top ? ? [O] [A] [C] [S]	[O] null [A] chicken teriyaki [C] food style_options [S] bad
+chicken teriyaki had tomato or pimentos on top ? ? [O] [A] [S] [C]	[O] null [A] chicken teriyaki [S] bad [C] food style_options
+the waitress was not attentive at all . [A] [O] [S] [C]	[A] waitress [O] not attentive [S] bad [C] service general
+the waitress was not attentive at all . [A] [O] [C] [S]	[A] waitress [O] not attentive [C] service general [S] bad
+the waitress was not attentive at all . [A] [S] [O] [C]	[A] waitress [S] bad [O] not attentive [C] service general
+the waitress was not attentive at all . [O] [A] [C] [S]	[O] not attentive [A] waitress [C] service general [S] bad
+the waitress was not attentive at all . [O] [A] [S] [C]	[O] not attentive [A] waitress [S] bad [C] service general
+just go to yamato and order the red dragon roll . [A] [O] [S] [C]	[A] yamato [O] null [S] good [C] restaurant general [SSEP] [A] red dragon roll [O] null [S] good [C] food quality
+just go to yamato and order the red dragon roll . [A] [O] [C] [S]	[A] yamato [O] null [C] restaurant general [S] good [SSEP] [A] red dragon roll [O] null [C] food quality [S] good
+just go to yamato and order the red dragon roll . [A] [S] [O] [C]	[A] yamato [S] good [O] null [C] restaurant general [SSEP] [A] red dragon roll [S] good [O] null [C] food quality
+just go to yamato and order the red dragon roll . [O] [A] [C] [S]	[O] null [A] yamato [C] restaurant general [S] good [SSEP] [O] null [A] red dragon roll [C] food quality [S] good
+just go to yamato and order the red dragon roll . [O] [A] [S] [C]	[O] null [A] yamato [S] good [C] restaurant general [SSEP] [O] null [A] red dragon roll [S] good [C] food quality
+favorite sushi in nyc [A] [O] [S] [C]	[A] sushi [O] favorite [S] good [C] food quality
+favorite sushi in nyc [A] [O] [C] [S]	[A] sushi [O] favorite [C] food quality [S] good
+favorite sushi in nyc [A] [S] [O] [C]	[A] sushi [S] good [O] favorite [C] food quality
+favorite sushi in nyc [O] [A] [C] [S]	[O] favorite [A] sushi [C] food quality [S] good
+favorite sushi in nyc [O] [A] [S] [C]	[O] favorite [A] sushi [S] good [C] food quality
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [A] [O] [S] [C]	[A] rolls [O] creative [S] good [C] food style_options [SSEP] [A] japanese food [O] inventive [S] good [C] food style_options [SSEP] [A] japanese food [O] delicious [S] good [C] food quality
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [A] [O] [C] [S]	[A] rolls [O] creative [C] food style_options [S] good [SSEP] [A] japanese food [O] inventive [C] food style_options [S] good [SSEP] [A] japanese food [O] delicious [C] food quality [S] good
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [A] [S] [O] [C]	[A] rolls [S] good [O] creative [C] food style_options [SSEP] [A] japanese food [S] good [O] inventive [C] food style_options [SSEP] [A] japanese food [S] good [O] delicious [C] food quality
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [O] [A] [C] [S]	[O] creative [A] rolls [C] food style_options [S] good [SSEP] [O] inventive [A] japanese food [C] food style_options [S] good [SSEP] [O] delicious [A] japanese food [C] food quality [S] good
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [O] [A] [S] [C]	[O] creative [A] rolls [S] good [C] food style_options [SSEP] [O] inventive [A] japanese food [S] good [C] food style_options [SSEP] [O] delicious [A] japanese food [S] good [C] food quality
+my quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor . [A] [O] [S] [C]	[A] quesadilla [O] null [S] bad [C] food quality [SSEP] [A] quesadilla [O] null [S] bad [C] food style_options
+my quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor . [A] [O] [C] [S]	[A] quesadilla [O] null [C] food quality [S] bad [SSEP] [A] quesadilla [O] null [C] food style_options [S] bad
+my quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor . [A] [S] [O] [C]	[A] quesadilla [S] bad [O] null [C] food quality [SSEP] [A] quesadilla [S] bad [O] null [C] food style_options
+my quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor . [O] [A] [C] [S]	[O] null [A] quesadilla [C] food quality [S] bad [SSEP] [O] null [A] quesadilla [C] food style_options [S] bad
+my quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor . [O] [A] [S] [C]	[O] null [A] quesadilla [S] bad [C] food quality [SSEP] [O] null [A] quesadilla [S] bad [C] food style_options
+save your money and your time and go somewhere else . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] restaurant general
+save your money and your time and go somewhere else . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] bad
+save your money and your time and go somewhere else . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] restaurant general
+save your money and your time and go somewhere else . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] bad
+save your money and your time and go somewhere else . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] restaurant general
+the spinach is fresh , definately not frozen . . . [A] [O] [S] [C]	[A] spinach [O] fresh [S] good [C] food quality
+the spinach is fresh , definately not frozen . . . [A] [O] [C] [S]	[A] spinach [O] fresh [C] food quality [S] good
+the spinach is fresh , definately not frozen . . . [A] [S] [O] [C]	[A] spinach [S] good [O] fresh [C] food quality
+the spinach is fresh , definately not frozen . . . [O] [A] [C] [S]	[O] fresh [A] spinach [C] food quality [S] good
+the spinach is fresh , definately not frozen . . . [O] [A] [S] [C]	[O] fresh [A] spinach [S] good [C] food quality
+decor needs to be upgraded but the food is amazing ! [A] [O] [S] [C]	[A] decor [O] upgraded [S] bad [C] ambience general [SSEP] [A] food [O] amazing [S] good [C] food quality
+decor needs to be upgraded but the food is amazing ! [A] [O] [C] [S]	[A] decor [O] upgraded [C] ambience general [S] bad [SSEP] [A] food [O] amazing [C] food quality [S] good
+decor needs to be upgraded but the food is amazing ! [A] [S] [O] [C]	[A] decor [S] bad [O] upgraded [C] ambience general [SSEP] [A] food [S] good [O] amazing [C] food quality
+decor needs to be upgraded but the food is amazing ! [O] [A] [C] [S]	[O] upgraded [A] decor [C] ambience general [S] bad [SSEP] [O] amazing [A] food [C] food quality [S] good
+decor needs to be upgraded but the food is amazing ! [O] [A] [S] [C]	[O] upgraded [A] decor [S] bad [C] ambience general [SSEP] [O] amazing [A] food [S] good [C] food quality
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests . [A] [O] [S] [C]	[A] water ' s edge [O] highest compliments [S] good [C] restaurant miscellaneous
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests . [A] [O] [C] [S]	[A] water ' s edge [O] highest compliments [C] restaurant miscellaneous [S] good
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests . [A] [S] [O] [C]	[A] water ' s edge [S] good [O] highest compliments [C] restaurant miscellaneous
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests . [O] [A] [C] [S]	[O] highest compliments [A] water ' s edge [C] restaurant miscellaneous [S] good
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests . [O] [A] [S] [C]	[O] highest compliments [A] water ' s edge [S] good [C] restaurant miscellaneous
+the high prices you ' re going to pay is for the view not for the food . [A] [O] [S] [C]	[A] view [O] high prices [S] ok [C] location general [SSEP] [A] food [O] high prices [S] bad [C] food quality [SSEP] [A] it [O] high prices [S] bad [C] restaurant prices
+the high prices you ' re going to pay is for the view not for the food . [A] [O] [C] [S]	[A] view [O] high prices [C] location general [S] ok [SSEP] [A] food [O] high prices [C] food quality [S] bad [SSEP] [A] it [O] high prices [C] restaurant prices [S] bad
+the high prices you ' re going to pay is for the view not for the food . [A] [S] [O] [C]	[A] view [S] ok [O] high prices [C] location general [SSEP] [A] food [S] bad [O] high prices [C] food quality [SSEP] [A] it [S] bad [O] high prices [C] restaurant prices
+the high prices you ' re going to pay is for the view not for the food . [O] [A] [C] [S]	[O] high prices [A] view [C] location general [S] ok [SSEP] [O] high prices [A] food [C] food quality [S] bad [SSEP] [O] high prices [A] it [C] restaurant prices [S] bad
+the high prices you ' re going to pay is for the view not for the food . [O] [A] [S] [C]	[O] high prices [A] view [S] ok [C] location general [SSEP] [O] high prices [A] food [S] bad [C] food quality [SSEP] [O] high prices [A] it [S] bad [C] restaurant prices
+not what i would expect for the price and prestige of this location . [A] [O] [S] [C]	[A] location [O] null [S] ok [C] restaurant prices [SSEP] [A] location [O] null [S] ok [C] restaurant miscellaneous [SSEP] [A] it [O] null [S] bad [C] service general
+not what i would expect for the price and prestige of this location . [A] [O] [C] [S]	[A] location [O] null [C] restaurant prices [S] ok [SSEP] [A] location [O] null [C] restaurant miscellaneous [S] ok [SSEP] [A] it [O] null [C] service general [S] bad
+not what i would expect for the price and prestige of this location . [A] [S] [O] [C]	[A] location [S] ok [O] null [C] restaurant prices [SSEP] [A] location [S] ok [O] null [C] restaurant miscellaneous [SSEP] [A] it [S] bad [O] null [C] service general
+not what i would expect for the price and prestige of this location . [O] [A] [C] [S]	[O] null [A] location [C] restaurant prices [S] ok [SSEP] [O] null [A] location [C] restaurant miscellaneous [S] ok [SSEP] [O] null [A] it [C] service general [S] bad
+not what i would expect for the price and prestige of this location . [O] [A] [S] [C]	[O] null [A] location [S] ok [C] restaurant prices [SSEP] [O] null [A] location [S] ok [C] restaurant miscellaneous [SSEP] [O] null [A] it [S] bad [C] service general
+the food was ok and fair nothing to go crazy . [A] [O] [S] [C]	[A] food [O] ok [S] ok [C] food quality [SSEP] [A] food [O] fair [S] ok [C] food quality
+the food was ok and fair nothing to go crazy . [A] [O] [C] [S]	[A] food [O] ok [C] food quality [S] ok [SSEP] [A] food [O] fair [C] food quality [S] ok
+the food was ok and fair nothing to go crazy . [A] [S] [O] [C]	[A] food [S] ok [O] ok [C] food quality [SSEP] [A] food [S] ok [O] fair [C] food quality
+the food was ok and fair nothing to go crazy . [O] [A] [C] [S]	[O] ok [A] food [C] food quality [S] ok [SSEP] [O] fair [A] food [C] food quality [S] ok
+the food was ok and fair nothing to go crazy . [O] [A] [S] [C]	[O] ok [A] food [S] ok [C] food quality [SSEP] [O] fair [A] food [S] ok [C] food quality
+impressed . . . [A] [O] [S] [C]	[A] it [O] impressed [S] good [C] restaurant general
+impressed . . . [A] [O] [C] [S]	[A] it [O] impressed [C] restaurant general [S] good
+impressed . . . [A] [S] [O] [C]	[A] it [S] good [O] impressed [C] restaurant general
+impressed . . . [O] [A] [C] [S]	[O] impressed [A] it [C] restaurant general [S] good
+impressed . . . [O] [A] [S] [C]	[O] impressed [A] it [S] good [C] restaurant general
+subtle food and service [A] [O] [S] [C]	[A] food [O] subtle [S] good [C] food quality [SSEP] [A] service [O] subtle [S] good [C] service general
+subtle food and service [A] [O] [C] [S]	[A] food [O] subtle [C] food quality [S] good [SSEP] [A] service [O] subtle [C] service general [S] good
+subtle food and service [A] [S] [O] [C]	[A] food [S] good [O] subtle [C] food quality [SSEP] [A] service [S] good [O] subtle [C] service general
+subtle food and service [O] [A] [C] [S]	[O] subtle [A] food [C] food quality [S] good [SSEP] [O] subtle [A] service [C] service general [S] good
+subtle food and service [O] [A] [S] [C]	[O] subtle [A] food [S] good [C] food quality [SSEP] [O] subtle [A] service [S] good [C] service general
+food took some time to prepare , all worth waiting for . [A] [O] [S] [C]	[A] food [O] worth [S] good [C] food quality [SSEP] [A] it [O] null [S] ok [C] service general
+food took some time to prepare , all worth waiting for . [A] [O] [C] [S]	[A] food [O] worth [C] food quality [S] good [SSEP] [A] it [O] null [C] service general [S] ok
+food took some time to prepare , all worth waiting for . [A] [S] [O] [C]	[A] food [S] good [O] worth [C] food quality [SSEP] [A] it [S] ok [O] null [C] service general
+food took some time to prepare , all worth waiting for . [O] [A] [C] [S]	[O] worth [A] food [C] food quality [S] good [SSEP] [O] null [A] it [C] service general [S] ok
+food took some time to prepare , all worth waiting for . [O] [A] [S] [C]	[O] worth [A] food [S] good [C] food quality [SSEP] [O] null [A] it [S] ok [C] service general
+great find in the west village ! [A] [O] [S] [C]	[A] it [O] great [S] good [C] restaurant general
+great find in the west village ! [A] [O] [C] [S]	[A] it [O] great [C] restaurant general [S] good
+great find in the west village ! [A] [S] [O] [C]	[A] it [S] good [O] great [C] restaurant general
+great find in the west village ! [O] [A] [C] [S]	[O] great [A] it [C] restaurant general [S] good
+great find in the west village ! [O] [A] [S] [C]	[O] great [A] it [S] good [C] restaurant general
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] service general
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it . [A] [O] [C] [S]	[A] it [O] null [C] service general [S] bad
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] service general
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it . [O] [A] [C] [S]	[O] null [A] it [C] service general [S] bad
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] service general
+amazing food . [A] [O] [S] [C]	[A] food [O] amazing [S] good [C] food quality
+amazing food . [A] [O] [C] [S]	[A] food [O] amazing [C] food quality [S] good
+amazing food . [A] [S] [O] [C]	[A] food [S] good [O] amazing [C] food quality
+amazing food . [O] [A] [C] [S]	[O] amazing [A] food [C] food quality [S] good
+amazing food . [O] [A] [S] [C]	[O] amazing [A] food [S] good [C] food quality
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) . [A] [O] [S] [C]	[A] vegetarian dish [O] null [S] bad [C] food quality [SSEP] [A] vegetarian dish [O] null [S] bad [C] food style_options [SSEP] [A] chef [O] null [S] bad [C] service general
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) . [A] [O] [C] [S]	[A] vegetarian dish [O] null [C] food quality [S] bad [SSEP] [A] vegetarian dish [O] null [C] food style_options [S] bad [SSEP] [A] chef [O] null [C] service general [S] bad
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) . [A] [S] [O] [C]	[A] vegetarian dish [S] bad [O] null [C] food quality [SSEP] [A] vegetarian dish [S] bad [O] null [C] food style_options [SSEP] [A] chef [S] bad [O] null [C] service general
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) . [O] [A] [C] [S]	[O] null [A] vegetarian dish [C] food quality [S] bad [SSEP] [O] null [A] vegetarian dish [C] food style_options [S] bad [SSEP] [O] null [A] chef [C] service general [S] bad
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) . [O] [A] [S] [C]	[O] null [A] vegetarian dish [S] bad [C] food quality [SSEP] [O] null [A] vegetarian dish [S] bad [C] food style_options [SSEP] [O] null [A] chef [S] bad [C] service general
+the only thing that strikes you is the decor ? ( not very pleasant ) . [A] [O] [S] [C]	[A] decor [O] not very pleasant [S] bad [C] ambience general
+the only thing that strikes you is the decor ? ( not very pleasant ) . [A] [O] [C] [S]	[A] decor [O] not very pleasant [C] ambience general [S] bad
+the only thing that strikes you is the decor ? ( not very pleasant ) . [A] [S] [O] [C]	[A] decor [S] bad [O] not very pleasant [C] ambience general
+the only thing that strikes you is the decor ? ( not very pleasant ) . [O] [A] [C] [S]	[O] not very pleasant [A] decor [C] ambience general [S] bad
+the only thing that strikes you is the decor ? ( not very pleasant ) . [O] [A] [S] [C]	[O] not very pleasant [A] decor [S] bad [C] ambience general
+the martinis are amazing and very fairly priced . [A] [O] [S] [C]	[A] martinis [O] amazing [S] good [C] drinks quality [SSEP] [A] martinis [O] fairly priced [S] good [C] drinks prices
+the martinis are amazing and very fairly priced . [A] [O] [C] [S]	[A] martinis [O] amazing [C] drinks quality [S] good [SSEP] [A] martinis [O] fairly priced [C] drinks prices [S] good
+the martinis are amazing and very fairly priced . [A] [S] [O] [C]	[A] martinis [S] good [O] amazing [C] drinks quality [SSEP] [A] martinis [S] good [O] fairly priced [C] drinks prices
+the martinis are amazing and very fairly priced . [O] [A] [C] [S]	[O] amazing [A] martinis [C] drinks quality [S] good [SSEP] [O] fairly priced [A] martinis [C] drinks prices [S] good
+the martinis are amazing and very fairly priced . [O] [A] [S] [C]	[O] amazing [A] martinis [S] good [C] drinks quality [SSEP] [O] fairly priced [A] martinis [S] good [C] drinks prices
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] restaurant general [SSEP] [A] it [O] null [S] bad [C] restaurant prices
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it . [A] [O] [C] [S]	[A] it [O] null [C] restaurant general [S] bad [SSEP] [A] it [O] null [C] restaurant prices [S] bad
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] restaurant general [SSEP] [A] it [S] bad [O] null [C] restaurant prices
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it . [O] [A] [C] [S]	[O] null [A] it [C] restaurant general [S] bad [SSEP] [O] null [A] it [C] restaurant prices [S] bad
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] restaurant general [SSEP] [O] null [A] it [S] bad [C] restaurant prices
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts . [A] [O] [S] [C]	[A] environment [O] upscale [S] ok [C] ambience general [SSEP] [A] it [O] upscale [S] ok [C] restaurant miscellaneous
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts . [A] [O] [C] [S]	[A] environment [O] upscale [C] ambience general [S] ok [SSEP] [A] it [O] upscale [C] restaurant miscellaneous [S] ok
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts . [A] [S] [O] [C]	[A] environment [S] ok [O] upscale [C] ambience general [SSEP] [A] it [S] ok [O] upscale [C] restaurant miscellaneous
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts . [O] [A] [C] [S]	[O] upscale [A] environment [C] ambience general [S] ok [SSEP] [O] upscale [A] it [C] restaurant miscellaneous [S] ok
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts . [O] [A] [S] [C]	[O] upscale [A] environment [S] ok [C] ambience general [SSEP] [O] upscale [A] it [S] ok [C] restaurant miscellaneous
+however , our $ 14 drinks were were horrible ! [A] [O] [S] [C]	[A] drinks [O] horrible [S] bad [C] drinks quality [SSEP] [A] drinks [O] horrible [S] bad [C] drinks prices
+however , our $ 14 drinks were were horrible ! [A] [O] [C] [S]	[A] drinks [O] horrible [C] drinks quality [S] bad [SSEP] [A] drinks [O] horrible [C] drinks prices [S] bad
+however , our $ 14 drinks were were horrible ! [A] [S] [O] [C]	[A] drinks [S] bad [O] horrible [C] drinks quality [SSEP] [A] drinks [S] bad [O] horrible [C] drinks prices
+however , our $ 14 drinks were were horrible ! [O] [A] [C] [S]	[O] horrible [A] drinks [C] drinks quality [S] bad [SSEP] [O] horrible [A] drinks [C] drinks prices [S] bad
+however , our $ 14 drinks were were horrible ! [O] [A] [S] [C]	[O] horrible [A] drinks [S] bad [C] drinks quality [SSEP] [O] horrible [A] drinks [S] bad [C] drinks prices
+once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed ! [A] [O] [S] [C]	[A] it [O] null [S] bad [C] service general
+once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed ! [A] [O] [C] [S]	[A] it [O] null [C] service general [S] bad
+once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed ! [A] [S] [O] [C]	[A] it [S] bad [O] null [C] service general
+once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed ! [O] [A] [C] [S]	[O] null [A] it [C] service general [S] bad
+once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed ! [O] [A] [S] [C]	[O] null [A] it [S] bad [C] service general
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] service general [SSEP] [A] it [O] null [S] bad [C] restaurant prices
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) . [A] [O] [C] [S]	[A] it [O] null [C] service general [S] bad [SSEP] [A] it [O] null [C] restaurant prices [S] bad
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] service general [SSEP] [A] it [S] bad [O] null [C] restaurant prices
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) . [O] [A] [C] [S]	[O] null [A] it [C] service general [S] bad [SSEP] [O] null [A] it [C] restaurant prices [S] bad
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] service general [SSEP] [O] null [A] it [S] bad [C] restaurant prices
+eat at your own risk . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] food quality
+eat at your own risk . [A] [O] [C] [S]	[A] it [O] null [C] food quality [S] bad
+eat at your own risk . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] food quality
+eat at your own risk . [O] [A] [C] [S]	[O] null [A] it [C] food quality [S] bad
+eat at your own risk . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] food quality
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing ! [A] [O] [S] [C]	[A] service [O] spectacular [S] good [C] service general [SSEP] [A] waiter [O] amazing [S] good [C] service general
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing ! [A] [O] [C] [S]	[A] service [O] spectacular [C] service general [S] good [SSEP] [A] waiter [O] amazing [C] service general [S] good
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing ! [A] [S] [O] [C]	[A] service [S] good [O] spectacular [C] service general [SSEP] [A] waiter [S] good [O] amazing [C] service general
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing ! [O] [A] [C] [S]	[O] spectacular [A] service [C] service general [S] good [SSEP] [O] amazing [A] waiter [C] service general [S] good
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing ! [O] [A] [S] [C]	[O] spectacular [A] service [S] good [C] service general [SSEP] [O] amazing [A] waiter [S] good [C] service general
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world . [A] [O] [S] [C]	[A] sake ’ s [O] well [S] good [C] drinks quality
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world . [A] [O] [C] [S]	[A] sake ’ s [O] well [C] drinks quality [S] good
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world . [A] [S] [O] [C]	[A] sake ’ s [S] good [O] well [C] drinks quality
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world . [O] [A] [C] [S]	[O] well [A] sake ’ s [C] drinks quality [S] good
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world . [O] [A] [S] [C]	[O] well [A] sake ’ s [S] good [C] drinks quality
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie . [A] [O] [S] [C]	[A] brasserie [O] good [S] good [C] restaurant general [SSEP] [A] brasserie [O] good [S] good [C] restaurant prices
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie . [A] [O] [C] [S]	[A] brasserie [O] good [C] restaurant general [S] good [SSEP] [A] brasserie [O] good [C] restaurant prices [S] good
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie . [A] [S] [O] [C]	[A] brasserie [S] good [O] good [C] restaurant general [SSEP] [A] brasserie [S] good [O] good [C] restaurant prices
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie . [O] [A] [C] [S]	[O] good [A] brasserie [C] restaurant general [S] good [SSEP] [O] good [A] brasserie [C] restaurant prices [S] good
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie . [O] [A] [S] [C]	[O] good [A] brasserie [S] good [C] restaurant general [SSEP] [O] good [A] brasserie [S] good [C] restaurant prices
+i tried a couple other dishes but was n ' t too impressed . [A] [O] [S] [C]	[A] dishes [O] n ' t too impressed [S] ok [C] food quality
+i tried a couple other dishes but was n ' t too impressed . [A] [O] [C] [S]	[A] dishes [O] n ' t too impressed [C] food quality [S] ok
+i tried a couple other dishes but was n ' t too impressed . [A] [S] [O] [C]	[A] dishes [S] ok [O] n ' t too impressed [C] food quality
+i tried a couple other dishes but was n ' t too impressed . [O] [A] [C] [S]	[O] n ' t too impressed [A] dishes [C] food quality [S] ok
+i tried a couple other dishes but was n ' t too impressed . [O] [A] [S] [C]	[O] n ' t too impressed [A] dishes [S] ok [C] food quality
+the family seafood entree was very good . [A] [O] [S] [C]	[A] family seafood entree [O] good [S] good [C] food quality
+the family seafood entree was very good . [A] [O] [C] [S]	[A] family seafood entree [O] good [C] food quality [S] good
+the family seafood entree was very good . [A] [S] [O] [C]	[A] family seafood entree [S] good [O] good [C] food quality
+the family seafood entree was very good . [O] [A] [C] [S]	[O] good [A] family seafood entree [C] food quality [S] good
+the family seafood entree was very good . [O] [A] [S] [C]	[O] good [A] family seafood entree [S] good [C] food quality
+the food they serve is not comforting , not appetizing and uncooked . [A] [O] [S] [C]	[A] food [O] not comforting [S] bad [C] food quality [SSEP] [A] food [O] not appetizing [S] bad [C] food quality [SSEP] [A] food [O] uncooked [S] bad [C] food quality
+the food they serve is not comforting , not appetizing and uncooked . [A] [O] [C] [S]	[A] food [O] not comforting [C] food quality [S] bad [SSEP] [A] food [O] not appetizing [C] food quality [S] bad [SSEP] [A] food [O] uncooked [C] food quality [S] bad
+the food they serve is not comforting , not appetizing and uncooked . [A] [S] [O] [C]	[A] food [S] bad [O] not comforting [C] food quality [SSEP] [A] food [S] bad [O] not appetizing [C] food quality [SSEP] [A] food [S] bad [O] uncooked [C] food quality
+the food they serve is not comforting , not appetizing and uncooked . [O] [A] [C] [S]	[O] not comforting [A] food [C] food quality [S] bad [SSEP] [O] not appetizing [A] food [C] food quality [S] bad [SSEP] [O] uncooked [A] food [C] food quality [S] bad
+the food they serve is not comforting , not appetizing and uncooked . [O] [A] [S] [C]	[O] not comforting [A] food [S] bad [C] food quality [SSEP] [O] not appetizing [A] food [S] bad [C] food quality [SSEP] [O] uncooked [A] food [S] bad [C] food quality
+supercilious scorn is in . [A] [O] [S] [C]	[A] it [O] supercilious [S] bad [C] service general
+supercilious scorn is in . [A] [O] [C] [S]	[A] it [O] supercilious [C] service general [S] bad
+supercilious scorn is in . [A] [S] [O] [C]	[A] it [S] bad [O] supercilious [C] service general
+supercilious scorn is in . [O] [A] [C] [S]	[O] supercilious [A] it [C] service general [S] bad
+supercilious scorn is in . [O] [A] [S] [C]	[O] supercilious [A] it [S] bad [C] service general
+single worst restaurant in manhattan [A] [O] [S] [C]	[A] restaurant [O] worst [S] bad [C] restaurant general
+single worst restaurant in manhattan [A] [O] [C] [S]	[A] restaurant [O] worst [C] restaurant general [S] bad
+single worst restaurant in manhattan [A] [S] [O] [C]	[A] restaurant [S] bad [O] worst [C] restaurant general
+single worst restaurant in manhattan [O] [A] [C] [S]	[O] worst [A] restaurant [C] restaurant general [S] bad
+single worst restaurant in manhattan [O] [A] [S] [C]	[O] worst [A] restaurant [S] bad [C] restaurant general
+it is quite a spectacular scene i ' ll give them that . [A] [O] [S] [C]	[A] scene [O] spectacular [S] good [C] ambience general
+it is quite a spectacular scene i ' ll give them that . [A] [O] [C] [S]	[A] scene [O] spectacular [C] ambience general [S] good
+it is quite a spectacular scene i ' ll give them that . [A] [S] [O] [C]	[A] scene [S] good [O] spectacular [C] ambience general
+it is quite a spectacular scene i ' ll give them that . [O] [A] [C] [S]	[O] spectacular [A] scene [C] ambience general [S] good
+it is quite a spectacular scene i ' ll give them that . [O] [A] [S] [C]	[O] spectacular [A] scene [S] good [C] ambience general
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me . [A] [O] [S] [C]	[A] place [O] null [S] bad [C] restaurant general
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me . [A] [O] [C] [S]	[A] place [O] null [C] restaurant general [S] bad
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me . [A] [S] [O] [C]	[A] place [S] bad [O] null [C] restaurant general
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me . [O] [A] [C] [S]	[O] null [A] place [C] restaurant general [S] bad
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me . [O] [A] [S] [C]	[O] null [A] place [S] bad [C] restaurant general
+though it ' s been crowded most times i ' ve gone here , bark always delivers on their food . [A] [O] [S] [C]	[A] bark [O] null [S] ok [C] restaurant miscellaneous [SSEP] [A] food [O] null [S] good [C] food quality
+though it ' s been crowded most times i ' ve gone here , bark always delivers on their food . [A] [O] [C] [S]	[A] bark [O] null [C] restaurant miscellaneous [S] ok [SSEP] [A] food [O] null [C] food quality [S] good
+though it ' s been crowded most times i ' ve gone here , bark always delivers on their food . [A] [S] [O] [C]	[A] bark [S] ok [O] null [C] restaurant miscellaneous [SSEP] [A] food [S] good [O] null [C] food quality
+though it ' s been crowded most times i ' ve gone here , bark always delivers on their food . [O] [A] [C] [S]	[O] null [A] bark [C] restaurant miscellaneous [S] ok [SSEP] [O] null [A] food [C] food quality [S] good
+though it ' s been crowded most times i ' ve gone here , bark always delivers on their food . [O] [A] [S] [C]	[O] null [A] bark [S] ok [C] restaurant miscellaneous [SSEP] [O] null [A] food [S] good [C] food quality
+but nonetheless - - great spot , great food . [A] [O] [S] [C]	[A] spot [O] great [S] good [C] restaurant general [SSEP] [A] food [O] great [S] good [C] food quality
+but nonetheless - - great spot , great food . [A] [O] [C] [S]	[A] spot [O] great [C] restaurant general [S] good [SSEP] [A] food [O] great [C] food quality [S] good
+but nonetheless - - great spot , great food . [A] [S] [O] [C]	[A] spot [S] good [O] great [C] restaurant general [SSEP] [A] food [S] good [O] great [C] food quality
+but nonetheless - - great spot , great food . [O] [A] [C] [S]	[O] great [A] spot [C] restaurant general [S] good [SSEP] [O] great [A] food [C] food quality [S] good
+but nonetheless - - great spot , great food . [O] [A] [S] [C]	[O] great [A] spot [S] good [C] restaurant general [SSEP] [O] great [A] food [S] good [C] food quality
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant . [A] [O] [S] [C]	[A] food [O] fine [S] good [C] food quality [SSEP] [A] service [O] fine [S] good [C] service general [SSEP] [A] maitre - d [O] unwelcoming [S] bad [C] service general [SSEP] [A] maitre - d [O] arrogant [S] bad [C] service general
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant . [A] [O] [C] [S]	[A] food [O] fine [C] food quality [S] good [SSEP] [A] service [O] fine [C] service general [S] good [SSEP] [A] maitre - d [O] unwelcoming [C] service general [S] bad [SSEP] [A] maitre - d [O] arrogant [C] service general [S] bad
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant . [A] [S] [O] [C]	[A] food [S] good [O] fine [C] food quality [SSEP] [A] service [S] good [O] fine [C] service general [SSEP] [A] maitre - d [S] bad [O] unwelcoming [C] service general [SSEP] [A] maitre - d [S] bad [O] arrogant [C] service general
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant . [O] [A] [C] [S]	[O] fine [A] food [C] food quality [S] good [SSEP] [O] fine [A] service [C] service general [S] good [SSEP] [O] unwelcoming [A] maitre - d [C] service general [S] bad [SSEP] [O] arrogant [A] maitre - d [C] service general [S] bad
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant . [O] [A] [S] [C]	[O] fine [A] food [S] good [C] food quality [SSEP] [O] fine [A] service [S] good [C] service general [SSEP] [O] unwelcoming [A] maitre - d [S] bad [C] service general [SSEP] [O] arrogant [A] maitre - d [S] bad [C] service general
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else . [A] [O] [S] [C]	[A] maitre - d [O] null [S] bad [C] service general
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else . [A] [O] [C] [S]	[A] maitre - d [O] null [C] service general [S] bad
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else . [A] [S] [O] [C]	[A] maitre - d [S] bad [O] null [C] service general
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else . [O] [A] [C] [S]	[O] null [A] maitre - d [C] service general [S] bad
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else . [O] [A] [S] [C]	[O] null [A] maitre - d [S] bad [C] service general
+i had the lamb special which was perfect . [A] [O] [S] [C]	[A] lamb special [O] perfect [S] good [C] food quality
+i had the lamb special which was perfect . [A] [O] [C] [S]	[A] lamb special [O] perfect [C] food quality [S] good
+i had the lamb special which was perfect . [A] [S] [O] [C]	[A] lamb special [S] good [O] perfect [C] food quality
+i had the lamb special which was perfect . [O] [A] [C] [S]	[O] perfect [A] lamb special [C] food quality [S] good
+i had the lamb special which was perfect . [O] [A] [S] [C]	[O] perfect [A] lamb special [S] good [C] food quality
+do n ' t go to this place ! [A] [O] [S] [C]	[A] place [O] null [S] bad [C] restaurant general
+do n ' t go to this place ! [A] [O] [C] [S]	[A] place [O] null [C] restaurant general [S] bad
+do n ' t go to this place ! [A] [S] [O] [C]	[A] place [S] bad [O] null [C] restaurant general
+do n ' t go to this place ! [O] [A] [C] [S]	[O] null [A] place [C] restaurant general [S] bad
+do n ' t go to this place ! [O] [A] [S] [C]	[O] null [A] place [S] bad [C] restaurant general
+when the main course finally arrived ( another 45mins ) half of our order was missing . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] service general
+when the main course finally arrived ( another 45mins ) half of our order was missing . [A] [O] [C] [S]	[A] it [O] null [C] service general [S] bad
+when the main course finally arrived ( another 45mins ) half of our order was missing . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] service general
+when the main course finally arrived ( another 45mins ) half of our order was missing . [O] [A] [C] [S]	[O] null [A] it [C] service general [S] bad
+when the main course finally arrived ( another 45mins ) half of our order was missing . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] service general
+when we threatened to leave , we were offered a meager discount even though half the order was missing . [A] [O] [S] [C]	[A] it [O] null [S] bad [C] service general
+when we threatened to leave , we were offered a meager discount even though half the order was missing . [A] [O] [C] [S]	[A] it [O] null [C] service general [S] bad
+when we threatened to leave , we were offered a meager discount even though half the order was missing . [A] [S] [O] [C]	[A] it [S] bad [O] null [C] service general
+when we threatened to leave , we were offered a meager discount even though half the order was missing . [O] [A] [C] [S]	[O] null [A] it [C] service general [S] bad
+when we threatened to leave , we were offered a meager discount even though half the order was missing . [O] [A] [S] [C]	[O] null [A] it [S] bad [C] service general
+the bread was stale , the salad was overpriced and empty . [A] [O] [S] [C]	[A] bread [O] stale [S] bad [C] food quality [SSEP] [A] salad [O] overpriced [S] bad [C] food prices [SSEP] [A] salad [O] empty [S] bad [C] food style_options
+the bread was stale , the salad was overpriced and empty . [A] [O] [C] [S]	[A] bread [O] stale [C] food quality [S] bad [SSEP] [A] salad [O] overpriced [C] food prices [S] bad [SSEP] [A] salad [O] empty [C] food style_options [S] bad
+the bread was stale , the salad was overpriced and empty . [A] [S] [O] [C]	[A] bread [S] bad [O] stale [C] food quality [SSEP] [A] salad [S] bad [O] overpriced [C] food prices [SSEP] [A] salad [S] bad [O] empty [C] food style_options
+the bread was stale , the salad was overpriced and empty . [O] [A] [C] [S]	[O] stale [A] bread [C] food quality [S] bad [SSEP] [O] overpriced [A] salad [C] food prices [S] bad [SSEP] [O] empty [A] salad [C] food style_options [S] bad
+the bread was stale , the salad was overpriced and empty . [O] [A] [S] [C]	[O] stale [A] bread [S] bad [C] food quality [SSEP] [O] overpriced [A] salad [S] bad [C] food prices [SSEP] [O] empty [A] salad [S] bad [C] food style_options
+shame on this place for the horrible rude staff and non - existent customer service . [A] [O] [S] [C]	[A] staff [O] horrible [S] bad [C] service general [SSEP] [A] staff [O] rude [S] bad [C] service general [SSEP] [A] customer service [O] non - existent [S] bad [C] service general
+shame on this place for the horrible rude staff and non - existent customer service . [A] [O] [C] [S]	[A] staff [O] horrible [C] service general [S] bad [SSEP] [A] staff [O] rude [C] service general [S] bad [SSEP] [A] customer service [O] non - existent [C] service general [S] bad
+shame on this place for the horrible rude staff and non - existent customer service . [A] [S] [O] [C]	[A] staff [S] bad [O] horrible [C] service general [SSEP] [A] staff [S] bad [O] rude [C] service general [SSEP] [A] customer service [S] bad [O] non - existent [C] service general
+shame on this place for the horrible rude staff and non - existent customer service . [O] [A] [C] [S]	[O] horrible [A] staff [C] service general [S] bad [SSEP] [O] rude [A] staff [C] service general [S] bad [SSEP] [O] non - existent [A] customer service [C] service general [S] bad
+shame on this place for the horrible rude staff and non - existent customer service . [O] [A] [S] [C]	[O] horrible [A] staff [S] bad [C] service general [SSEP] [O] rude [A] staff [S] bad [C] service general [SSEP] [O] non - existent [A] customer service [S] bad [C] service general
+the food is good . [A] [O] [S] [C]	[A] food [O] good [S] good [C] food quality
+the food is good . [A] [O] [C] [S]	[A] food [O] good [C] food quality [S] good
+the food is good . [A] [S] [O] [C]	[A] food [S] good [O] good [C] food quality
+the food is good . [O] [A] [C] [S]	[O] good [A] food [C] food quality [S] good
+the food is good . [O] [A] [S] [C]	[O] good [A] food [S] good [C] food quality

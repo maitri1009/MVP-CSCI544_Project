@@ -1,0 +1,1095 @@
+in the shop , these macbooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it , get it home , break the seal and use it ( very clever con ) . [O] [A] [S]	[O] soft [A] rubber enclosure [S] good
+in the shop , these macbooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it , get it home , break the seal and use it ( very clever con ) . [A] [O] [S]	[A] rubber enclosure [O] soft [S] good
+in the shop , these macbooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it , get it home , break the seal and use it ( very clever con ) . [O] [S] [A]	[O] soft [S] good [A] rubber enclosure
+in the shop , these macbooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it , get it home , break the seal and use it ( very clever con ) . [A] [S] [O]	[A] rubber enclosure [S] good [O] soft
+in the shop , these macbooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it , get it home , break the seal and use it ( very clever con ) . [S] [O] [A]	[S] good [O] soft [A] rubber enclosure
+this laptop meets every expectation and windows 7 is great ! [O] [A] [S]	[O] great [A] windows 7 [S] good
+this laptop meets every expectation and windows 7 is great ! [A] [O] [S]	[A] windows 7 [O] great [S] good
+this laptop meets every expectation and windows 7 is great ! [O] [S] [A]	[O] great [S] good [A] windows 7
+this laptop meets every expectation and windows 7 is great ! [A] [S] [O]	[A] windows 7 [S] good [O] great
+this laptop meets every expectation and windows 7 is great ! [S] [O] [A]	[S] good [O] great [A] windows 7
+drivers updated ok but the bios update froze the system up and the computer shut down . [O] [A] [S]	[O] ok [A] drivers [S] good [SSEP] [O] froze [A] bios update [S] bad [SSEP] [O] froze [A] system [S] bad
+drivers updated ok but the bios update froze the system up and the computer shut down . [A] [O] [S]	[A] drivers [O] ok [S] good [SSEP] [A] bios update [O] froze [S] bad [SSEP] [A] system [O] froze [S] bad
+drivers updated ok but the bios update froze the system up and the computer shut down . [O] [S] [A]	[O] ok [S] good [A] drivers [SSEP] [O] froze [S] bad [A] bios update [SSEP] [O] froze [S] bad [A] system
+drivers updated ok but the bios update froze the system up and the computer shut down . [A] [S] [O]	[A] drivers [S] good [O] ok [SSEP] [A] bios update [S] bad [O] froze [SSEP] [A] system [S] bad [O] froze
+drivers updated ok but the bios update froze the system up and the computer shut down . [S] [O] [A]	[S] good [O] ok [A] drivers [SSEP] [S] bad [O] froze [A] bios update [SSEP] [S] bad [O] froze [A] system
+the fact that you can spend over $ 100 on just a webcam underscores the value of this machine . [O] [A] [S]	[O] underscores [A] value [S] good
+the fact that you can spend over $ 100 on just a webcam underscores the value of this machine . [A] [O] [S]	[A] value [O] underscores [S] good
+the fact that you can spend over $ 100 on just a webcam underscores the value of this machine . [O] [S] [A]	[O] underscores [S] good [A] value
+the fact that you can spend over $ 100 on just a webcam underscores the value of this machine . [A] [S] [O]	[A] value [S] good [O] underscores
+the fact that you can spend over $ 100 on just a webcam underscores the value of this machine . [S] [O] [A]	[S] good [O] underscores [A] value
+it rarely works and when it does it 's incredibly slow . [O] [A] [S]	[O] rarely [A] works [S] bad
+it rarely works and when it does it 's incredibly slow . [A] [O] [S]	[A] works [O] rarely [S] bad
+it rarely works and when it does it 's incredibly slow . [O] [S] [A]	[O] rarely [S] bad [A] works
+it rarely works and when it does it 's incredibly slow . [A] [S] [O]	[A] works [S] bad [O] rarely
+it rarely works and when it does it 's incredibly slow . [S] [O] [A]	[S] bad [O] rarely [A] works
+it 's so much easier to navigate through the operating system , to find files , and it runs a lot faster ! [O] [A] [S]	[O] easier [A] operating system [S] good [SSEP] [O] faster [A] runs [S] good [SSEP] [O] easier [A] navigate [S] good [SSEP] [O] faster [A] find files [S] good
+it 's so much easier to navigate through the operating system , to find files , and it runs a lot faster ! [A] [O] [S]	[A] operating system [O] easier [S] good [SSEP] [A] runs [O] faster [S] good [SSEP] [A] navigate [O] easier [S] good [SSEP] [A] find files [O] faster [S] good
+it 's so much easier to navigate through the operating system , to find files , and it runs a lot faster ! [O] [S] [A]	[O] easier [S] good [A] operating system [SSEP] [O] faster [S] good [A] runs [SSEP] [O] easier [S] good [A] navigate [SSEP] [O] faster [S] good [A] find files
+it 's so much easier to navigate through the operating system , to find files , and it runs a lot faster ! [A] [S] [O]	[A] operating system [S] good [O] easier [SSEP] [A] runs [S] good [O] faster [SSEP] [A] navigate [S] good [O] easier [SSEP] [A] find files [S] good [O] faster
+it 's so much easier to navigate through the operating system , to find files , and it runs a lot faster ! [S] [O] [A]	[S] good [O] easier [A] operating system [SSEP] [S] good [O] faster [A] runs [SSEP] [S] good [O] easier [A] navigate [SSEP] [S] good [O] faster [A] find files
+i am using the external speaker -- sound is good . [O] [A] [S]	[O] good [A] external speaker [S] good [SSEP] [O] good [A] sound [S] good
+i am using the external speaker -- sound is good . [A] [O] [S]	[A] external speaker [O] good [S] good [SSEP] [A] sound [O] good [S] good
+i am using the external speaker -- sound is good . [O] [S] [A]	[O] good [S] good [A] external speaker [SSEP] [O] good [S] good [A] sound
+i am using the external speaker -- sound is good . [A] [S] [O]	[A] external speaker [S] good [O] good [SSEP] [A] sound [S] good [O] good
+i am using the external speaker -- sound is good . [S] [O] [A]	[S] good [O] good [A] external speaker [SSEP] [S] good [O] good [A] sound
+the battery life seems to be very good , and have had no issues with it . [O] [A] [S]	[O] good [A] battery life [S] good [SSEP] [O] no issues [A] battery life [S] good
+the battery life seems to be very good , and have had no issues with it . [A] [O] [S]	[A] battery life [O] good [S] good [SSEP] [A] battery life [O] no issues [S] good
+the battery life seems to be very good , and have had no issues with it . [O] [S] [A]	[O] good [S] good [A] battery life [SSEP] [O] no issues [S] good [A] battery life
+the battery life seems to be very good , and have had no issues with it . [A] [S] [O]	[A] battery life [S] good [O] good [SSEP] [A] battery life [S] good [O] no issues
+the battery life seems to be very good , and have had no issues with it . [S] [O] [A]	[S] good [O] good [A] battery life [SSEP] [S] good [O] no issues [A] battery life
+temperatures on the outside were alright but i did not track in core processing unit temperatures . [O] [A] [S]	[O] alright [A] temperatures [S] ok
+temperatures on the outside were alright but i did not track in core processing unit temperatures . [A] [O] [S]	[A] temperatures [O] alright [S] ok
+temperatures on the outside were alright but i did not track in core processing unit temperatures . [O] [S] [A]	[O] alright [S] ok [A] temperatures
+temperatures on the outside were alright but i did not track in core processing unit temperatures . [A] [S] [O]	[A] temperatures [S] ok [O] alright
+temperatures on the outside were alright but i did not track in core processing unit temperatures . [S] [O] [A]	[S] ok [O] alright [A] temperatures
+after about a week i finally got it back and was told that the motherboard had failed and so they installed a new motherboard . [O] [A] [S]	[O] failed [A] motherboard [S] ok [SSEP] [O] new [A] motherboard [S] ok
+after about a week i finally got it back and was told that the motherboard had failed and so they installed a new motherboard . [A] [O] [S]	[A] motherboard [O] failed [S] ok [SSEP] [A] motherboard [O] new [S] ok
+after about a week i finally got it back and was told that the motherboard had failed and so they installed a new motherboard . [O] [S] [A]	[O] failed [S] ok [A] motherboard [SSEP] [O] new [S] ok [A] motherboard
+after about a week i finally got it back and was told that the motherboard had failed and so they installed a new motherboard . [A] [S] [O]	[A] motherboard [S] ok [O] failed [SSEP] [A] motherboard [S] ok [O] new
+after about a week i finally got it back and was told that the motherboard had failed and so they installed a new motherboard . [S] [O] [A]	[S] ok [O] failed [A] motherboard [SSEP] [S] ok [O] new [A] motherboard
+it was slow , locked up , and also had hardware replaced after only 2 months ! [O] [A] [S]	[O] replaced [A] hardware [S] bad
+it was slow , locked up , and also had hardware replaced after only 2 months ! [A] [O] [S]	[A] hardware [O] replaced [S] bad
+it was slow , locked up , and also had hardware replaced after only 2 months ! [O] [S] [A]	[O] replaced [S] bad [A] hardware
+it was slow , locked up , and also had hardware replaced after only 2 months ! [A] [S] [O]	[A] hardware [S] bad [O] replaced
+it was slow , locked up , and also had hardware replaced after only 2 months ! [S] [O] [A]	[S] bad [O] replaced [A] hardware
+yes , the computer was light weight , less expensive than the average laptop , and was pretty self explantory in use . [O] [A] [S]	[O] self explantory [A] use [S] good
+yes , the computer was light weight , less expensive than the average laptop , and was pretty self explantory in use . [A] [O] [S]	[A] use [O] self explantory [S] good
+yes , the computer was light weight , less expensive than the average laptop , and was pretty self explantory in use . [O] [S] [A]	[O] self explantory [S] good [A] use
+yes , the computer was light weight , less expensive than the average laptop , and was pretty self explantory in use . [A] [S] [O]	[A] use [S] good [O] self explantory
+yes , the computer was light weight , less expensive than the average laptop , and was pretty self explantory in use . [S] [O] [A]	[S] good [O] self explantory [A] use
+keyboard is great , very quiet for all the typing that i do . [O] [A] [S]	[O] great [A] keyboard [S] good [SSEP] [O] quiet [A] keyboard [S] good
+keyboard is great , very quiet for all the typing that i do . [A] [O] [S]	[A] keyboard [O] great [S] good [SSEP] [A] keyboard [O] quiet [S] good
+keyboard is great , very quiet for all the typing that i do . [O] [S] [A]	[O] great [S] good [A] keyboard [SSEP] [O] quiet [S] good [A] keyboard
+keyboard is great , very quiet for all the typing that i do . [A] [S] [O]	[A] keyboard [S] good [O] great [SSEP] [A] keyboard [S] good [O] quiet
+keyboard is great , very quiet for all the typing that i do . [S] [O] [A]	[S] good [O] great [A] keyboard [SSEP] [S] good [O] quiet [A] keyboard
+the keyboard feels good and i type just fine on it . [O] [A] [S]	[O] good [A] keyboard [S] good
+the keyboard feels good and i type just fine on it . [A] [O] [S]	[A] keyboard [O] good [S] good
+the keyboard feels good and i type just fine on it . [O] [S] [A]	[O] good [S] good [A] keyboard
+the keyboard feels good and i type just fine on it . [A] [S] [O]	[A] keyboard [S] good [O] good
+the keyboard feels good and i type just fine on it . [S] [O] [A]	[S] good [O] good [A] keyboard
+i thought the white mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing . [O] [A] [S]	[O] dirty [A] mousepad [S] ok
+i thought the white mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing . [A] [O] [S]	[A] mousepad [O] dirty [S] ok
+i thought the white mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing . [O] [S] [A]	[O] dirty [S] ok [A] mousepad
+i thought the white mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing . [A] [S] [O]	[A] mousepad [S] ok [O] dirty
+i thought the white mac computers looked dirty too quicly where you use the mousepad and where you place your hands when typing . [S] [O] [A]	[S] ok [O] dirty [A] mousepad
+my favorite part of this computer is that it has a vga port so i can connect it to a bigger screen . [O] [A] [S]	[O] favorite [A] vga port [S] good [SSEP] [O] bigger [A] screen [S] ok
+my favorite part of this computer is that it has a vga port so i can connect it to a bigger screen . [A] [O] [S]	[A] vga port [O] favorite [S] good [SSEP] [A] screen [O] bigger [S] ok
+my favorite part of this computer is that it has a vga port so i can connect it to a bigger screen . [O] [S] [A]	[O] favorite [S] good [A] vga port [SSEP] [O] bigger [S] ok [A] screen
+my favorite part of this computer is that it has a vga port so i can connect it to a bigger screen . [A] [S] [O]	[A] vga port [S] good [O] favorite [SSEP] [A] screen [S] ok [O] bigger
+my favorite part of this computer is that it has a vga port so i can connect it to a bigger screen . [S] [O] [A]	[S] good [O] favorite [A] vga port [SSEP] [S] ok [O] bigger [A] screen
+granted , it 's still a very new laptop but in comparison to my previous laptops and desktops , my mac boots up noticeably quicker . [O] [A] [S]	[O] quicker [A] boots up [S] good
+granted , it 's still a very new laptop but in comparison to my previous laptops and desktops , my mac boots up noticeably quicker . [A] [O] [S]	[A] boots up [O] quicker [S] good
+granted , it 's still a very new laptop but in comparison to my previous laptops and desktops , my mac boots up noticeably quicker . [O] [S] [A]	[O] quicker [S] good [A] boots up
+granted , it 's still a very new laptop but in comparison to my previous laptops and desktops , my mac boots up noticeably quicker . [A] [S] [O]	[A] boots up [S] good [O] quicker
+granted , it 's still a very new laptop but in comparison to my previous laptops and desktops , my mac boots up noticeably quicker . [S] [O] [A]	[S] good [O] quicker [A] boots up
+it caught a virus that completely wiped out my hard drive in a matter of hours . [O] [A] [S]	[O] wiped out [A] hard drive [S] bad
+it caught a virus that completely wiped out my hard drive in a matter of hours . [A] [O] [S]	[A] hard drive [O] wiped out [S] bad
+it caught a virus that completely wiped out my hard drive in a matter of hours . [O] [S] [A]	[O] wiped out [S] bad [A] hard drive
+it caught a virus that completely wiped out my hard drive in a matter of hours . [A] [S] [O]	[A] hard drive [S] bad [O] wiped out
+it caught a virus that completely wiped out my hard drive in a matter of hours . [S] [O] [A]	[S] bad [O] wiped out [A] hard drive
+the amd turin processor seems to always perform so much better than intel . [O] [A] [S]	[O] better [A] amd turin processor [S] good
+the amd turin processor seems to always perform so much better than intel . [A] [O] [S]	[A] amd turin processor [O] better [S] good
+the amd turin processor seems to always perform so much better than intel . [O] [S] [A]	[O] better [S] good [A] amd turin processor
+the amd turin processor seems to always perform so much better than intel . [A] [S] [O]	[A] amd turin processor [S] good [O] better
+the amd turin processor seems to always perform so much better than intel . [S] [O] [A]	[S] good [O] better [A] amd turin processor
+high price tag , however . [O] [A] [S]	[O] high [A] price tag [S] bad
+high price tag , however . [A] [O] [S]	[A] price tag [O] high [S] bad
+high price tag , however . [O] [S] [A]	[O] high [S] bad [A] price tag
+high price tag , however . [A] [S] [O]	[A] price tag [S] bad [O] high
+high price tag , however . [S] [O] [A]	[S] bad [O] high [A] price tag
+i custom ordered the machine from hp and could not understand the techie due to his accent . [O] [A] [S]	[O] not understand [A] techie [S] bad
+i custom ordered the machine from hp and could not understand the techie due to his accent . [A] [O] [S]	[A] techie [O] not understand [S] bad
+i custom ordered the machine from hp and could not understand the techie due to his accent . [O] [S] [A]	[O] not understand [S] bad [A] techie
+i custom ordered the machine from hp and could not understand the techie due to his accent . [A] [S] [O]	[A] techie [S] bad [O] not understand
+i custom ordered the machine from hp and could not understand the techie due to his accent . [S] [O] [A]	[S] bad [O] not understand [A] techie
+for the not so good , i got the stock screen - which is very glossy . [O] [A] [S]	[O] glossy [A] stock screen [S] bad
+for the not so good , i got the stock screen - which is very glossy . [A] [O] [S]	[A] stock screen [O] glossy [S] bad
+for the not so good , i got the stock screen - which is very glossy . [O] [S] [A]	[O] glossy [S] bad [A] stock screen
+for the not so good , i got the stock screen - which is very glossy . [A] [S] [O]	[A] stock screen [S] bad [O] glossy
+for the not so good , i got the stock screen - which is very glossy . [S] [O] [A]	[S] bad [O] glossy [A] stock screen
+the gray color was a good choice . [O] [A] [S]	[O] good [A] gray color [S] good
+the gray color was a good choice . [A] [O] [S]	[A] gray color [O] good [S] good
+the gray color was a good choice . [O] [S] [A]	[O] good [S] good [A] gray color
+the gray color was a good choice . [A] [S] [O]	[A] gray color [S] good [O] good
+the gray color was a good choice . [S] [O] [A]	[S] good [O] good [A] gray color
+i would like to have volume buttons rather than the adjustment that is on the front . [O] [A] [S]	[O] like [A] volume buttons [S] bad
+i would like to have volume buttons rather than the adjustment that is on the front . [A] [O] [S]	[A] volume buttons [O] like [S] bad
+i would like to have volume buttons rather than the adjustment that is on the front . [O] [S] [A]	[O] like [S] bad [A] volume buttons
+i would like to have volume buttons rather than the adjustment that is on the front . [A] [S] [O]	[A] volume buttons [S] bad [O] like
+i would like to have volume buttons rather than the adjustment that is on the front . [S] [O] [A]	[S] bad [O] like [A] volume buttons
+the processor a amd semprom at 2.1 ghz is a bummer it does not have the power for hd or heavy computing . [O] [A] [S]	[O] bummer [A] processor [S] bad [SSEP] [O] heavy [A] computing [S] bad
+the processor a amd semprom at 2.1 ghz is a bummer it does not have the power for hd or heavy computing . [A] [O] [S]	[A] processor [O] bummer [S] bad [SSEP] [A] computing [O] heavy [S] bad
+the processor a amd semprom at 2.1 ghz is a bummer it does not have the power for hd or heavy computing . [O] [S] [A]	[O] bummer [S] bad [A] processor [SSEP] [O] heavy [S] bad [A] computing
+the processor a amd semprom at 2.1 ghz is a bummer it does not have the power for hd or heavy computing . [A] [S] [O]	[A] processor [S] bad [O] bummer [SSEP] [A] computing [S] bad [O] heavy
+the processor a amd semprom at 2.1 ghz is a bummer it does not have the power for hd or heavy computing . [S] [O] [A]	[S] bad [O] bummer [A] processor [SSEP] [S] bad [O] heavy [A] computing
+it is easy to use , fast and has great graphics for the money . [O] [A] [S]	[O] great [A] graphics [S] good [SSEP] [O] easy [A] use [S] good
+it is easy to use , fast and has great graphics for the money . [A] [O] [S]	[A] graphics [O] great [S] good [SSEP] [A] use [O] easy [S] good
+it is easy to use , fast and has great graphics for the money . [O] [S] [A]	[O] great [S] good [A] graphics [SSEP] [O] easy [S] good [A] use
+it is easy to use , fast and has great graphics for the money . [A] [S] [O]	[A] graphics [S] good [O] great [SSEP] [A] use [S] good [O] easy
+it is easy to use , fast and has great graphics for the money . [S] [O] [A]	[S] good [O] great [A] graphics [SSEP] [S] good [O] easy [A] use
+i like how the mac os is so simple and easy to use . [O] [A] [S]	[O] like [A] mac os [S] good [SSEP] [O] easy [A] use [S] good
+i like how the mac os is so simple and easy to use . [A] [O] [S]	[A] mac os [O] like [S] good [SSEP] [A] use [O] easy [S] good
+i like how the mac os is so simple and easy to use . [O] [S] [A]	[O] like [S] good [A] mac os [SSEP] [O] easy [S] good [A] use
+i like how the mac os is so simple and easy to use . [A] [S] [O]	[A] mac os [S] good [O] like [SSEP] [A] use [S] good [O] easy
+i like how the mac os is so simple and easy to use . [S] [O] [A]	[S] good [O] like [A] mac os [SSEP] [S] good [O] easy [A] use
+obviously one of the most important features of any computer is the `` human interface . [O] [A] [S]	[O] most important [A] features [S] ok [SSEP] [O] most important [A] human interface [S] ok
+obviously one of the most important features of any computer is the `` human interface . [A] [O] [S]	[A] features [O] most important [S] ok [SSEP] [A] human interface [O] most important [S] ok
+obviously one of the most important features of any computer is the `` human interface . [O] [S] [A]	[O] most important [S] ok [A] features [SSEP] [O] most important [S] ok [A] human interface
+obviously one of the most important features of any computer is the `` human interface . [A] [S] [O]	[A] features [S] ok [O] most important [SSEP] [A] human interface [S] ok [O] most important
+obviously one of the most important features of any computer is the `` human interface . [S] [O] [A]	[S] ok [O] most important [A] features [SSEP] [S] ok [O] most important [A] human interface
+a great feature is the spotlight search : one can search for documents by simply typing a keyword , rather than parsing tens of file folders for a document . [O] [A] [S]	[O] great [A] spotlight search [S] good [SSEP] [O] great [A] feature [S] good
+a great feature is the spotlight search : one can search for documents by simply typing a keyword , rather than parsing tens of file folders for a document . [A] [O] [S]	[A] spotlight search [O] great [S] good [SSEP] [A] feature [O] great [S] good
+a great feature is the spotlight search : one can search for documents by simply typing a keyword , rather than parsing tens of file folders for a document . [O] [S] [A]	[O] great [S] good [A] spotlight search [SSEP] [O] great [S] good [A] feature
+a great feature is the spotlight search : one can search for documents by simply typing a keyword , rather than parsing tens of file folders for a document . [A] [S] [O]	[A] spotlight search [S] good [O] great [SSEP] [A] feature [S] good [O] great
+a great feature is the spotlight search : one can search for documents by simply typing a keyword , rather than parsing tens of file folders for a document . [S] [O] [A]	[S] good [O] great [A] spotlight search [SSEP] [S] good [O] great [A] feature
+i 've had to call apple support to set up my new printer and have had wonderful experiences with helpful , english speaking ( from vancouver ) techs that walked me through the processes to help me . [O] [A] [S]	[O] wonderful [A] apple support [S] good [SSEP] [O] helpful [A] techs [S] good
+i 've had to call apple support to set up my new printer and have had wonderful experiences with helpful , english speaking ( from vancouver ) techs that walked me through the processes to help me . [A] [O] [S]	[A] apple support [O] wonderful [S] good [SSEP] [A] techs [O] helpful [S] good
+i 've had to call apple support to set up my new printer and have had wonderful experiences with helpful , english speaking ( from vancouver ) techs that walked me through the processes to help me . [O] [S] [A]	[O] wonderful [S] good [A] apple support [SSEP] [O] helpful [S] good [A] techs
+i 've had to call apple support to set up my new printer and have had wonderful experiences with helpful , english speaking ( from vancouver ) techs that walked me through the processes to help me . [A] [S] [O]	[A] apple support [S] good [O] wonderful [SSEP] [A] techs [S] good [O] helpful
+i 've had to call apple support to set up my new printer and have had wonderful experiences with helpful , english speaking ( from vancouver ) techs that walked me through the processes to help me . [S] [O] [A]	[S] good [O] wonderful [A] apple support [SSEP] [S] good [O] helpful [A] techs
+i need graphic power to run my adobe creative apps efficiently . [O] [A] [S]	[O] efficiently [A] graphic power [S] ok [SSEP] [O] efficiently [A] adobe creative apps [S] ok
+i need graphic power to run my adobe creative apps efficiently . [A] [O] [S]	[A] graphic power [O] efficiently [S] ok [SSEP] [A] adobe creative apps [O] efficiently [S] ok
+i need graphic power to run my adobe creative apps efficiently . [O] [S] [A]	[O] efficiently [S] ok [A] graphic power [SSEP] [O] efficiently [S] ok [A] adobe creative apps
+i need graphic power to run my adobe creative apps efficiently . [A] [S] [O]	[A] graphic power [S] ok [O] efficiently [SSEP] [A] adobe creative apps [S] ok [O] efficiently
+i need graphic power to run my adobe creative apps efficiently . [S] [O] [A]	[S] ok [O] efficiently [A] graphic power [SSEP] [S] ok [O] efficiently [A] adobe creative apps
+upon giving them the serial number the first thing i was told , was that it was out of warranty and i could pay to have it repaired . [O] [A] [S]	[O] out of [A] warranty [S] ok
+upon giving them the serial number the first thing i was told , was that it was out of warranty and i could pay to have it repaired . [A] [O] [S]	[A] warranty [O] out of [S] ok
+upon giving them the serial number the first thing i was told , was that it was out of warranty and i could pay to have it repaired . [O] [S] [A]	[O] out of [S] ok [A] warranty
+upon giving them the serial number the first thing i was told , was that it was out of warranty and i could pay to have it repaired . [A] [S] [O]	[A] warranty [S] ok [O] out of
+upon giving them the serial number the first thing i was told , was that it was out of warranty and i could pay to have it repaired . [S] [O] [A]	[S] ok [O] out of [A] warranty
+laptop was in new condition and operational , but for the audio problem when 1st sent for repair . [O] [A] [S]	[O] problem [A] audio [S] bad
+laptop was in new condition and operational , but for the audio problem when 1st sent for repair . [A] [O] [S]	[A] audio [O] problem [S] bad
+laptop was in new condition and operational , but for the audio problem when 1st sent for repair . [O] [S] [A]	[O] problem [S] bad [A] audio
+laptop was in new condition and operational , but for the audio problem when 1st sent for repair . [A] [S] [O]	[A] audio [S] bad [O] problem
+laptop was in new condition and operational , but for the audio problem when 1st sent for repair . [S] [O] [A]	[S] bad [O] problem [A] audio
+i was disappointed when i realized that the keyboard does n't light up on this model . [O] [A] [S]	[O] disappointed [A] keyboard [S] bad [SSEP] [O] does n't light up [A] keyboard [S] bad
+i was disappointed when i realized that the keyboard does n't light up on this model . [A] [O] [S]	[A] keyboard [O] disappointed [S] bad [SSEP] [A] keyboard [O] does n't light up [S] bad
+i was disappointed when i realized that the keyboard does n't light up on this model . [O] [S] [A]	[O] disappointed [S] bad [A] keyboard [SSEP] [O] does n't light up [S] bad [A] keyboard
+i was disappointed when i realized that the keyboard does n't light up on this model . [A] [S] [O]	[A] keyboard [S] bad [O] disappointed [SSEP] [A] keyboard [S] bad [O] does n't light up
+i was disappointed when i realized that the keyboard does n't light up on this model . [S] [O] [A]	[S] bad [O] disappointed [A] keyboard [SSEP] [S] bad [O] does n't light up [A] keyboard
+it runs perfectly . [O] [A] [S]	[O] perfectly [A] runs [S] good
+it runs perfectly . [A] [O] [S]	[A] runs [O] perfectly [S] good
+it runs perfectly . [O] [S] [A]	[O] perfectly [S] good [A] runs
+it runs perfectly . [A] [S] [O]	[A] runs [S] good [O] perfectly
+it runs perfectly . [S] [O] [A]	[S] good [O] perfectly [A] runs
+sometimes the screen even goes black on this computer . [O] [A] [S]	[O] black [A] screen [S] bad
+sometimes the screen even goes black on this computer . [A] [O] [S]	[A] screen [O] black [S] bad
+sometimes the screen even goes black on this computer . [O] [S] [A]	[O] black [S] bad [A] screen
+sometimes the screen even goes black on this computer . [A] [S] [O]	[A] screen [S] bad [O] black
+sometimes the screen even goes black on this computer . [S] [O] [A]	[S] bad [O] black [A] screen
+its fast and another thing i like is that it has three usb ports . [O] [A] [S]	[O] like [A] usb ports [S] good
+its fast and another thing i like is that it has three usb ports . [A] [O] [S]	[A] usb ports [O] like [S] good
+its fast and another thing i like is that it has three usb ports . [O] [S] [A]	[O] like [S] good [A] usb ports
+its fast and another thing i like is that it has three usb ports . [A] [S] [O]	[A] usb ports [S] good [O] like
+its fast and another thing i like is that it has three usb ports . [S] [O] [A]	[S] good [O] like [A] usb ports
+the salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it . [O] [A] [S]	[O] problems [A] software [S] bad [SSEP] [O] not happy [A] software [S] bad
+the salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it . [A] [O] [S]	[A] software [O] problems [S] bad [SSEP] [A] software [O] not happy [S] bad
+the salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it . [O] [S] [A]	[O] problems [S] bad [A] software [SSEP] [O] not happy [S] bad [A] software
+the salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it . [A] [S] [O]	[A] software [S] bad [O] problems [SSEP] [A] software [S] bad [O] not happy
+the salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it . [S] [O] [A]	[S] bad [O] problems [A] software [SSEP] [S] bad [O] not happy [A] software
+that system is fixed . [O] [A] [S]	[O] fixed [A] system [S] ok
+that system is fixed . [A] [O] [S]	[A] system [O] fixed [S] ok
+that system is fixed . [O] [S] [A]	[O] fixed [S] ok [A] system
+that system is fixed . [A] [S] [O]	[A] system [S] ok [O] fixed
+that system is fixed . [S] [O] [A]	[S] ok [O] fixed [A] system
+i would not recommend this to anyone wanting a notebook expecting the performance of a desktop it does not meet the expectations . [O] [A] [S]	[O] not recommend [A] performance [S] bad
+i would not recommend this to anyone wanting a notebook expecting the performance of a desktop it does not meet the expectations . [A] [O] [S]	[A] performance [O] not recommend [S] bad
+i would not recommend this to anyone wanting a notebook expecting the performance of a desktop it does not meet the expectations . [O] [S] [A]	[O] not recommend [S] bad [A] performance
+i would not recommend this to anyone wanting a notebook expecting the performance of a desktop it does not meet the expectations . [A] [S] [O]	[A] performance [S] bad [O] not recommend
+i would not recommend this to anyone wanting a notebook expecting the performance of a desktop it does not meet the expectations . [S] [O] [A]	[S] bad [O] not recommend [A] performance
+the macbook arrived in a nice twin packing and sealed in the box , all the functions works great . [O] [A] [S]	[O] nice [A] twin packing [S] good [SSEP] [O] great [A] functions [S] good
+the macbook arrived in a nice twin packing and sealed in the box , all the functions works great . [A] [O] [S]	[A] twin packing [O] nice [S] good [SSEP] [A] functions [O] great [S] good
+the macbook arrived in a nice twin packing and sealed in the box , all the functions works great . [O] [S] [A]	[O] nice [S] good [A] twin packing [SSEP] [O] great [S] good [A] functions
+the macbook arrived in a nice twin packing and sealed in the box , all the functions works great . [A] [S] [O]	[A] twin packing [S] good [O] nice [SSEP] [A] functions [S] good [O] great
+the macbook arrived in a nice twin packing and sealed in the box , all the functions works great . [S] [O] [A]	[S] good [O] nice [A] twin packing [SSEP] [S] good [O] great [A] functions
+it 's super fast and a great value for the price ! [O] [A] [S]	[O] great [A] value [S] good [SSEP] [O] great [A] price [S] good
+it 's super fast and a great value for the price ! [A] [O] [S]	[A] value [O] great [S] good [SSEP] [A] price [O] great [S] good
+it 's super fast and a great value for the price ! [O] [S] [A]	[O] great [S] good [A] value [SSEP] [O] great [S] good [A] price
+it 's super fast and a great value for the price ! [A] [S] [O]	[A] value [S] good [O] great [SSEP] [A] price [S] good [O] great
+it 's super fast and a great value for the price ! [S] [O] [A]	[S] good [O] great [A] value [SSEP] [S] good [O] great [A] price
+it drives me crazy when i want to download a game or something of that nature and i ca n't play it because its not compatable with the software . [O] [A] [S]	[O] not compatable [A] software [S] bad
+it drives me crazy when i want to download a game or something of that nature and i ca n't play it because its not compatable with the software . [A] [O] [S]	[A] software [O] not compatable [S] bad
+it drives me crazy when i want to download a game or something of that nature and i ca n't play it because its not compatable with the software . [O] [S] [A]	[O] not compatable [S] bad [A] software
+it drives me crazy when i want to download a game or something of that nature and i ca n't play it because its not compatable with the software . [A] [S] [O]	[A] software [S] bad [O] not compatable
+it drives me crazy when i want to download a game or something of that nature and i ca n't play it because its not compatable with the software . [S] [O] [A]	[S] bad [O] not compatable [A] software
+the online tutorial videos make it super easy to learn if you have always used a pc . [O] [A] [S]	[O] easy [A] online tutorial videos [S] good
+the online tutorial videos make it super easy to learn if you have always used a pc . [A] [O] [S]	[A] online tutorial videos [O] easy [S] good
+the online tutorial videos make it super easy to learn if you have always used a pc . [O] [S] [A]	[O] easy [S] good [A] online tutorial videos
+the online tutorial videos make it super easy to learn if you have always used a pc . [A] [S] [O]	[A] online tutorial videos [S] good [O] easy
+the online tutorial videos make it super easy to learn if you have always used a pc . [S] [O] [A]	[S] good [O] easy [A] online tutorial videos
+it was very easy to just pick up and use -- it did not take long to get used to the mac os . [O] [A] [S]	[O] easy [A] mac os [S] good [SSEP] [O] easy [A] use [S] good
+it was very easy to just pick up and use -- it did not take long to get used to the mac os . [A] [O] [S]	[A] mac os [O] easy [S] good [SSEP] [A] use [O] easy [S] good
+it was very easy to just pick up and use -- it did not take long to get used to the mac os . [O] [S] [A]	[O] easy [S] good [A] mac os [SSEP] [O] easy [S] good [A] use
+it was very easy to just pick up and use -- it did not take long to get used to the mac os . [A] [S] [O]	[A] mac os [S] good [O] easy [SSEP] [A] use [S] good [O] easy
+it was very easy to just pick up and use -- it did not take long to get used to the mac os . [S] [O] [A]	[S] good [O] easy [A] mac os [SSEP] [S] good [O] easy [A] use
+features like the font are very block-like and old school . [O] [A] [S]	[O] block-like [A] font [S] bad [SSEP] [O] old [A] font [S] bad [SSEP] [O] block-like [A] features [S] bad [SSEP] [O] old [A] features [S] bad
+features like the font are very block-like and old school . [A] [O] [S]	[A] font [O] block-like [S] bad [SSEP] [A] font [O] old [S] bad [SSEP] [A] features [O] block-like [S] bad [SSEP] [A] features [O] old [S] bad
+features like the font are very block-like and old school . [O] [S] [A]	[O] block-like [S] bad [A] font [SSEP] [O] old [S] bad [A] font [SSEP] [O] block-like [S] bad [A] features [SSEP] [O] old [S] bad [A] features
+features like the font are very block-like and old school . [A] [S] [O]	[A] font [S] bad [O] block-like [SSEP] [A] font [S] bad [O] old [SSEP] [A] features [S] bad [O] block-like [SSEP] [A] features [S] bad [O] old
+features like the font are very block-like and old school . [S] [O] [A]	[S] bad [O] block-like [A] font [SSEP] [S] bad [O] old [A] font [SSEP] [S] bad [O] block-like [A] features [SSEP] [S] bad [O] old [A] features
+it is loaded with programs that is of no good for the average user , that makes it run way to slow . [O] [A] [S]	[O] no good [A] programs [S] bad [SSEP] [O] slow [A] run [S] bad
+it is loaded with programs that is of no good for the average user , that makes it run way to slow . [A] [O] [S]	[A] programs [O] no good [S] bad [SSEP] [A] run [O] slow [S] bad
+it is loaded with programs that is of no good for the average user , that makes it run way to slow . [O] [S] [A]	[O] no good [S] bad [A] programs [SSEP] [O] slow [S] bad [A] run
+it is loaded with programs that is of no good for the average user , that makes it run way to slow . [A] [S] [O]	[A] programs [S] bad [O] no good [SSEP] [A] run [S] bad [O] slow
+it is loaded with programs that is of no good for the average user , that makes it run way to slow . [S] [O] [A]	[S] bad [O] no good [A] programs [SSEP] [S] bad [O] slow [A] run
+now , , , , , my monitor has been acting up for about 2 months . [O] [A] [S]	[O] acting up [A] monitor [S] bad
+now , , , , , my monitor has been acting up for about 2 months . [A] [O] [S]	[A] monitor [O] acting up [S] bad
+now , , , , , my monitor has been acting up for about 2 months . [O] [S] [A]	[O] acting up [S] bad [A] monitor
+now , , , , , my monitor has been acting up for about 2 months . [A] [S] [O]	[A] monitor [S] bad [O] acting up
+now , , , , , my monitor has been acting up for about 2 months . [S] [O] [A]	[S] bad [O] acting up [A] monitor
+also , the extended warranty was a problem . [O] [A] [S]	[O] problem [A] extended warranty [S] bad
+also , the extended warranty was a problem . [A] [O] [S]	[A] extended warranty [O] problem [S] bad
+also , the extended warranty was a problem . [O] [S] [A]	[O] problem [S] bad [A] extended warranty
+also , the extended warranty was a problem . [A] [S] [O]	[A] extended warranty [S] bad [O] problem
+also , the extended warranty was a problem . [S] [O] [A]	[S] bad [O] problem [A] extended warranty
+they sent it back with a huge crack in it and it still did n't work . [O] [A] [S]	[O] did n't [A] work [S] bad
+they sent it back with a huge crack in it and it still did n't work . [A] [O] [S]	[A] work [O] did n't [S] bad
+they sent it back with a huge crack in it and it still did n't work . [O] [S] [A]	[O] did n't [S] bad [A] work
+they sent it back with a huge crack in it and it still did n't work . [A] [S] [O]	[A] work [S] bad [O] did n't
+they sent it back with a huge crack in it and it still did n't work . [S] [O] [A]	[S] bad [O] did n't [A] work
+the size is perfect and i do not recommend anything bigger except for any person who can exceed the limited space it gives you . [O] [A] [S]	[O] perfect [A] size [S] good [SSEP] [O] limited [A] space [S] bad
+the size is perfect and i do not recommend anything bigger except for any person who can exceed the limited space it gives you . [A] [O] [S]	[A] size [O] perfect [S] good [SSEP] [A] space [O] limited [S] bad
+the size is perfect and i do not recommend anything bigger except for any person who can exceed the limited space it gives you . [O] [S] [A]	[O] perfect [S] good [A] size [SSEP] [O] limited [S] bad [A] space
+the size is perfect and i do not recommend anything bigger except for any person who can exceed the limited space it gives you . [A] [S] [O]	[A] size [S] good [O] perfect [SSEP] [A] space [S] bad [O] limited
+the size is perfect and i do not recommend anything bigger except for any person who can exceed the limited space it gives you . [S] [O] [A]	[S] good [O] perfect [A] size [SSEP] [S] bad [O] limited [A] space
+the mouse buttons are hard to push . [O] [A] [S]	[O] hard [A] mouse buttons [S] bad
+the mouse buttons are hard to push . [A] [O] [S]	[A] mouse buttons [O] hard [S] bad
+the mouse buttons are hard to push . [O] [S] [A]	[O] hard [S] bad [A] mouse buttons
+the mouse buttons are hard to push . [A] [S] [O]	[A] mouse buttons [S] bad [O] hard
+the mouse buttons are hard to push . [S] [O] [A]	[S] bad [O] hard [A] mouse buttons
+the price is another driving influence that made me purchase this laptop . [O] [A] [S]	[O] driving [A] price [S] good
+the price is another driving influence that made me purchase this laptop . [A] [O] [S]	[A] price [O] driving [S] good
+the price is another driving influence that made me purchase this laptop . [O] [S] [A]	[O] driving [S] good [A] price
+the price is another driving influence that made me purchase this laptop . [A] [S] [O]	[A] price [S] good [O] driving
+the price is another driving influence that made me purchase this laptop . [S] [O] [A]	[S] good [O] driving [A] price
+it is stamped and not in pieces therefore it is a stronger more resilient frame . [O] [A] [S]	[O] stronger [A] frame [S] good [SSEP] [O] resilient [A] frame [S] good
+it is stamped and not in pieces therefore it is a stronger more resilient frame . [A] [O] [S]	[A] frame [O] stronger [S] good [SSEP] [A] frame [O] resilient [S] good
+it is stamped and not in pieces therefore it is a stronger more resilient frame . [O] [S] [A]	[O] stronger [S] good [A] frame [SSEP] [O] resilient [S] good [A] frame
+it is stamped and not in pieces therefore it is a stronger more resilient frame . [A] [S] [O]	[A] frame [S] good [O] stronger [SSEP] [A] frame [S] good [O] resilient
+it is stamped and not in pieces therefore it is a stronger more resilient frame . [S] [O] [A]	[S] good [O] stronger [A] frame [SSEP] [S] good [O] resilient [A] frame
+i would like at least a 4 hr . battery life . [O] [A] [S]	[O] like [A] battery life [S] ok
+i would like at least a 4 hr . battery life . [A] [O] [S]	[A] battery life [O] like [S] ok
+i would like at least a 4 hr . battery life . [O] [S] [A]	[O] like [S] ok [A] battery life
+i would like at least a 4 hr . battery life . [A] [S] [O]	[A] battery life [S] ok [O] like
+i would like at least a 4 hr . battery life . [S] [O] [A]	[S] ok [O] like [A] battery life
+clear picture on it and everything . [O] [A] [S]	[O] clear [A] picture [S] good
+clear picture on it and everything . [A] [O] [S]	[A] picture [O] clear [S] good
+clear picture on it and everything . [O] [S] [A]	[O] clear [S] good [A] picture
+clear picture on it and everything . [A] [S] [O]	[A] picture [S] good [O] clear
+clear picture on it and everything . [S] [O] [A]	[S] good [O] clear [A] picture
+screen is awesome , battery life is good . [O] [A] [S]	[O] awesome [A] screen [S] good [SSEP] [O] good [A] battery life [S] good
+screen is awesome , battery life is good . [A] [O] [S]	[A] screen [O] awesome [S] good [SSEP] [A] battery life [O] good [S] good
+screen is awesome , battery life is good . [O] [S] [A]	[O] awesome [S] good [A] screen [SSEP] [O] good [S] good [A] battery life
+screen is awesome , battery life is good . [A] [S] [O]	[A] screen [S] good [O] awesome [SSEP] [A] battery life [S] good [O] good
+screen is awesome , battery life is good . [S] [O] [A]	[S] good [O] awesome [A] screen [SSEP] [S] good [O] good [A] battery life
+somehow the system clock got messed up after reboot . [O] [A] [S]	[O] messed up [A] system clock [S] bad
+somehow the system clock got messed up after reboot . [A] [O] [S]	[A] system clock [O] messed up [S] bad
+somehow the system clock got messed up after reboot . [O] [S] [A]	[O] messed up [S] bad [A] system clock
+somehow the system clock got messed up after reboot . [A] [S] [O]	[A] system clock [S] bad [O] messed up
+somehow the system clock got messed up after reboot . [S] [O] [A]	[S] bad [O] messed up [A] system clock
+hp said it was out of warranty . [O] [A] [S]	[O] out of [A] warranty [S] ok
+hp said it was out of warranty . [A] [O] [S]	[A] warranty [O] out of [S] ok
+hp said it was out of warranty . [O] [S] [A]	[O] out of [S] ok [A] warranty
+hp said it was out of warranty . [A] [S] [O]	[A] warranty [S] ok [O] out of
+hp said it was out of warranty . [S] [O] [A]	[S] ok [O] out of [A] warranty
+i like those programs better than office and you can save your files to be completely compatible with the office programs as well . [O] [A] [S]	[O] like [A] programs [S] good [SSEP] [O] better [A] programs [S] good [SSEP] [O] compatible [A] office programs [S] ok
+i like those programs better than office and you can save your files to be completely compatible with the office programs as well . [A] [O] [S]	[A] programs [O] like [S] good [SSEP] [A] programs [O] better [S] good [SSEP] [A] office programs [O] compatible [S] ok
+i like those programs better than office and you can save your files to be completely compatible with the office programs as well . [O] [S] [A]	[O] like [S] good [A] programs [SSEP] [O] better [S] good [A] programs [SSEP] [O] compatible [S] ok [A] office programs
+i like those programs better than office and you can save your files to be completely compatible with the office programs as well . [A] [S] [O]	[A] programs [S] good [O] like [SSEP] [A] programs [S] good [O] better [SSEP] [A] office programs [S] ok [O] compatible
+i like those programs better than office and you can save your files to be completely compatible with the office programs as well . [S] [O] [A]	[S] good [O] like [A] programs [SSEP] [S] good [O] better [A] programs [SSEP] [S] ok [O] compatible [A] office programs
+great wifi too . [O] [A] [S]	[O] great [A] wifi [S] good
+great wifi too . [A] [O] [S]	[A] wifi [O] great [S] good
+great wifi too . [O] [S] [A]	[O] great [S] good [A] wifi
+great wifi too . [A] [S] [O]	[A] wifi [S] good [O] great
+great wifi too . [S] [O] [A]	[S] good [O] great [A] wifi
+the lcd screen stopped working on mine after 10 months . [O] [A] [S]	[O] stopped [A] lcd screen [S] bad
+the lcd screen stopped working on mine after 10 months . [A] [O] [S]	[A] lcd screen [O] stopped [S] bad
+the lcd screen stopped working on mine after 10 months . [O] [S] [A]	[O] stopped [S] bad [A] lcd screen
+the lcd screen stopped working on mine after 10 months . [A] [S] [O]	[A] lcd screen [S] bad [O] stopped
+the lcd screen stopped working on mine after 10 months . [S] [O] [A]	[S] bad [O] stopped [A] lcd screen
+we have had numerous problems with vista , such as adobe flash player just quits and has to be uninstalled and then reinsalled , internet explore just quits and you lose whatever you were working on , also , the same windows update has appeared on this computer since we got it and has been updated probably 400 times , the same update . [O] [A] [S]	[O] problems [A] vista [S] bad [SSEP] [O] problems [A] adobe flash player [S] bad [SSEP] [O] problems [A] internet explore [S] bad [SSEP] [O] problems [A] windows update [S] bad [SSEP] [O] problems [A] update [S] bad
+we have had numerous problems with vista , such as adobe flash player just quits and has to be uninstalled and then reinsalled , internet explore just quits and you lose whatever you were working on , also , the same windows update has appeared on this computer since we got it and has been updated probably 400 times , the same update . [A] [O] [S]	[A] vista [O] problems [S] bad [SSEP] [A] adobe flash player [O] problems [S] bad [SSEP] [A] internet explore [O] problems [S] bad [SSEP] [A] windows update [O] problems [S] bad [SSEP] [A] update [O] problems [S] bad
+we have had numerous problems with vista , such as adobe flash player just quits and has to be uninstalled and then reinsalled , internet explore just quits and you lose whatever you were working on , also , the same windows update has appeared on this computer since we got it and has been updated probably 400 times , the same update . [O] [S] [A]	[O] problems [S] bad [A] vista [SSEP] [O] problems [S] bad [A] adobe flash player [SSEP] [O] problems [S] bad [A] internet explore [SSEP] [O] problems [S] bad [A] windows update [SSEP] [O] problems [S] bad [A] update
+we have had numerous problems with vista , such as adobe flash player just quits and has to be uninstalled and then reinsalled , internet explore just quits and you lose whatever you were working on , also , the same windows update has appeared on this computer since we got it and has been updated probably 400 times , the same update . [A] [S] [O]	[A] vista [S] bad [O] problems [SSEP] [A] adobe flash player [S] bad [O] problems [SSEP] [A] internet explore [S] bad [O] problems [SSEP] [A] windows update [S] bad [O] problems [SSEP] [A] update [S] bad [O] problems
+we have had numerous problems with vista , such as adobe flash player just quits and has to be uninstalled and then reinsalled , internet explore just quits and you lose whatever you were working on , also , the same windows update has appeared on this computer since we got it and has been updated probably 400 times , the same update . [S] [O] [A]	[S] bad [O] problems [A] vista [SSEP] [S] bad [O] problems [A] adobe flash player [SSEP] [S] bad [O] problems [A] internet explore [SSEP] [S] bad [O] problems [A] windows update [SSEP] [S] bad [O] problems [A] update
+i always have used a tower home pc and jumped to the laptop and have been very satisfied with its performance . [O] [A] [S]	[O] satisfied [A] performance [S] good
+i always have used a tower home pc and jumped to the laptop and have been very satisfied with its performance . [A] [O] [S]	[A] performance [O] satisfied [S] good
+i always have used a tower home pc and jumped to the laptop and have been very satisfied with its performance . [O] [S] [A]	[O] satisfied [S] good [A] performance
+i always have used a tower home pc and jumped to the laptop and have been very satisfied with its performance . [A] [S] [O]	[A] performance [S] good [O] satisfied
+i always have used a tower home pc and jumped to the laptop and have been very satisfied with its performance . [S] [O] [A]	[S] good [O] satisfied [A] performance
+the apple applications ( ex . iphoto ) are fun , easy , and really cool to use ( unlike the competition ) ! [O] [A] [S]	[O] fun [A] apple applications [S] good [SSEP] [O] easy [A] apple applications [S] good [SSEP] [O] cool [A] apple applications [S] good [SSEP] [O] fun [A] iphoto [S] good [SSEP] [O] easy [A] iphoto [S] good [SSEP] [O] cool [A] iphoto [S] good
+the apple applications ( ex . iphoto ) are fun , easy , and really cool to use ( unlike the competition ) ! [A] [O] [S]	[A] apple applications [O] fun [S] good [SSEP] [A] apple applications [O] easy [S] good [SSEP] [A] apple applications [O] cool [S] good [SSEP] [A] iphoto [O] fun [S] good [SSEP] [A] iphoto [O] easy [S] good [SSEP] [A] iphoto [O] cool [S] good
+the apple applications ( ex . iphoto ) are fun , easy , and really cool to use ( unlike the competition ) ! [O] [S] [A]	[O] fun [S] good [A] apple applications [SSEP] [O] easy [S] good [A] apple applications [SSEP] [O] cool [S] good [A] apple applications [SSEP] [O] fun [S] good [A] iphoto [SSEP] [O] easy [S] good [A] iphoto [SSEP] [O] cool [S] good [A] iphoto
+the apple applications ( ex . iphoto ) are fun , easy , and really cool to use ( unlike the competition ) ! [A] [S] [O]	[A] apple applications [S] good [O] fun [SSEP] [A] apple applications [S] good [O] easy [SSEP] [A] apple applications [S] good [O] cool [SSEP] [A] iphoto [S] good [O] fun [SSEP] [A] iphoto [S] good [O] easy [SSEP] [A] iphoto [S] good [O] cool
+the apple applications ( ex . iphoto ) are fun , easy , and really cool to use ( unlike the competition ) ! [S] [O] [A]	[S] good [O] fun [A] apple applications [SSEP] [S] good [O] easy [A] apple applications [SSEP] [S] good [O] cool [A] apple applications [SSEP] [S] good [O] fun [A] iphoto [SSEP] [S] good [O] easy [A] iphoto [SSEP] [S] good [O] cool [A] iphoto
+first it burned or fused the power adapter plug . [O] [A] [S]	[O] burned [A] power adapter plug [S] bad [SSEP] [O] fused [A] power adapter plug [S] bad
+first it burned or fused the power adapter plug . [A] [O] [S]	[A] power adapter plug [O] burned [S] bad [SSEP] [A] power adapter plug [O] fused [S] bad
+first it burned or fused the power adapter plug . [O] [S] [A]	[O] burned [S] bad [A] power adapter plug [SSEP] [O] fused [S] bad [A] power adapter plug
+first it burned or fused the power adapter plug . [A] [S] [O]	[A] power adapter plug [S] bad [O] burned [SSEP] [A] power adapter plug [S] bad [O] fused
+first it burned or fused the power adapter plug . [S] [O] [A]	[S] bad [O] burned [A] power adapter plug [SSEP] [S] bad [O] fused [A] power adapter plug
+it was still working , but there was nothing on the screen . [O] [A] [S]	[O] nothing [A] screen [S] bad
+it was still working , but there was nothing on the screen . [A] [O] [S]	[A] screen [O] nothing [S] bad
+it was still working , but there was nothing on the screen . [O] [S] [A]	[O] nothing [S] bad [A] screen
+it was still working , but there was nothing on the screen . [A] [S] [O]	[A] screen [S] bad [O] nothing
+it was still working , but there was nothing on the screen . [S] [O] [A]	[S] bad [O] nothing [A] screen
+though the picture , video , and music software is nowhere close to professional grade software im used to ( cs5 ) but does the job for beginner and even intermediate media designers . [O] [A] [S]	[O] nowhere close to professional [A] music software [S] bad [SSEP] [O] does the job [A] music software [S] bad [SSEP] [O] nowhere close to professional [A] picture [S] bad [SSEP] [O] does the job [A] picture [S] bad [SSEP] [O] nowhere close to professional [A] video [S] bad [SSEP] [O] does the job [A] video [S] bad
+though the picture , video , and music software is nowhere close to professional grade software im used to ( cs5 ) but does the job for beginner and even intermediate media designers . [A] [O] [S]	[A] music software [O] nowhere close to professional [S] bad [SSEP] [A] music software [O] does the job [S] bad [SSEP] [A] picture [O] nowhere close to professional [S] bad [SSEP] [A] picture [O] does the job [S] bad [SSEP] [A] video [O] nowhere close to professional [S] bad [SSEP] [A] video [O] does the job [S] bad
+though the picture , video , and music software is nowhere close to professional grade software im used to ( cs5 ) but does the job for beginner and even intermediate media designers . [O] [S] [A]	[O] nowhere close to professional [S] bad [A] music software [SSEP] [O] does the job [S] bad [A] music software [SSEP] [O] nowhere close to professional [S] bad [A] picture [SSEP] [O] does the job [S] bad [A] picture [SSEP] [O] nowhere close to professional [S] bad [A] video [SSEP] [O] does the job [S] bad [A] video
+though the picture , video , and music software is nowhere close to professional grade software im used to ( cs5 ) but does the job for beginner and even intermediate media designers . [A] [S] [O]	[A] music software [S] bad [O] nowhere close to professional [SSEP] [A] music software [S] bad [O] does the job [SSEP] [A] picture [S] bad [O] nowhere close to professional [SSEP] [A] picture [S] bad [O] does the job [SSEP] [A] video [S] bad [O] nowhere close to professional [SSEP] [A] video [S] bad [O] does the job
+though the picture , video , and music software is nowhere close to professional grade software im used to ( cs5 ) but does the job for beginner and even intermediate media designers . [S] [O] [A]	[S] bad [O] nowhere close to professional [A] music software [SSEP] [S] bad [O] does the job [A] music software [SSEP] [S] bad [O] nowhere close to professional [A] picture [SSEP] [S] bad [O] does the job [A] picture [SSEP] [S] bad [O] nowhere close to professional [A] video [SSEP] [S] bad [O] does the job [A] video
+the much lauded combined touch pad and clicker is a nightmare . [O] [A] [S]	[O] nightmare [A] combined touch pad and clicker [S] bad
+the much lauded combined touch pad and clicker is a nightmare . [A] [O] [S]	[A] combined touch pad and clicker [O] nightmare [S] bad
+the much lauded combined touch pad and clicker is a nightmare . [O] [S] [A]	[O] nightmare [S] bad [A] combined touch pad and clicker
+the much lauded combined touch pad and clicker is a nightmare . [A] [S] [O]	[A] combined touch pad and clicker [S] bad [O] nightmare
+the much lauded combined touch pad and clicker is a nightmare . [S] [O] [A]	[S] bad [O] nightmare [A] combined touch pad and clicker
+the unibody construction is solid , sleek and beautiful . [O] [A] [S]	[O] solid [A] unibody construction [S] good [SSEP] [O] sleek [A] unibody construction [S] good [SSEP] [O] beautiful [A] unibody construction [S] good
+the unibody construction is solid , sleek and beautiful . [A] [O] [S]	[A] unibody construction [O] solid [S] good [SSEP] [A] unibody construction [O] sleek [S] good [SSEP] [A] unibody construction [O] beautiful [S] good
+the unibody construction is solid , sleek and beautiful . [O] [S] [A]	[O] solid [S] good [A] unibody construction [SSEP] [O] sleek [S] good [A] unibody construction [SSEP] [O] beautiful [S] good [A] unibody construction
+the unibody construction is solid , sleek and beautiful . [A] [S] [O]	[A] unibody construction [S] good [O] solid [SSEP] [A] unibody construction [S] good [O] sleek [SSEP] [A] unibody construction [S] good [O] beautiful
+the unibody construction is solid , sleek and beautiful . [S] [O] [A]	[S] good [O] solid [A] unibody construction [SSEP] [S] good [O] sleek [A] unibody construction [SSEP] [S] good [O] beautiful [A] unibody construction
+this macbook is an outstanding product with great value . [O] [A] [S]	[O] outstanding [A] value [S] good [SSEP] [O] great [A] value [S] good
+this macbook is an outstanding product with great value . [A] [O] [S]	[A] value [O] outstanding [S] good [SSEP] [A] value [O] great [S] good
+this macbook is an outstanding product with great value . [O] [S] [A]	[O] outstanding [S] good [A] value [SSEP] [O] great [S] good [A] value
+this macbook is an outstanding product with great value . [A] [S] [O]	[A] value [S] good [O] outstanding [SSEP] [A] value [S] good [O] great
+this macbook is an outstanding product with great value . [S] [O] [A]	[S] good [O] outstanding [A] value [SSEP] [S] good [O] great [A] value
+no temporary replacement , they are out of replacements because `` many computers had problems with the nvidia chipset `` -inquired status of repair . [O] [A] [S]	[O] problems [A] nvidia chipset [S] bad
+no temporary replacement , they are out of replacements because `` many computers had problems with the nvidia chipset `` -inquired status of repair . [A] [O] [S]	[A] nvidia chipset [O] problems [S] bad
+no temporary replacement , they are out of replacements because `` many computers had problems with the nvidia chipset `` -inquired status of repair . [O] [S] [A]	[O] problems [S] bad [A] nvidia chipset
+no temporary replacement , they are out of replacements because `` many computers had problems with the nvidia chipset `` -inquired status of repair . [A] [S] [O]	[A] nvidia chipset [S] bad [O] problems
+no temporary replacement , they are out of replacements because `` many computers had problems with the nvidia chipset `` -inquired status of repair . [S] [O] [A]	[S] bad [O] problems [A] nvidia chipset
+i bought this lap top and the charge time dose n't last as long as they say it will more like 2 hours [O] [A] [S]	[O] long [A] charge time [S] bad
+i bought this lap top and the charge time dose n't last as long as they say it will more like 2 hours [A] [O] [S]	[A] charge time [O] long [S] bad
+i bought this lap top and the charge time dose n't last as long as they say it will more like 2 hours [O] [S] [A]	[O] long [S] bad [A] charge time
+i bought this lap top and the charge time dose n't last as long as they say it will more like 2 hours [A] [S] [O]	[A] charge time [S] bad [O] long
+i bought this lap top and the charge time dose n't last as long as they say it will more like 2 hours [S] [O] [A]	[S] bad [O] long [A] charge time
+the feature are good enough for what i need . [O] [A] [S]	[O] good [A] feature [S] good
+the feature are good enough for what i need . [A] [O] [S]	[A] feature [O] good [S] good
+the feature are good enough for what i need . [O] [S] [A]	[O] good [S] good [A] feature
+the feature are good enough for what i need . [A] [S] [O]	[A] feature [S] good [O] good
+the feature are good enough for what i need . [S] [O] [A]	[S] good [O] good [A] feature
+finally , the biggest problem has been tech support . [O] [A] [S]	[O] problem [A] tech support [S] bad
+finally , the biggest problem has been tech support . [A] [O] [S]	[A] tech support [O] problem [S] bad
+finally , the biggest problem has been tech support . [O] [S] [A]	[O] problem [S] bad [A] tech support
+finally , the biggest problem has been tech support . [A] [S] [O]	[A] tech support [S] bad [O] problem
+finally , the biggest problem has been tech support . [S] [O] [A]	[S] bad [O] problem [A] tech support
+( i had been a windows/linux user before this ) i love the size because the screen is big enough for what i use it for ( internet , artwork ) , and yet it is small enough to be reasonably portable . [O] [A] [S]	[O] love [A] size [S] good [SSEP] [O] big [A] screen [S] good [SSEP] [O] small [A] screen [S] good
+( i had been a windows/linux user before this ) i love the size because the screen is big enough for what i use it for ( internet , artwork ) , and yet it is small enough to be reasonably portable . [A] [O] [S]	[A] size [O] love [S] good [SSEP] [A] screen [O] big [S] good [SSEP] [A] screen [O] small [S] good
+( i had been a windows/linux user before this ) i love the size because the screen is big enough for what i use it for ( internet , artwork ) , and yet it is small enough to be reasonably portable . [O] [S] [A]	[O] love [S] good [A] size [SSEP] [O] big [S] good [A] screen [SSEP] [O] small [S] good [A] screen
+( i had been a windows/linux user before this ) i love the size because the screen is big enough for what i use it for ( internet , artwork ) , and yet it is small enough to be reasonably portable . [A] [S] [O]	[A] size [S] good [O] love [SSEP] [A] screen [S] good [O] big [SSEP] [A] screen [S] good [O] small
+( i had been a windows/linux user before this ) i love the size because the screen is big enough for what i use it for ( internet , artwork ) , and yet it is small enough to be reasonably portable . [S] [O] [A]	[S] good [O] love [A] size [SSEP] [S] good [O] big [A] screen [SSEP] [S] good [O] small [A] screen
+plain and simple , it ( laptop ) runs great and loads fast . [O] [A] [S]	[O] great [A] runs [S] good [SSEP] [O] fast [A] loads [S] good
+plain and simple , it ( laptop ) runs great and loads fast . [A] [O] [S]	[A] runs [O] great [S] good [SSEP] [A] loads [O] fast [S] good
+plain and simple , it ( laptop ) runs great and loads fast . [O] [S] [A]	[O] great [S] good [A] runs [SSEP] [O] fast [S] good [A] loads
+plain and simple , it ( laptop ) runs great and loads fast . [A] [S] [O]	[A] runs [S] good [O] great [SSEP] [A] loads [S] good [O] fast
+plain and simple , it ( laptop ) runs great and loads fast . [S] [O] [A]	[S] good [O] great [A] runs [SSEP] [S] good [O] fast [A] loads
+it was a great laptop , ran great and was really fast . [O] [A] [S]	[O] great [A] ran [S] good
+it was a great laptop , ran great and was really fast . [A] [O] [S]	[A] ran [O] great [S] good
+it was a great laptop , ran great and was really fast . [O] [S] [A]	[O] great [S] good [A] ran
+it was a great laptop , ran great and was really fast . [A] [S] [O]	[A] ran [S] good [O] great
+it was a great laptop , ran great and was really fast . [S] [O] [A]	[S] good [O] great [A] ran
+the only problem is a lack of screen resolutions ! [O] [A] [S]	[O] problem [A] screen resolutions [S] bad [SSEP] [O] lack [A] screen resolutions [S] bad
+the only problem is a lack of screen resolutions ! [A] [O] [S]	[A] screen resolutions [O] problem [S] bad [SSEP] [A] screen resolutions [O] lack [S] bad
+the only problem is a lack of screen resolutions ! [O] [S] [A]	[O] problem [S] bad [A] screen resolutions [SSEP] [O] lack [S] bad [A] screen resolutions
+the only problem is a lack of screen resolutions ! [A] [S] [O]	[A] screen resolutions [S] bad [O] problem [SSEP] [A] screen resolutions [S] bad [O] lack
+the only problem is a lack of screen resolutions ! [S] [O] [A]	[S] bad [O] problem [A] screen resolutions [SSEP] [S] bad [O] lack [A] screen resolutions
+it is very well built . [O] [A] [S]	[O] well [A] built [S] good
+it is very well built . [A] [O] [S]	[A] built [O] well [S] good
+it is very well built . [O] [S] [A]	[O] well [S] good [A] built
+it is very well built . [A] [S] [O]	[A] built [S] good [O] well
+it is very well built . [S] [O] [A]	[S] good [O] well [A] built
+the design is awesome , quality is unprecedented . [O] [A] [S]	[O] awesome [A] design [S] good [SSEP] [O] unprecedented [A] quality [S] good
+the design is awesome , quality is unprecedented . [A] [O] [S]	[A] design [O] awesome [S] good [SSEP] [A] quality [O] unprecedented [S] good
+the design is awesome , quality is unprecedented . [O] [S] [A]	[O] awesome [S] good [A] design [SSEP] [O] unprecedented [S] good [A] quality
+the design is awesome , quality is unprecedented . [A] [S] [O]	[A] design [S] good [O] awesome [SSEP] [A] quality [S] good [O] unprecedented
+the design is awesome , quality is unprecedented . [S] [O] [A]	[S] good [O] awesome [A] design [SSEP] [S] good [O] unprecedented [A] quality
+and the best part is that it even comes with a free printer ( when they have a certain promotion/offer going , of course ) ! [O] [A] [S]	[O] free [A] printer [S] good
+and the best part is that it even comes with a free printer ( when they have a certain promotion/offer going , of course ) ! [A] [O] [S]	[A] printer [O] free [S] good
+and the best part is that it even comes with a free printer ( when they have a certain promotion/offer going , of course ) ! [O] [S] [A]	[O] free [S] good [A] printer
+and the best part is that it even comes with a free printer ( when they have a certain promotion/offer going , of course ) ! [A] [S] [O]	[A] printer [S] good [O] free
+and the best part is that it even comes with a free printer ( when they have a certain promotion/offer going , of course ) ! [S] [O] [A]	[S] good [O] free [A] printer
+it is very easy for anyone to use an apple and specially the mcbook pro notebook . [O] [A] [S]	[O] easy [A] use [S] good
+it is very easy for anyone to use an apple and specially the mcbook pro notebook . [A] [O] [S]	[A] use [O] easy [S] good
+it is very easy for anyone to use an apple and specially the mcbook pro notebook . [O] [S] [A]	[O] easy [S] good [A] use
+it is very easy for anyone to use an apple and specially the mcbook pro notebook . [A] [S] [O]	[A] use [S] good [O] easy
+it is very easy for anyone to use an apple and specially the mcbook pro notebook . [S] [O] [A]	[S] good [O] easy [A] use
+the touchpad is very intuitive , so much so that i never want to use buttons to click again ! [O] [A] [S]	[O] intuitive [A] touchpad [S] good
+the touchpad is very intuitive , so much so that i never want to use buttons to click again ! [A] [O] [S]	[A] touchpad [O] intuitive [S] good
+the touchpad is very intuitive , so much so that i never want to use buttons to click again ! [O] [S] [A]	[O] intuitive [S] good [A] touchpad
+the touchpad is very intuitive , so much so that i never want to use buttons to click again ! [A] [S] [O]	[A] touchpad [S] good [O] intuitive
+the touchpad is very intuitive , so much so that i never want to use buttons to click again ! [S] [O] [A]	[S] good [O] intuitive [A] touchpad
+tons of bloatware and junk programs . [O] [A] [S]	[O] junk [A] programs [S] bad
+tons of bloatware and junk programs . [A] [O] [S]	[A] programs [O] junk [S] bad
+tons of bloatware and junk programs . [O] [S] [A]	[O] junk [S] bad [A] programs
+tons of bloatware and junk programs . [A] [S] [O]	[A] programs [S] bad [O] junk
+tons of bloatware and junk programs . [S] [O] [A]	[S] bad [O] junk [A] programs
+the real stand out on this computer is the feel of the keyboard and it 's speed . [O] [A] [S]	[O] stand out [A] keyboard [S] good [SSEP] [O] stand out [A] speed [S] good
+the real stand out on this computer is the feel of the keyboard and it 's speed . [A] [O] [S]	[A] keyboard [O] stand out [S] good [SSEP] [A] speed [O] stand out [S] good
+the real stand out on this computer is the feel of the keyboard and it 's speed . [O] [S] [A]	[O] stand out [S] good [A] keyboard [SSEP] [O] stand out [S] good [A] speed
+the real stand out on this computer is the feel of the keyboard and it 's speed . [A] [S] [O]	[A] keyboard [S] good [O] stand out [SSEP] [A] speed [S] good [O] stand out
+the real stand out on this computer is the feel of the keyboard and it 's speed . [S] [O] [A]	[S] good [O] stand out [A] keyboard [SSEP] [S] good [O] stand out [A] speed
+delivery was early too . [O] [A] [S]	[O] early [A] delivery [S] good
+delivery was early too . [A] [O] [S]	[A] delivery [O] early [S] good
+delivery was early too . [O] [S] [A]	[O] early [S] good [A] delivery
+delivery was early too . [A] [S] [O]	[A] delivery [S] good [O] early
+delivery was early too . [S] [O] [A]	[S] good [O] early [A] delivery
+laptops are usually used on the go , so why not give you a better battery ? [O] [A] [S]	[O] better [A] battery [S] bad
+laptops are usually used on the go , so why not give you a better battery ? [A] [O] [S]	[A] battery [O] better [S] bad
+laptops are usually used on the go , so why not give you a better battery ? [O] [S] [A]	[O] better [S] bad [A] battery
+laptops are usually used on the go , so why not give you a better battery ? [A] [S] [O]	[A] battery [S] bad [O] better
+laptops are usually used on the go , so why not give you a better battery ? [S] [O] [A]	[S] bad [O] better [A] battery
+i was n't a big fan of the netbooks but this one was very well designed . [O] [A] [S]	[O] well [A] designed [S] good
+i was n't a big fan of the netbooks but this one was very well designed . [A] [O] [S]	[A] designed [O] well [S] good
+i was n't a big fan of the netbooks but this one was very well designed . [O] [S] [A]	[O] well [S] good [A] designed
+i was n't a big fan of the netbooks but this one was very well designed . [A] [S] [O]	[A] designed [S] good [O] well
+i was n't a big fan of the netbooks but this one was very well designed . [S] [O] [A]	[S] good [O] well [A] designed
+i still have that stupid bluetooth mouse to ! [O] [A] [S]	[O] stupid [A] bluetooth mouse [S] bad
+i still have that stupid bluetooth mouse to ! [A] [O] [S]	[A] bluetooth mouse [O] stupid [S] bad
+i still have that stupid bluetooth mouse to ! [O] [S] [A]	[O] stupid [S] bad [A] bluetooth mouse
+i still have that stupid bluetooth mouse to ! [A] [S] [O]	[A] bluetooth mouse [S] bad [O] stupid
+i still have that stupid bluetooth mouse to ! [S] [O] [A]	[S] bad [O] stupid [A] bluetooth mouse
+2nd best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into [O] [A] [S]	[O] needs to upgreade [A] patches [S] bad
+2nd best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into [A] [O] [S]	[A] patches [O] needs to upgreade [S] bad
+2nd best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into [O] [S] [A]	[O] needs to upgreade [S] bad [A] patches
+2nd best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into [A] [S] [O]	[A] patches [S] bad [O] needs to upgreade
+2nd best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into [S] [O] [A]	[S] bad [O] needs to upgreade [A] patches
+it could be a perfect laptop if it would have faster system memory and its radeon 5850 would have ddr5 instead of ddr3 . [O] [A] [S]	[O] faster [A] system memory [S] bad
+it could be a perfect laptop if it would have faster system memory and its radeon 5850 would have ddr5 instead of ddr3 . [A] [O] [S]	[A] system memory [O] faster [S] bad
+it could be a perfect laptop if it would have faster system memory and its radeon 5850 would have ddr5 instead of ddr3 . [O] [S] [A]	[O] faster [S] bad [A] system memory
+it could be a perfect laptop if it would have faster system memory and its radeon 5850 would have ddr5 instead of ddr3 . [A] [S] [O]	[A] system memory [S] bad [O] faster
+it could be a perfect laptop if it would have faster system memory and its radeon 5850 would have ddr5 instead of ddr3 . [S] [O] [A]	[S] bad [O] faster [A] system memory
+i definitely suggest getting an extended warranty , you will probably need it ! [O] [A] [S]	[O] suggest [A] extended warranty [S] good
+i definitely suggest getting an extended warranty , you will probably need it ! [A] [O] [S]	[A] extended warranty [O] suggest [S] good
+i definitely suggest getting an extended warranty , you will probably need it ! [O] [S] [A]	[O] suggest [S] good [A] extended warranty
+i definitely suggest getting an extended warranty , you will probably need it ! [A] [S] [O]	[A] extended warranty [S] good [O] suggest
+i definitely suggest getting an extended warranty , you will probably need it ! [S] [O] [A]	[S] good [O] suggest [A] extended warranty
+the only thing i wish is the 15 inch macbook pro has much better speakers on the side of the keyboard . [O] [A] [S]	[O] better [A] speakers [S] bad
+the only thing i wish is the 15 inch macbook pro has much better speakers on the side of the keyboard . [A] [O] [S]	[A] speakers [O] better [S] bad
+the only thing i wish is the 15 inch macbook pro has much better speakers on the side of the keyboard . [O] [S] [A]	[O] better [S] bad [A] speakers
+the only thing i wish is the 15 inch macbook pro has much better speakers on the side of the keyboard . [A] [S] [O]	[A] speakers [S] bad [O] better
+the only thing i wish is the 15 inch macbook pro has much better speakers on the side of the keyboard . [S] [O] [A]	[S] bad [O] better [A] speakers
+keys stick periodically and i havent had the laptop for 45 days yet . [O] [A] [S]	[O] stick [A] keys [S] bad
+keys stick periodically and i havent had the laptop for 45 days yet . [A] [O] [S]	[A] keys [O] stick [S] bad
+keys stick periodically and i havent had the laptop for 45 days yet . [O] [S] [A]	[O] stick [S] bad [A] keys
+keys stick periodically and i havent had the laptop for 45 days yet . [A] [S] [O]	[A] keys [S] bad [O] stick
+keys stick periodically and i havent had the laptop for 45 days yet . [S] [O] [A]	[S] bad [O] stick [A] keys
+it 's graphics are n't bad at all , for the lower end of the macbook pro spectrum , easily capable of running starcraft ii and other games with comparable graphics . [O] [A] [S]	[O] are n't bad [A] graphics [S] ok
+it 's graphics are n't bad at all , for the lower end of the macbook pro spectrum , easily capable of running starcraft ii and other games with comparable graphics . [A] [O] [S]	[A] graphics [O] are n't bad [S] ok
+it 's graphics are n't bad at all , for the lower end of the macbook pro spectrum , easily capable of running starcraft ii and other games with comparable graphics . [O] [S] [A]	[O] are n't bad [S] ok [A] graphics
+it 's graphics are n't bad at all , for the lower end of the macbook pro spectrum , easily capable of running starcraft ii and other games with comparable graphics . [A] [S] [O]	[A] graphics [S] ok [O] are n't bad
+it 's graphics are n't bad at all , for the lower end of the macbook pro spectrum , easily capable of running starcraft ii and other games with comparable graphics . [S] [O] [A]	[S] ok [O] are n't bad [A] graphics
+i have vista , so i am unable to install and uninstall some programs . [O] [A] [S]	[O] unable [A] install [S] bad
+i have vista , so i am unable to install and uninstall some programs . [A] [O] [S]	[A] install [O] unable [S] bad
+i have vista , so i am unable to install and uninstall some programs . [O] [S] [A]	[O] unable [S] bad [A] install
+i have vista , so i am unable to install and uninstall some programs . [A] [S] [O]	[A] install [S] bad [O] unable
+i have vista , so i am unable to install and uninstall some programs . [S] [O] [A]	[S] bad [O] unable [A] install
+i am a huge computer person i love anykind of computer that works well , but when i got this one i was so happy with the way it works and how it runs its amazing . [O] [A] [S]	[O] amazing [A] runs [S] good
+i am a huge computer person i love anykind of computer that works well , but when i got this one i was so happy with the way it works and how it runs its amazing . [A] [O] [S]	[A] runs [O] amazing [S] good
+i am a huge computer person i love anykind of computer that works well , but when i got this one i was so happy with the way it works and how it runs its amazing . [O] [S] [A]	[O] amazing [S] good [A] runs
+i am a huge computer person i love anykind of computer that works well , but when i got this one i was so happy with the way it works and how it runs its amazing . [A] [S] [O]	[A] runs [S] good [O] amazing
+i am a huge computer person i love anykind of computer that works well , but when i got this one i was so happy with the way it works and how it runs its amazing . [S] [O] [A]	[S] good [O] amazing [A] runs
+its white color is stylish for college students and easy to take to carry and take to classes . [O] [A] [S]	[O] stylish [A] color [S] good
+its white color is stylish for college students and easy to take to carry and take to classes . [A] [O] [S]	[A] color [O] stylish [S] good
+its white color is stylish for college students and easy to take to carry and take to classes . [O] [S] [A]	[O] stylish [S] good [A] color
+its white color is stylish for college students and easy to take to carry and take to classes . [A] [S] [O]	[A] color [S] good [O] stylish
+its white color is stylish for college students and easy to take to carry and take to classes . [S] [O] [A]	[S] good [O] stylish [A] color
+i took off a star because the machine has a lot of junk software on it . [O] [A] [S]	[O] junk [A] software [S] bad
+i took off a star because the machine has a lot of junk software on it . [A] [O] [S]	[A] software [O] junk [S] bad
+i took off a star because the machine has a lot of junk software on it . [O] [S] [A]	[O] junk [S] bad [A] software
+i took off a star because the machine has a lot of junk software on it . [A] [S] [O]	[A] software [S] bad [O] junk
+i took off a star because the machine has a lot of junk software on it . [S] [O] [A]	[S] bad [O] junk [A] software
+the battery life is great . [O] [A] [S]	[O] great [A] battery life [S] good
+the battery life is great . [A] [O] [S]	[A] battery life [O] great [S] good
+the battery life is great . [O] [S] [A]	[O] great [S] good [A] battery life
+the battery life is great . [A] [S] [O]	[A] battery life [S] good [O] great
+the battery life is great . [S] [O] [A]	[S] good [O] great [A] battery life
+i sent it back and found this time that the battery was faulty , so i got a new one and some other fixes they found . [O] [A] [S]	[O] faulty [A] battery [S] bad
+i sent it back and found this time that the battery was faulty , so i got a new one and some other fixes they found . [A] [O] [S]	[A] battery [O] faulty [S] bad
+i sent it back and found this time that the battery was faulty , so i got a new one and some other fixes they found . [O] [S] [A]	[O] faulty [S] bad [A] battery
+i sent it back and found this time that the battery was faulty , so i got a new one and some other fixes they found . [A] [S] [O]	[A] battery [S] bad [O] faulty
+i sent it back and found this time that the battery was faulty , so i got a new one and some other fixes they found . [S] [O] [A]	[S] bad [O] faulty [A] battery
+great pick for portability and affordability . [O] [A] [S]	[O] great [A] portability [S] good [SSEP] [O] great [A] affordability [S] good
+great pick for portability and affordability . [A] [O] [S]	[A] portability [O] great [S] good [SSEP] [A] affordability [O] great [S] good
+great pick for portability and affordability . [O] [S] [A]	[O] great [S] good [A] portability [SSEP] [O] great [S] good [A] affordability
+great pick for portability and affordability . [A] [S] [O]	[A] portability [S] good [O] great [SSEP] [A] affordability [S] good [O] great
+great pick for portability and affordability . [S] [O] [A]	[S] good [O] great [A] portability [SSEP] [S] good [O] great [A] affordability
+it 's fast , it 's easy easy easy to set up , easy to hook to my wireless network . [O] [A] [S]	[O] easy easy easy [A] set up [S] good [SSEP] [O] easy [A] hook to my wireless network [S] good
+it 's fast , it 's easy easy easy to set up , easy to hook to my wireless network . [A] [O] [S]	[A] set up [O] easy easy easy [S] good [SSEP] [A] hook to my wireless network [O] easy [S] good
+it 's fast , it 's easy easy easy to set up , easy to hook to my wireless network . [O] [S] [A]	[O] easy easy easy [S] good [A] set up [SSEP] [O] easy [S] good [A] hook to my wireless network
+it 's fast , it 's easy easy easy to set up , easy to hook to my wireless network . [A] [S] [O]	[A] set up [S] good [O] easy easy easy [SSEP] [A] hook to my wireless network [S] good [O] easy
+it 's fast , it 's easy easy easy to set up , easy to hook to my wireless network . [S] [O] [A]	[S] good [O] easy easy easy [A] set up [SSEP] [S] good [O] easy [A] hook to my wireless network
+i previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( if i am not mistaken ) and it had major heating issues . [O] [A] [S]	[O] issues [A] nvidia 9800 [S] ok
+i previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( if i am not mistaken ) and it had major heating issues . [A] [O] [S]	[A] nvidia 9800 [O] issues [S] ok
+i previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( if i am not mistaken ) and it had major heating issues . [O] [S] [A]	[O] issues [S] ok [A] nvidia 9800
+i previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( if i am not mistaken ) and it had major heating issues . [A] [S] [O]	[A] nvidia 9800 [S] ok [O] issues
+i previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( if i am not mistaken ) and it had major heating issues . [S] [O] [A]	[S] ok [O] issues [A] nvidia 9800
+oh yea , has no numeric pad on the side . [O] [A] [S]	[O] no [A] numeric pad [S] bad
+oh yea , has no numeric pad on the side . [A] [O] [S]	[A] numeric pad [O] no [S] bad
+oh yea , has no numeric pad on the side . [O] [S] [A]	[O] no [S] bad [A] numeric pad
+oh yea , has no numeric pad on the side . [A] [S] [O]	[A] numeric pad [S] bad [O] no
+oh yea , has no numeric pad on the side . [S] [O] [A]	[S] bad [O] no [A] numeric pad
+more times that not the screen pops up saying i have a bad internet connection , or the page ca n't be displayed . [O] [A] [S]	[O] bad [A] internet connection [S] bad
+more times that not the screen pops up saying i have a bad internet connection , or the page ca n't be displayed . [A] [O] [S]	[A] internet connection [O] bad [S] bad
+more times that not the screen pops up saying i have a bad internet connection , or the page ca n't be displayed . [O] [S] [A]	[O] bad [S] bad [A] internet connection
+more times that not the screen pops up saying i have a bad internet connection , or the page ca n't be displayed . [A] [S] [O]	[A] internet connection [S] bad [O] bad
+more times that not the screen pops up saying i have a bad internet connection , or the page ca n't be displayed . [S] [O] [A]	[S] bad [O] bad [A] internet connection
+the ease of use is wonderful . [O] [A] [S]	[O] ease [A] use [S] good [SSEP] [O] wonderful [A] use [S] good
+the ease of use is wonderful . [A] [O] [S]	[A] use [O] ease [S] good [SSEP] [A] use [O] wonderful [S] good
+the ease of use is wonderful . [O] [S] [A]	[O] ease [S] good [A] use [SSEP] [O] wonderful [S] good [A] use
+the ease of use is wonderful . [A] [S] [O]	[A] use [S] good [O] ease [SSEP] [A] use [S] good [O] wonderful
+the ease of use is wonderful . [S] [O] [A]	[S] good [O] ease [A] use [SSEP] [S] good [O] wonderful [A] use
+best thing is i can use existing 32 bit old programs . [O] [A] [S]	[O] best [A] programs [S] good
+best thing is i can use existing 32 bit old programs . [A] [O] [S]	[A] programs [O] best [S] good
+best thing is i can use existing 32 bit old programs . [O] [S] [A]	[O] best [S] good [A] programs
+best thing is i can use existing 32 bit old programs . [A] [S] [O]	[A] programs [S] good [O] best
+best thing is i can use existing 32 bit old programs . [S] [O] [A]	[S] good [O] best [A] programs
+the only thing i would change about it is the mouse keys . [O] [A] [S]	[O] change [A] mouse keys [S] bad
+the only thing i would change about it is the mouse keys . [A] [O] [S]	[A] mouse keys [O] change [S] bad
+the only thing i would change about it is the mouse keys . [O] [S] [A]	[O] change [S] bad [A] mouse keys
+the only thing i would change about it is the mouse keys . [A] [S] [O]	[A] mouse keys [S] bad [O] change
+the only thing i would change about it is the mouse keys . [S] [O] [A]	[S] bad [O] change [A] mouse keys
+after that i turned to email in my next vain help to get them to acknowledge that the warranty was still valid . [O] [A] [S]	[O] valid [A] warranty [S] ok
+after that i turned to email in my next vain help to get them to acknowledge that the warranty was still valid . [A] [O] [S]	[A] warranty [O] valid [S] ok
+after that i turned to email in my next vain help to get them to acknowledge that the warranty was still valid . [O] [S] [A]	[O] valid [S] ok [A] warranty
+after that i turned to email in my next vain help to get them to acknowledge that the warranty was still valid . [A] [S] [O]	[A] warranty [S] ok [O] valid
+after that i turned to email in my next vain help to get them to acknowledge that the warranty was still valid . [S] [O] [A]	[S] ok [O] valid [A] warranty
+they have developed excellent proprietary software for editing video and pictures and i 'm looking forward to utilizing these tools on the regular . [O] [A] [S]	[O] excellent [A] proprietary software [S] good
+they have developed excellent proprietary software for editing video and pictures and i 'm looking forward to utilizing these tools on the regular . [A] [O] [S]	[A] proprietary software [O] excellent [S] good
+they have developed excellent proprietary software for editing video and pictures and i 'm looking forward to utilizing these tools on the regular . [O] [S] [A]	[O] excellent [S] good [A] proprietary software
+they have developed excellent proprietary software for editing video and pictures and i 'm looking forward to utilizing these tools on the regular . [A] [S] [O]	[A] proprietary software [S] good [O] excellent
+they have developed excellent proprietary software for editing video and pictures and i 'm looking forward to utilizing these tools on the regular . [S] [O] [A]	[S] good [O] excellent [A] proprietary software
+graphics are clean and sharp , internet interfaces are seamless . [O] [A] [S]	[O] clean [A] graphics [S] good [SSEP] [O] sharp [A] graphics [S] good [SSEP] [O] seamless [A] internet interfaces [S] good
+graphics are clean and sharp , internet interfaces are seamless . [A] [O] [S]	[A] graphics [O] clean [S] good [SSEP] [A] graphics [O] sharp [S] good [SSEP] [A] internet interfaces [O] seamless [S] good
+graphics are clean and sharp , internet interfaces are seamless . [O] [S] [A]	[O] clean [S] good [A] graphics [SSEP] [O] sharp [S] good [A] graphics [SSEP] [O] seamless [S] good [A] internet interfaces
+graphics are clean and sharp , internet interfaces are seamless . [A] [S] [O]	[A] graphics [S] good [O] clean [SSEP] [A] graphics [S] good [O] sharp [SSEP] [A] internet interfaces [S] good [O] seamless
+graphics are clean and sharp , internet interfaces are seamless . [S] [O] [A]	[S] good [O] clean [A] graphics [SSEP] [S] good [O] sharp [A] graphics [SSEP] [S] good [O] seamless [A] internet interfaces
+but after using it a couple of weeks , the overall operation is poor . [O] [A] [S]	[O] poor [A] operation [S] bad
+but after using it a couple of weeks , the overall operation is poor . [A] [O] [S]	[A] operation [O] poor [S] bad
+but after using it a couple of weeks , the overall operation is poor . [O] [S] [A]	[O] poor [S] bad [A] operation
+but after using it a couple of weeks , the overall operation is poor . [A] [S] [O]	[A] operation [S] bad [O] poor
+but after using it a couple of weeks , the overall operation is poor . [S] [O] [A]	[S] bad [O] poor [A] operation
+i already have a hp laptop i bought last year that 's standard size . [O] [A] [S]	[O] standard [A] size [S] ok
+i already have a hp laptop i bought last year that 's standard size . [A] [O] [S]	[A] size [O] standard [S] ok
+i already have a hp laptop i bought last year that 's standard size . [O] [S] [A]	[O] standard [S] ok [A] size
+i already have a hp laptop i bought last year that 's standard size . [A] [S] [O]	[A] size [S] ok [O] standard
+i already have a hp laptop i bought last year that 's standard size . [S] [O] [A]	[S] ok [O] standard [A] size
+i just plug this into my 22 '' monitor and the speedy macosx performs just as well on this dual-core that my dell did with windows 7 with a quad-core . [O] [A] [S]	[O] speedy [A] macosx [S] good [SSEP] [O] well [A] macosx [S] good
+i just plug this into my 22 '' monitor and the speedy macosx performs just as well on this dual-core that my dell did with windows 7 with a quad-core . [A] [O] [S]	[A] macosx [O] speedy [S] good [SSEP] [A] macosx [O] well [S] good
+i just plug this into my 22 '' monitor and the speedy macosx performs just as well on this dual-core that my dell did with windows 7 with a quad-core . [O] [S] [A]	[O] speedy [S] good [A] macosx [SSEP] [O] well [S] good [A] macosx
+i just plug this into my 22 '' monitor and the speedy macosx performs just as well on this dual-core that my dell did with windows 7 with a quad-core . [A] [S] [O]	[A] macosx [S] good [O] speedy [SSEP] [A] macosx [S] good [O] well
+i just plug this into my 22 '' monitor and the speedy macosx performs just as well on this dual-core that my dell did with windows 7 with a quad-core . [S] [O] [A]	[S] good [O] speedy [A] macosx [SSEP] [S] good [O] well [A] macosx
+good monitor and performed well . [O] [A] [S]	[O] good [A] monitor [S] good [SSEP] [O] well [A] performed [S] good
+good monitor and performed well . [A] [O] [S]	[A] monitor [O] good [S] good [SSEP] [A] performed [O] well [S] good
+good monitor and performed well . [O] [S] [A]	[O] good [S] good [A] monitor [SSEP] [O] well [S] good [A] performed
+good monitor and performed well . [A] [S] [O]	[A] monitor [S] good [O] good [SSEP] [A] performed [S] good [O] well
+good monitor and performed well . [S] [O] [A]	[S] good [O] good [A] monitor [SSEP] [S] good [O] well [A] performed
+the mouse pad and buttons are the worst i 've ever seen . [O] [A] [S]	[O] worst [A] mouse pad [S] bad [SSEP] [O] worst [A] buttons [S] bad
+the mouse pad and buttons are the worst i 've ever seen . [A] [O] [S]	[A] mouse pad [O] worst [S] bad [SSEP] [A] buttons [O] worst [S] bad
+the mouse pad and buttons are the worst i 've ever seen . [O] [S] [A]	[O] worst [S] bad [A] mouse pad [SSEP] [O] worst [S] bad [A] buttons
+the mouse pad and buttons are the worst i 've ever seen . [A] [S] [O]	[A] mouse pad [S] bad [O] worst [SSEP] [A] buttons [S] bad [O] worst
+the mouse pad and buttons are the worst i 've ever seen . [S] [O] [A]	[S] bad [O] worst [A] mouse pad [SSEP] [S] bad [O] worst [A] buttons
+it really is perfect for work and play . [O] [A] [S]	[O] perfect [A] play [S] good [SSEP] [O] perfect [A] work [S] good
+it really is perfect for work and play . [A] [O] [S]	[A] play [O] perfect [S] good [SSEP] [A] work [O] perfect [S] good
+it really is perfect for work and play . [O] [S] [A]	[O] perfect [S] good [A] play [SSEP] [O] perfect [S] good [A] work
+it really is perfect for work and play . [A] [S] [O]	[A] play [S] good [O] perfect [SSEP] [A] work [S] good [O] perfect
+it really is perfect for work and play . [S] [O] [A]	[S] good [O] perfect [A] play [SSEP] [S] good [O] perfect [A] work
+eventually my battery would n't charge , so unless i had it plugged in it would n't even power on . [O] [A] [S]	[O] would n't charge [A] battery [S] bad
+eventually my battery would n't charge , so unless i had it plugged in it would n't even power on . [A] [O] [S]	[A] battery [O] would n't charge [S] bad
+eventually my battery would n't charge , so unless i had it plugged in it would n't even power on . [O] [S] [A]	[O] would n't charge [S] bad [A] battery
+eventually my battery would n't charge , so unless i had it plugged in it would n't even power on . [A] [S] [O]	[A] battery [S] bad [O] would n't charge
+eventually my battery would n't charge , so unless i had it plugged in it would n't even power on . [S] [O] [A]	[S] bad [O] would n't charge [A] battery
+my first problem was with the pre-loaded norton firewall/security program . [O] [A] [S]	[O] problem [A] pre-loaded norton firewall/security program [S] bad
+my first problem was with the pre-loaded norton firewall/security program . [A] [O] [S]	[A] pre-loaded norton firewall/security program [O] problem [S] bad
+my first problem was with the pre-loaded norton firewall/security program . [O] [S] [A]	[O] problem [S] bad [A] pre-loaded norton firewall/security program
+my first problem was with the pre-loaded norton firewall/security program . [A] [S] [O]	[A] pre-loaded norton firewall/security program [S] bad [O] problem
+my first problem was with the pre-loaded norton firewall/security program . [S] [O] [A]	[S] bad [O] problem [A] pre-loaded norton firewall/security program
+i had a usb connect but , i ca n't use it because it is not compatible . [O] [A] [S]	[O] ca n't use [A] usb connect [S] bad [SSEP] [O] not compatible [A] usb connect [S] bad
+i had a usb connect but , i ca n't use it because it is not compatible . [A] [O] [S]	[A] usb connect [O] ca n't use [S] bad [SSEP] [A] usb connect [O] not compatible [S] bad
+i had a usb connect but , i ca n't use it because it is not compatible . [O] [S] [A]	[O] ca n't use [S] bad [A] usb connect [SSEP] [O] not compatible [S] bad [A] usb connect
+i had a usb connect but , i ca n't use it because it is not compatible . [A] [S] [O]	[A] usb connect [S] bad [O] ca n't use [SSEP] [A] usb connect [S] bad [O] not compatible
+i had a usb connect but , i ca n't use it because it is not compatible . [S] [O] [A]	[S] bad [O] ca n't use [A] usb connect [SSEP] [S] bad [O] not compatible [A] usb connect
+it is easy to use , good quality and good price . [O] [A] [S]	[O] good [A] quality [S] good [SSEP] [O] good [A] price [S] good [SSEP] [O] easy [A] use [S] good
+it is easy to use , good quality and good price . [A] [O] [S]	[A] quality [O] good [S] good [SSEP] [A] price [O] good [S] good [SSEP] [A] use [O] easy [S] good
+it is easy to use , good quality and good price . [O] [S] [A]	[O] good [S] good [A] quality [SSEP] [O] good [S] good [A] price [SSEP] [O] easy [S] good [A] use
+it is easy to use , good quality and good price . [A] [S] [O]	[A] quality [S] good [O] good [SSEP] [A] price [S] good [O] good [SSEP] [A] use [S] good [O] easy
+it is easy to use , good quality and good price . [S] [O] [A]	[S] good [O] good [A] quality [SSEP] [S] good [O] good [A] price [SSEP] [S] good [O] easy [A] use
+after 2 months of complaints , asus finally sent the right power supply to my techies . [O] [A] [S]	[O] right [A] power supply [S] ok
+after 2 months of complaints , asus finally sent the right power supply to my techies . [A] [O] [S]	[A] power supply [O] right [S] ok
+after 2 months of complaints , asus finally sent the right power supply to my techies . [O] [S] [A]	[O] right [S] ok [A] power supply
+after 2 months of complaints , asus finally sent the right power supply to my techies . [A] [S] [O]	[A] power supply [S] ok [O] right
+after 2 months of complaints , asus finally sent the right power supply to my techies . [S] [O] [A]	[S] ok [O] right [A] power supply
+that included the extra sony sonic stage software , the speakers and the subwoofer i got ( that was worth the money ) , the bluetooth mouse for my supposedly bluetooth enabled computer , the extended life battery and the docking port . [O] [A] [S]	[O] extra [A] sony sonic stage software [S] ok [SSEP] [O] worth [A] speakers [S] good [SSEP] [O] worth [A] subwoofer [S] good
+that included the extra sony sonic stage software , the speakers and the subwoofer i got ( that was worth the money ) , the bluetooth mouse for my supposedly bluetooth enabled computer , the extended life battery and the docking port . [A] [O] [S]	[A] sony sonic stage software [O] extra [S] ok [SSEP] [A] speakers [O] worth [S] good [SSEP] [A] subwoofer [O] worth [S] good
+that included the extra sony sonic stage software , the speakers and the subwoofer i got ( that was worth the money ) , the bluetooth mouse for my supposedly bluetooth enabled computer , the extended life battery and the docking port . [O] [S] [A]	[O] extra [S] ok [A] sony sonic stage software [SSEP] [O] worth [S] good [A] speakers [SSEP] [O] worth [S] good [A] subwoofer
+that included the extra sony sonic stage software , the speakers and the subwoofer i got ( that was worth the money ) , the bluetooth mouse for my supposedly bluetooth enabled computer , the extended life battery and the docking port . [A] [S] [O]	[A] sony sonic stage software [S] ok [O] extra [SSEP] [A] speakers [S] good [O] worth [SSEP] [A] subwoofer [S] good [O] worth
+that included the extra sony sonic stage software , the speakers and the subwoofer i got ( that was worth the money ) , the bluetooth mouse for my supposedly bluetooth enabled computer , the extended life battery and the docking port . [S] [O] [A]	[S] ok [O] extra [A] sony sonic stage software [SSEP] [S] good [O] worth [A] speakers [SSEP] [S] good [O] worth [A] subwoofer
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard . [O] [A] [S]	[O] bad [A] keyboard [S] bad
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard . [A] [O] [S]	[A] keyboard [O] bad [S] bad
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard . [O] [S] [A]	[O] bad [S] bad [A] keyboard
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard . [A] [S] [O]	[A] keyboard [S] bad [O] bad
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard . [S] [O] [A]	[S] bad [O] bad [A] keyboard
+i agree with the previous comment that asus tech support is horrible which is a con in my opinion . [O] [A] [S]	[O] horrible [A] asus tech support [S] bad
+i agree with the previous comment that asus tech support is horrible which is a con in my opinion . [A] [O] [S]	[A] asus tech support [O] horrible [S] bad
+i agree with the previous comment that asus tech support is horrible which is a con in my opinion . [O] [S] [A]	[O] horrible [S] bad [A] asus tech support
+i agree with the previous comment that asus tech support is horrible which is a con in my opinion . [A] [S] [O]	[A] asus tech support [S] bad [O] horrible
+i agree with the previous comment that asus tech support is horrible which is a con in my opinion . [S] [O] [A]	[S] bad [O] horrible [A] asus tech support
+i would recommend this computer to anyone searching for the perfect laptop , and the battery life is amazing . [O] [A] [S]	[O] amazing [A] battery life [S] good
+i would recommend this computer to anyone searching for the perfect laptop , and the battery life is amazing . [A] [O] [S]	[A] battery life [O] amazing [S] good
+i would recommend this computer to anyone searching for the perfect laptop , and the battery life is amazing . [O] [S] [A]	[O] amazing [S] good [A] battery life
+i would recommend this computer to anyone searching for the perfect laptop , and the battery life is amazing . [A] [S] [O]	[A] battery life [S] good [O] amazing
+i would recommend this computer to anyone searching for the perfect laptop , and the battery life is amazing . [S] [O] [A]	[S] good [O] amazing [A] battery life
+not easy to carry . [O] [A] [S]	[O] easy [A] carry [S] bad
+not easy to carry . [A] [O] [S]	[A] carry [O] easy [S] bad
+not easy to carry . [O] [S] [A]	[O] easy [S] bad [A] carry
+not easy to carry . [A] [S] [O]	[A] carry [S] bad [O] easy
+not easy to carry . [S] [O] [A]	[S] bad [O] easy [A] carry
+summary : i 've had this laptop for 2 months , out of the blue the power adapter stops working . [O] [A] [S]	[O] stops working [A] power adapter [S] bad
+summary : i 've had this laptop for 2 months , out of the blue the power adapter stops working . [A] [O] [S]	[A] power adapter [O] stops working [S] bad
+summary : i 've had this laptop for 2 months , out of the blue the power adapter stops working . [O] [S] [A]	[O] stops working [S] bad [A] power adapter
+summary : i 've had this laptop for 2 months , out of the blue the power adapter stops working . [A] [S] [O]	[A] power adapter [S] bad [O] stops working
+summary : i 've had this laptop for 2 months , out of the blue the power adapter stops working . [S] [O] [A]	[S] bad [O] stops working [A] power adapter
+of course , for a student , weight is always an issue . [O] [A] [S]	[O] issue [A] weight [S] ok
+of course , for a student , weight is always an issue . [A] [O] [S]	[A] weight [O] issue [S] ok
+of course , for a student , weight is always an issue . [O] [S] [A]	[O] issue [S] ok [A] weight
+of course , for a student , weight is always an issue . [A] [S] [O]	[A] weight [S] ok [O] issue
+of course , for a student , weight is always an issue . [S] [O] [A]	[S] ok [O] issue [A] weight
+2.the wireless card is low quality . [O] [A] [S]	[O] low quality [A] wireless card [S] bad
+2.the wireless card is low quality . [A] [O] [S]	[A] wireless card [O] low quality [S] bad
+2.the wireless card is low quality . [O] [S] [A]	[O] low quality [S] bad [A] wireless card
+2.the wireless card is low quality . [A] [S] [O]	[A] wireless card [S] bad [O] low quality
+2.the wireless card is low quality . [S] [O] [A]	[S] bad [O] low quality [A] wireless card
+they offer the best warranty in the business , and do n't 3rd party it out like toshiba . [O] [A] [S]	[O] best [A] warranty [S] good
+they offer the best warranty in the business , and do n't 3rd party it out like toshiba . [A] [O] [S]	[A] warranty [O] best [S] good
+they offer the best warranty in the business , and do n't 3rd party it out like toshiba . [O] [S] [A]	[O] best [S] good [A] warranty
+they offer the best warranty in the business , and do n't 3rd party it out like toshiba . [A] [S] [O]	[A] warranty [S] good [O] best
+they offer the best warranty in the business , and do n't 3rd party it out like toshiba . [S] [O] [A]	[S] good [O] best [A] warranty
+the only problems are the sound isnt very loud i have to wear headphones . [O] [A] [S]	[O] isnt very loud [A] sound [S] bad
+the only problems are the sound isnt very loud i have to wear headphones . [A] [O] [S]	[A] sound [O] isnt very loud [S] bad
+the only problems are the sound isnt very loud i have to wear headphones . [O] [S] [A]	[O] isnt very loud [S] bad [A] sound
+the only problems are the sound isnt very loud i have to wear headphones . [A] [S] [O]	[A] sound [S] bad [O] isnt very loud
+the only problems are the sound isnt very loud i have to wear headphones . [S] [O] [A]	[S] bad [O] isnt very loud [A] sound
+there are no viruses or spyware to worry about like on a windows computer . [O] [A] [S]	[O] worry about [A] windows [S] bad
+there are no viruses or spyware to worry about like on a windows computer . [A] [O] [S]	[A] windows [O] worry about [S] bad
+there are no viruses or spyware to worry about like on a windows computer . [O] [S] [A]	[O] worry about [S] bad [A] windows
+there are no viruses or spyware to worry about like on a windows computer . [A] [S] [O]	[A] windows [S] bad [O] worry about
+there are no viruses or spyware to worry about like on a windows computer . [S] [O] [A]	[S] bad [O] worry about [A] windows
+while about 8 years ago , i hope that the quality has changed . [O] [A] [S]	[O] hope [A] quality [S] bad [SSEP] [O] changed [A] quality [S] bad
+while about 8 years ago , i hope that the quality has changed . [A] [O] [S]	[A] quality [O] hope [S] bad [SSEP] [A] quality [O] changed [S] bad
+while about 8 years ago , i hope that the quality has changed . [O] [S] [A]	[O] hope [S] bad [A] quality [SSEP] [O] changed [S] bad [A] quality
+while about 8 years ago , i hope that the quality has changed . [A] [S] [O]	[A] quality [S] bad [O] hope [SSEP] [A] quality [S] bad [O] changed
+while about 8 years ago , i hope that the quality has changed . [S] [O] [A]	[S] bad [O] hope [A] quality [SSEP] [S] bad [O] changed [A] quality
+the difference is it 's a whole lot of fun using the laptop now , still learning the apple navigation , but is fun and comes with a lot of cool apps . [O] [A] [S]	[O] fun [A] apple navigation [S] ok [SSEP] [O] cool [A] apps [S] good
+the difference is it 's a whole lot of fun using the laptop now , still learning the apple navigation , but is fun and comes with a lot of cool apps . [A] [O] [S]	[A] apple navigation [O] fun [S] ok [SSEP] [A] apps [O] cool [S] good
+the difference is it 's a whole lot of fun using the laptop now , still learning the apple navigation , but is fun and comes with a lot of cool apps . [O] [S] [A]	[O] fun [S] ok [A] apple navigation [SSEP] [O] cool [S] good [A] apps
+the difference is it 's a whole lot of fun using the laptop now , still learning the apple navigation , but is fun and comes with a lot of cool apps . [A] [S] [O]	[A] apple navigation [S] ok [O] fun [SSEP] [A] apps [S] good [O] cool
+the difference is it 's a whole lot of fun using the laptop now , still learning the apple navigation , but is fun and comes with a lot of cool apps . [S] [O] [A]	[S] ok [O] fun [A] apple navigation [SSEP] [S] good [O] cool [A] apps
+the display is awesome . [O] [A] [S]	[O] awesome [A] display [S] good
+the display is awesome . [A] [O] [S]	[A] display [O] awesome [S] good
+the display is awesome . [O] [S] [A]	[O] awesome [S] good [A] display
+the display is awesome . [A] [S] [O]	[A] display [S] good [O] awesome
+the display is awesome . [S] [O] [A]	[S] good [O] awesome [A] display
+the speakers on it are useless too . [O] [A] [S]	[O] useless [A] speakers [S] bad
+the speakers on it are useless too . [A] [O] [S]	[A] speakers [O] useless [S] bad
+the speakers on it are useless too . [O] [S] [A]	[O] useless [S] bad [A] speakers
+the speakers on it are useless too . [A] [S] [O]	[A] speakers [S] bad [O] useless
+the speakers on it are useless too . [S] [O] [A]	[S] bad [O] useless [A] speakers
+in early may i got it back and this time i only had it back for 1 day before it had a new issue so it was sent back in for the 6th time they `` expedited '' the repairs so i was only supposed to have to be without it for 3 days and it was supposed to be fixed , by a `` senior tech '' . [O] [A] [S]	[O] supposed to be fixed [A] senior tech [S] bad
+in early may i got it back and this time i only had it back for 1 day before it had a new issue so it was sent back in for the 6th time they `` expedited '' the repairs so i was only supposed to have to be without it for 3 days and it was supposed to be fixed , by a `` senior tech '' . [A] [O] [S]	[A] senior tech [O] supposed to be fixed [S] bad
+in early may i got it back and this time i only had it back for 1 day before it had a new issue so it was sent back in for the 6th time they `` expedited '' the repairs so i was only supposed to have to be without it for 3 days and it was supposed to be fixed , by a `` senior tech '' . [O] [S] [A]	[O] supposed to be fixed [S] bad [A] senior tech
+in early may i got it back and this time i only had it back for 1 day before it had a new issue so it was sent back in for the 6th time they `` expedited '' the repairs so i was only supposed to have to be without it for 3 days and it was supposed to be fixed , by a `` senior tech '' . [A] [S] [O]	[A] senior tech [S] bad [O] supposed to be fixed
+in early may i got it back and this time i only had it back for 1 day before it had a new issue so it was sent back in for the 6th time they `` expedited '' the repairs so i was only supposed to have to be without it for 3 days and it was supposed to be fixed , by a `` senior tech '' . [S] [O] [A]	[S] bad [O] supposed to be fixed [A] senior tech
+adjust the sensitivity since it 's not that responsive to begin with . [O] [A] [S]	[O] not that responsive [A] sensitivity [S] bad
+adjust the sensitivity since it 's not that responsive to begin with . [A] [O] [S]	[A] sensitivity [O] not that responsive [S] bad
+adjust the sensitivity since it 's not that responsive to begin with . [O] [S] [A]	[O] not that responsive [S] bad [A] sensitivity
+adjust the sensitivity since it 's not that responsive to begin with . [A] [S] [O]	[A] sensitivity [S] bad [O] not that responsive
+adjust the sensitivity since it 's not that responsive to begin with . [S] [O] [A]	[S] bad [O] not that responsive [A] sensitivity
+also , i have had a lot of trouble with the shift key to go to other lines . [O] [A] [S]	[O] trouble [A] shift key [S] bad
+also , i have had a lot of trouble with the shift key to go to other lines . [A] [O] [S]	[A] shift key [O] trouble [S] bad
+also , i have had a lot of trouble with the shift key to go to other lines . [O] [S] [A]	[O] trouble [S] bad [A] shift key
+also , i have had a lot of trouble with the shift key to go to other lines . [A] [S] [O]	[A] shift key [S] bad [O] trouble
+also , i have had a lot of trouble with the shift key to go to other lines . [S] [O] [A]	[S] bad [O] trouble [A] shift key
+ilife is easily compatible with microsoft office so you can send and receive files from a pc . [O] [A] [S]	[O] easily compatible [A] ilife [S] good
+ilife is easily compatible with microsoft office so you can send and receive files from a pc . [A] [O] [S]	[A] ilife [O] easily compatible [S] good
+ilife is easily compatible with microsoft office so you can send and receive files from a pc . [O] [S] [A]	[O] easily compatible [S] good [A] ilife
+ilife is easily compatible with microsoft office so you can send and receive files from a pc . [A] [S] [O]	[A] ilife [S] good [O] easily compatible
+ilife is easily compatible with microsoft office so you can send and receive files from a pc . [S] [O] [A]	[S] good [O] easily compatible [A] ilife
+fully charged , the macbook pro can last about five hours unplugged . [O] [A] [S]	[O] fully [A] charged [S] good
+fully charged , the macbook pro can last about five hours unplugged . [A] [O] [S]	[A] charged [O] fully [S] good
+fully charged , the macbook pro can last about five hours unplugged . [O] [S] [A]	[O] fully [S] good [A] charged
+fully charged , the macbook pro can last about five hours unplugged . [A] [S] [O]	[A] charged [S] good [O] fully
+fully charged , the macbook pro can last about five hours unplugged . [S] [O] [A]	[S] good [O] fully [A] charged
+also the display is exceptional ! [O] [A] [S]	[O] exceptional [A] display [S] good
+also the display is exceptional ! [A] [O] [S]	[A] display [O] exceptional [S] good
+also the display is exceptional ! [O] [S] [A]	[O] exceptional [S] good [A] display
+also the display is exceptional ! [A] [S] [O]	[A] display [S] good [O] exceptional
+also the display is exceptional ! [S] [O] [A]	[S] good [O] exceptional [A] display
+your cursor will end up all over the freaking place , , , it 's not uncommon for me to accidentally delete words , sentences , paragraphs because of this mousepad . [O] [A] [S]	[O] end up [A] cursor [S] bad [SSEP] [O] freaking [A] cursor [S] bad
+your cursor will end up all over the freaking place , , , it 's not uncommon for me to accidentally delete words , sentences , paragraphs because of this mousepad . [A] [O] [S]	[A] cursor [O] end up [S] bad [SSEP] [A] cursor [O] freaking [S] bad
+your cursor will end up all over the freaking place , , , it 's not uncommon for me to accidentally delete words , sentences , paragraphs because of this mousepad . [O] [S] [A]	[O] end up [S] bad [A] cursor [SSEP] [O] freaking [S] bad [A] cursor
+your cursor will end up all over the freaking place , , , it 's not uncommon for me to accidentally delete words , sentences , paragraphs because of this mousepad . [A] [S] [O]	[A] cursor [S] bad [O] end up [SSEP] [A] cursor [S] bad [O] freaking
+your cursor will end up all over the freaking place , , , it 's not uncommon for me to accidentally delete words , sentences , paragraphs because of this mousepad . [S] [O] [A]	[S] bad [O] end up [A] cursor [SSEP] [S] bad [O] freaking [A] cursor
+then i 've fixed the dc jack ( inside the unit ) , rewired the dc jack to the outside of the laptop , replaced the power brick . [O] [A] [S]	[O] fixed [A] dc jack [S] ok [SSEP] [O] rewired [A] dc jack [S] ok [SSEP] [O] replaced [A] power brick [S] ok
+then i 've fixed the dc jack ( inside the unit ) , rewired the dc jack to the outside of the laptop , replaced the power brick . [A] [O] [S]	[A] dc jack [O] fixed [S] ok [SSEP] [A] dc jack [O] rewired [S] ok [SSEP] [A] power brick [O] replaced [S] ok
+then i 've fixed the dc jack ( inside the unit ) , rewired the dc jack to the outside of the laptop , replaced the power brick . [O] [S] [A]	[O] fixed [S] ok [A] dc jack [SSEP] [O] rewired [S] ok [A] dc jack [SSEP] [O] replaced [S] ok [A] power brick
+then i 've fixed the dc jack ( inside the unit ) , rewired the dc jack to the outside of the laptop , replaced the power brick . [A] [S] [O]	[A] dc jack [S] ok [O] fixed [SSEP] [A] dc jack [S] ok [O] rewired [SSEP] [A] power brick [S] ok [O] replaced
+then i 've fixed the dc jack ( inside the unit ) , rewired the dc jack to the outside of the laptop , replaced the power brick . [S] [O] [A]	[S] ok [O] fixed [A] dc jack [SSEP] [S] ok [O] rewired [A] dc jack [SSEP] [S] ok [O] replaced [A] power brick
+great product , very easy to use and great graphics . [O] [A] [S]	[O] great [A] graphics [S] good [SSEP] [O] easy [A] use [S] good
+great product , very easy to use and great graphics . [A] [O] [S]	[A] graphics [O] great [S] good [SSEP] [A] use [O] easy [S] good
+great product , very easy to use and great graphics . [O] [S] [A]	[O] great [S] good [A] graphics [SSEP] [O] easy [S] good [A] use
+great product , very easy to use and great graphics . [A] [S] [O]	[A] graphics [S] good [O] great [SSEP] [A] use [S] good [O] easy
+great product , very easy to use and great graphics . [S] [O] [A]	[S] good [O] great [A] graphics [SSEP] [S] good [O] easy [A] use
+the built-in webcam is great for skype and similar video-chat services . [O] [A] [S]	[O] great [A] built-in webcam [S] good
+the built-in webcam is great for skype and similar video-chat services . [A] [O] [S]	[A] built-in webcam [O] great [S] good
+the built-in webcam is great for skype and similar video-chat services . [O] [S] [A]	[O] great [S] good [A] built-in webcam
+the built-in webcam is great for skype and similar video-chat services . [A] [S] [O]	[A] built-in webcam [S] good [O] great
+the built-in webcam is great for skype and similar video-chat services . [S] [O] [A]	[S] good [O] great [A] built-in webcam
+the motherboard is dead ! [O] [A] [S]	[O] dead [A] motherboard [S] bad
+the motherboard is dead ! [A] [O] [S]	[A] motherboard [O] dead [S] bad
+the motherboard is dead ! [O] [S] [A]	[O] dead [S] bad [A] motherboard
+the motherboard is dead ! [A] [S] [O]	[A] motherboard [S] bad [O] dead
+the motherboard is dead ! [S] [O] [A]	[S] bad [O] dead [A] motherboard
+this process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times . [O] [A] [S]	[O] replaced [A] mother board [S] bad [SSEP] [O] replaced [A] hard drive [S] bad
+this process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times . [A] [O] [S]	[A] mother board [O] replaced [S] bad [SSEP] [A] hard drive [O] replaced [S] bad
+this process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times . [O] [S] [A]	[O] replaced [S] bad [A] mother board [SSEP] [O] replaced [S] bad [A] hard drive
+this process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times . [A] [S] [O]	[A] mother board [S] bad [O] replaced [SSEP] [A] hard drive [S] bad [O] replaced
+this process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times . [S] [O] [A]	[S] bad [O] replaced [A] mother board [SSEP] [S] bad [O] replaced [A] hard drive
+i could n't believe how long the battery lasted on a single charge . [O] [A] [S]	[O] long [A] battery [S] good [SSEP] [O] single [A] charge [S] good
+i could n't believe how long the battery lasted on a single charge . [A] [O] [S]	[A] battery [O] long [S] good [SSEP] [A] charge [O] single [S] good
+i could n't believe how long the battery lasted on a single charge . [O] [S] [A]	[O] long [S] good [A] battery [SSEP] [O] single [S] good [A] charge
+i could n't believe how long the battery lasted on a single charge . [A] [S] [O]	[A] battery [S] good [O] long [SSEP] [A] charge [S] good [O] single
+i could n't believe how long the battery lasted on a single charge . [S] [O] [A]	[S] good [O] long [A] battery [SSEP] [S] good [O] single [A] charge
+the backlit keys are wonderful when you are working in the dark . [O] [A] [S]	[O] wonderful [A] backlit keys [S] good
+the backlit keys are wonderful when you are working in the dark . [A] [O] [S]	[A] backlit keys [O] wonderful [S] good
+the backlit keys are wonderful when you are working in the dark . [O] [S] [A]	[O] wonderful [S] good [A] backlit keys
+the backlit keys are wonderful when you are working in the dark . [A] [S] [O]	[A] backlit keys [S] good [O] wonderful
+the backlit keys are wonderful when you are working in the dark . [S] [O] [A]	[S] good [O] wonderful [A] backlit keys
+the most recent being that my safari internet browser is freaking out on me , but i have just been using firefox instead . [O] [A] [S]	[O] freaking out [A] safari internet browser [S] bad
+the most recent being that my safari internet browser is freaking out on me , but i have just been using firefox instead . [A] [O] [S]	[A] safari internet browser [O] freaking out [S] bad
+the most recent being that my safari internet browser is freaking out on me , but i have just been using firefox instead . [O] [S] [A]	[O] freaking out [S] bad [A] safari internet browser
+the most recent being that my safari internet browser is freaking out on me , but i have just been using firefox instead . [A] [S] [O]	[A] safari internet browser [S] bad [O] freaking out
+the most recent being that my safari internet browser is freaking out on me , but i have just been using firefox instead . [S] [O] [A]	[S] bad [O] freaking out [A] safari internet browser
+the dvd drive randomly pops open when it is in my backpack as well , which is annoying . [O] [A] [S]	[O] randomly pops open [A] dvd drive [S] bad [SSEP] [O] annoying [A] dvd drive [S] bad
+the dvd drive randomly pops open when it is in my backpack as well , which is annoying . [A] [O] [S]	[A] dvd drive [O] randomly pops open [S] bad [SSEP] [A] dvd drive [O] annoying [S] bad
+the dvd drive randomly pops open when it is in my backpack as well , which is annoying . [O] [S] [A]	[O] randomly pops open [S] bad [A] dvd drive [SSEP] [O] annoying [S] bad [A] dvd drive
+the dvd drive randomly pops open when it is in my backpack as well , which is annoying . [A] [S] [O]	[A] dvd drive [S] bad [O] randomly pops open [SSEP] [A] dvd drive [S] bad [O] annoying
+the dvd drive randomly pops open when it is in my backpack as well , which is annoying . [S] [O] [A]	[S] bad [O] randomly pops open [A] dvd drive [SSEP] [S] bad [O] annoying [A] dvd drive
+its also fun to use ! [O] [A] [S]	[O] fun [A] use [S] good
+its also fun to use ! [A] [O] [S]	[A] use [O] fun [S] good
+its also fun to use ! [O] [S] [A]	[O] fun [S] good [A] use
+its also fun to use ! [A] [S] [O]	[A] use [S] good [O] fun
+its also fun to use ! [S] [O] [A]	[S] good [O] fun [A] use
+the graphics and screen are stunning and although i was a pc person , i was able to understand how to use a mac fairly quickly . [O] [A] [S]	[O] stunning [A] graphics [S] good [SSEP] [O] stunning [A] screen [S] good
+the graphics and screen are stunning and although i was a pc person , i was able to understand how to use a mac fairly quickly . [A] [O] [S]	[A] graphics [O] stunning [S] good [SSEP] [A] screen [O] stunning [S] good
+the graphics and screen are stunning and although i was a pc person , i was able to understand how to use a mac fairly quickly . [O] [S] [A]	[O] stunning [S] good [A] graphics [SSEP] [O] stunning [S] good [A] screen
+the graphics and screen are stunning and although i was a pc person , i was able to understand how to use a mac fairly quickly . [A] [S] [O]	[A] graphics [S] good [O] stunning [SSEP] [A] screen [S] good [O] stunning
+the graphics and screen are stunning and although i was a pc person , i was able to understand how to use a mac fairly quickly . [S] [O] [A]	[S] good [O] stunning [A] graphics [SSEP] [S] good [O] stunning [A] screen
+i just took the broken cords into the apple store and they gave me new ones . [O] [A] [S]	[O] broken [A] cords [S] good
+i just took the broken cords into the apple store and they gave me new ones . [A] [O] [S]	[A] cords [O] broken [S] good
+i just took the broken cords into the apple store and they gave me new ones . [O] [S] [A]	[O] broken [S] good [A] cords
+i just took the broken cords into the apple store and they gave me new ones . [A] [S] [O]	[A] cords [S] good [O] broken
+i just took the broken cords into the apple store and they gave me new ones . [S] [O] [A]	[S] good [O] broken [A] cords
+the screen is gorgeous - yummy good . [O] [A] [S]	[O] gorgeous [A] screen [S] good [SSEP] [O] good [A] screen [S] good
+the screen is gorgeous - yummy good . [A] [O] [S]	[A] screen [O] gorgeous [S] good [SSEP] [A] screen [O] good [S] good
+the screen is gorgeous - yummy good . [O] [S] [A]	[O] gorgeous [S] good [A] screen [SSEP] [O] good [S] good [A] screen
+the screen is gorgeous - yummy good . [A] [S] [O]	[A] screen [S] good [O] gorgeous [SSEP] [A] screen [S] good [O] good
+the screen is gorgeous - yummy good . [S] [O] [A]	[S] good [O] gorgeous [A] screen [SSEP] [S] good [O] good [A] screen
+the macbook starts fast , does n't crash , has a fantastic display , is small and light ( i have the 13.3 '' model ) , and is n't always complaining about updates , lost connections , errors , blue screens , etc . [O] [A] [S]	[O] fantastic [A] display [S] good [SSEP] [O] fast [A] starts [S] good
+the macbook starts fast , does n't crash , has a fantastic display , is small and light ( i have the 13.3 '' model ) , and is n't always complaining about updates , lost connections , errors , blue screens , etc . [A] [O] [S]	[A] display [O] fantastic [S] good [SSEP] [A] starts [O] fast [S] good
+the macbook starts fast , does n't crash , has a fantastic display , is small and light ( i have the 13.3 '' model ) , and is n't always complaining about updates , lost connections , errors , blue screens , etc . [O] [S] [A]	[O] fantastic [S] good [A] display [SSEP] [O] fast [S] good [A] starts
+the macbook starts fast , does n't crash , has a fantastic display , is small and light ( i have the 13.3 '' model ) , and is n't always complaining about updates , lost connections , errors , blue screens , etc . [A] [S] [O]	[A] display [S] good [O] fantastic [SSEP] [A] starts [S] good [O] fast
+the macbook starts fast , does n't crash , has a fantastic display , is small and light ( i have the 13.3 '' model ) , and is n't always complaining about updates , lost connections , errors , blue screens , etc . [S] [O] [A]	[S] good [O] fantastic [A] display [SSEP] [S] good [O] fast [A] starts
+the guy then said that if i insist on having the hinge tightened , they can do it for me but i have to accept the condition after the `` repair '' . [O] [A] [S]	[O] tightened [A] hinge [S] ok
+the guy then said that if i insist on having the hinge tightened , they can do it for me but i have to accept the condition after the `` repair '' . [A] [O] [S]	[A] hinge [O] tightened [S] ok
+the guy then said that if i insist on having the hinge tightened , they can do it for me but i have to accept the condition after the `` repair '' . [O] [S] [A]	[O] tightened [S] ok [A] hinge
+the guy then said that if i insist on having the hinge tightened , they can do it for me but i have to accept the condition after the `` repair '' . [A] [S] [O]	[A] hinge [S] ok [O] tightened
+the guy then said that if i insist on having the hinge tightened , they can do it for me but i have to accept the condition after the `` repair '' . [S] [O] [A]	[S] ok [O] tightened [A] hinge
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop . [O] [A] [S]	[O] awful [A] setup [S] bad
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop . [A] [O] [S]	[A] setup [O] awful [S] bad
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop . [O] [S] [A]	[O] awful [S] bad [A] setup
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop . [A] [S] [O]	[A] setup [S] bad [O] awful
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop . [S] [O] [A]	[S] bad [O] awful [A] setup
+my friend just had to replace his entire motherboard , so did my wife , and it looks like i will have to as well . [O] [A] [S]	[O] replace [A] motherboard [S] bad
+my friend just had to replace his entire motherboard , so did my wife , and it looks like i will have to as well . [A] [O] [S]	[A] motherboard [O] replace [S] bad
+my friend just had to replace his entire motherboard , so did my wife , and it looks like i will have to as well . [O] [S] [A]	[O] replace [S] bad [A] motherboard
+my friend just had to replace his entire motherboard , so did my wife , and it looks like i will have to as well . [A] [S] [O]	[A] motherboard [S] bad [O] replace
+my friend just had to replace his entire motherboard , so did my wife , and it looks like i will have to as well . [S] [O] [A]	[S] bad [O] replace [A] motherboard
+first , it does not have a push button to open the lid . [O] [A] [S]	[O] does not [A] push button [S] bad
+first , it does not have a push button to open the lid . [A] [O] [S]	[A] push button [O] does not [S] bad
+first , it does not have a push button to open the lid . [O] [S] [A]	[O] does not [S] bad [A] push button
+first , it does not have a push button to open the lid . [A] [S] [O]	[A] push button [S] bad [O] does not
+first , it does not have a push button to open the lid . [S] [O] [A]	[S] bad [O] does not [A] push button
+the screen almost looked like a barcode when it froze . [O] [A] [S]	[O] barcode [A] screen [S] bad [SSEP] [O] froze [A] screen [S] bad
+the screen almost looked like a barcode when it froze . [A] [O] [S]	[A] screen [O] barcode [S] bad [SSEP] [A] screen [O] froze [S] bad
+the screen almost looked like a barcode when it froze . [O] [S] [A]	[O] barcode [S] bad [A] screen [SSEP] [O] froze [S] bad [A] screen
+the screen almost looked like a barcode when it froze . [A] [S] [O]	[A] screen [S] bad [O] barcode [SSEP] [A] screen [S] bad [O] froze
+the screen almost looked like a barcode when it froze . [S] [O] [A]	[S] bad [O] barcode [A] screen [SSEP] [S] bad [O] froze [A] screen
+i love the solid machined aluminum frame , and the keyboard is the best of any laptop i 've used . [O] [A] [S]	[O] love [A] machined aluminum frame [S] good [SSEP] [O] solid [A] machined aluminum frame [S] good [SSEP] [O] best [A] keyboard [S] good
+i love the solid machined aluminum frame , and the keyboard is the best of any laptop i 've used . [A] [O] [S]	[A] machined aluminum frame [O] love [S] good [SSEP] [A] machined aluminum frame [O] solid [S] good [SSEP] [A] keyboard [O] best [S] good
+i love the solid machined aluminum frame , and the keyboard is the best of any laptop i 've used . [O] [S] [A]	[O] love [S] good [A] machined aluminum frame [SSEP] [O] solid [S] good [A] machined aluminum frame [SSEP] [O] best [S] good [A] keyboard
+i love the solid machined aluminum frame , and the keyboard is the best of any laptop i 've used . [A] [S] [O]	[A] machined aluminum frame [S] good [O] love [SSEP] [A] machined aluminum frame [S] good [O] solid [SSEP] [A] keyboard [S] good [O] best
+i love the solid machined aluminum frame , and the keyboard is the best of any laptop i 've used . [S] [O] [A]	[S] good [O] love [A] machined aluminum frame [SSEP] [S] good [O] solid [A] machined aluminum frame [SSEP] [S] good [O] best [A] keyboard
+you can even run a parallels type program easily and run any leftover pc software that you absolutely can not be without . [O] [A] [S]	[O] easily [A] parallels type program [S] good
+you can even run a parallels type program easily and run any leftover pc software that you absolutely can not be without . [A] [O] [S]	[A] parallels type program [O] easily [S] good
+you can even run a parallels type program easily and run any leftover pc software that you absolutely can not be without . [O] [S] [A]	[O] easily [S] good [A] parallels type program
+you can even run a parallels type program easily and run any leftover pc software that you absolutely can not be without . [A] [S] [O]	[A] parallels type program [S] good [O] easily
+you can even run a parallels type program easily and run any leftover pc software that you absolutely can not be without . [S] [O] [A]	[S] good [O] easily [A] parallels type program
+it has easy to use features and all the speed and power i could ask for . [O] [A] [S]	[O] easy [A] features [S] good [SSEP] [O] easy [A] speed [S] good [SSEP] [O] easy [A] power [S] good
+it has easy to use features and all the speed and power i could ask for . [A] [O] [S]	[A] features [O] easy [S] good [SSEP] [A] speed [O] easy [S] good [SSEP] [A] power [O] easy [S] good
+it has easy to use features and all the speed and power i could ask for . [O] [S] [A]	[O] easy [S] good [A] features [SSEP] [O] easy [S] good [A] speed [SSEP] [O] easy [S] good [A] power
+it has easy to use features and all the speed and power i could ask for . [A] [S] [O]	[A] features [S] good [O] easy [SSEP] [A] speed [S] good [O] easy [SSEP] [A] power [S] good [O] easy
+it has easy to use features and all the speed and power i could ask for . [S] [O] [A]	[S] good [O] easy [A] features [SSEP] [S] good [O] easy [A] speed [SSEP] [S] good [O] easy [A] power
+the mac snow leopard o/s is extremely easy to use , although very different than win xp , visa or win7 . [O] [A] [S]	[O] easy to use [A] mac snow leopard o/s [S] good [SSEP] [O] different [A] mac snow leopard o/s [S] good
+the mac snow leopard o/s is extremely easy to use , although very different than win xp , visa or win7 . [A] [O] [S]	[A] mac snow leopard o/s [O] easy to use [S] good [SSEP] [A] mac snow leopard o/s [O] different [S] good
+the mac snow leopard o/s is extremely easy to use , although very different than win xp , visa or win7 . [O] [S] [A]	[O] easy to use [S] good [A] mac snow leopard o/s [SSEP] [O] different [S] good [A] mac snow leopard o/s
+the mac snow leopard o/s is extremely easy to use , although very different than win xp , visa or win7 . [A] [S] [O]	[A] mac snow leopard o/s [S] good [O] easy to use [SSEP] [A] mac snow leopard o/s [S] good [O] different
+the mac snow leopard o/s is extremely easy to use , although very different than win xp , visa or win7 . [S] [O] [A]	[S] good [O] easy to use [A] mac snow leopard o/s [SSEP] [S] good [O] different [A] mac snow leopard o/s
+super fast processor and really nice graphics card ... [O] [A] [S]	[O] fast [A] processor [S] good [SSEP] [O] nice [A] graphics card [S] good
+super fast processor and really nice graphics card ... [A] [O] [S]	[A] processor [O] fast [S] good [SSEP] [A] graphics card [O] nice [S] good
+super fast processor and really nice graphics card ... [O] [S] [A]	[O] fast [S] good [A] processor [SSEP] [O] nice [S] good [A] graphics card
+super fast processor and really nice graphics card ... [A] [S] [O]	[A] processor [S] good [O] fast [SSEP] [A] graphics card [S] good [O] nice
+super fast processor and really nice graphics card ... [S] [O] [A]	[S] good [O] fast [A] processor [SSEP] [S] good [O] nice [A] graphics card
+i dislike the weight and size , cubersome . [O] [A] [S]	[O] dislike [A] weight [S] bad [SSEP] [O] cubersome [A] weight [S] bad [SSEP] [O] dislike [A] size [S] bad [SSEP] [O] cubersome [A] size [S] bad
+i dislike the weight and size , cubersome . [A] [O] [S]	[A] weight [O] dislike [S] bad [SSEP] [A] weight [O] cubersome [S] bad [SSEP] [A] size [O] dislike [S] bad [SSEP] [A] size [O] cubersome [S] bad
+i dislike the weight and size , cubersome . [O] [S] [A]	[O] dislike [S] bad [A] weight [SSEP] [O] cubersome [S] bad [A] weight [SSEP] [O] dislike [S] bad [A] size [SSEP] [O] cubersome [S] bad [A] size
+i dislike the weight and size , cubersome . [A] [S] [O]	[A] weight [S] bad [O] dislike [SSEP] [A] weight [S] bad [O] cubersome [SSEP] [A] size [S] bad [O] dislike [SSEP] [A] size [S] bad [O] cubersome
+i dislike the weight and size , cubersome . [S] [O] [A]	[S] bad [O] dislike [A] weight [SSEP] [S] bad [O] cubersome [A] weight [SSEP] [S] bad [O] dislike [A] size [SSEP] [S] bad [O] cubersome [A] size
+i love windows 7 but i ca n't give toshiba any credit for that , unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time . [O] [A] [S]	[O] love [A] windows 7 [S] good [SSEP] [O] serious [A] ergonomics [S] bad [SSEP] [O] less obtrusive [A] connections [S] bad
+i love windows 7 but i ca n't give toshiba any credit for that , unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time . [A] [O] [S]	[A] windows 7 [O] love [S] good [SSEP] [A] ergonomics [O] serious [S] bad [SSEP] [A] connections [O] less obtrusive [S] bad
+i love windows 7 but i ca n't give toshiba any credit for that , unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time . [O] [S] [A]	[O] love [S] good [A] windows 7 [SSEP] [O] serious [S] bad [A] ergonomics [SSEP] [O] less obtrusive [S] bad [A] connections
+i love windows 7 but i ca n't give toshiba any credit for that , unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time . [A] [S] [O]	[A] windows 7 [S] good [O] love [SSEP] [A] ergonomics [S] bad [O] serious [SSEP] [A] connections [S] bad [O] less obtrusive
+i love windows 7 but i ca n't give toshiba any credit for that , unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time . [S] [O] [A]	[S] good [O] love [A] windows 7 [SSEP] [S] bad [O] serious [A] ergonomics [SSEP] [S] bad [O] less obtrusive [A] connections
+not sure how i recommend it for quality gaming , as i have a desktop rig for that reason . [O] [A] [S]	[O] quality [A] gaming [S] bad
+not sure how i recommend it for quality gaming , as i have a desktop rig for that reason . [A] [O] [S]	[A] gaming [O] quality [S] bad
+not sure how i recommend it for quality gaming , as i have a desktop rig for that reason . [O] [S] [A]	[O] quality [S] bad [A] gaming
+not sure how i recommend it for quality gaming , as i have a desktop rig for that reason . [A] [S] [O]	[A] gaming [S] bad [O] quality
+not sure how i recommend it for quality gaming , as i have a desktop rig for that reason . [S] [O] [A]	[S] bad [O] quality [A] gaming
+great value , fast delivery -- computer works as if brand new , no problems , very pleased [O] [A] [S]	[O] fast [A] delivery [S] good [SSEP] [O] pleased [A] delivery [S] good [SSEP] [O] great [A] value [S] good [SSEP] [O] pleased [A] value [S] good
+great value , fast delivery -- computer works as if brand new , no problems , very pleased [A] [O] [S]	[A] delivery [O] fast [S] good [SSEP] [A] delivery [O] pleased [S] good [SSEP] [A] value [O] great [S] good [SSEP] [A] value [O] pleased [S] good
+great value , fast delivery -- computer works as if brand new , no problems , very pleased [O] [S] [A]	[O] fast [S] good [A] delivery [SSEP] [O] pleased [S] good [A] delivery [SSEP] [O] great [S] good [A] value [SSEP] [O] pleased [S] good [A] value
+great value , fast delivery -- computer works as if brand new , no problems , very pleased [A] [S] [O]	[A] delivery [S] good [O] fast [SSEP] [A] delivery [S] good [O] pleased [SSEP] [A] value [S] good [O] great [SSEP] [A] value [S] good [O] pleased
+great value , fast delivery -- computer works as if brand new , no problems , very pleased [S] [O] [A]	[S] good [O] fast [A] delivery [SSEP] [S] good [O] pleased [A] delivery [SSEP] [S] good [O] great [A] value [SSEP] [S] good [O] pleased [A] value
+so the fact that the computer does not work on the 24 twenty fourth day is my fault . [O] [A] [S]	[O] does not [A] work [S] bad
+so the fact that the computer does not work on the 24 twenty fourth day is my fault . [A] [O] [S]	[A] work [O] does not [S] bad
+so the fact that the computer does not work on the 24 twenty fourth day is my fault . [O] [S] [A]	[O] does not [S] bad [A] work
+so the fact that the computer does not work on the 24 twenty fourth day is my fault . [A] [S] [O]	[A] work [S] bad [O] does not
+so the fact that the computer does not work on the 24 twenty fourth day is my fault . [S] [O] [A]	[S] bad [O] does not [A] work
+i would definitely reccomend this if you are in the market for an ease to use , stylish , fun , awesome computer . [O] [A] [S]	[O] ease [A] use [S] good
+i would definitely reccomend this if you are in the market for an ease to use , stylish , fun , awesome computer . [A] [O] [S]	[A] use [O] ease [S] good
+i would definitely reccomend this if you are in the market for an ease to use , stylish , fun , awesome computer . [O] [S] [A]	[O] ease [S] good [A] use
+i would definitely reccomend this if you are in the market for an ease to use , stylish , fun , awesome computer . [A] [S] [O]	[A] use [S] good [O] ease
+i would definitely reccomend this if you are in the market for an ease to use , stylish , fun , awesome computer . [S] [O] [A]	[S] good [O] ease [A] use
+the windows 7 starter is , in my opinion , a great way to think about using your netbook : basics , basics , basics . [O] [A] [S]	[O] great [A] windows 7 starter [S] good
+the windows 7 starter is , in my opinion , a great way to think about using your netbook : basics , basics , basics . [A] [O] [S]	[A] windows 7 starter [O] great [S] good
+the windows 7 starter is , in my opinion , a great way to think about using your netbook : basics , basics , basics . [O] [S] [A]	[O] great [S] good [A] windows 7 starter
+the windows 7 starter is , in my opinion , a great way to think about using your netbook : basics , basics , basics . [A] [S] [O]	[A] windows 7 starter [S] good [O] great
+the windows 7 starter is , in my opinion , a great way to think about using your netbook : basics , basics , basics . [S] [O] [A]	[S] good [O] great [A] windows 7 starter
+so we exchanged it for the same on and after 2 hours it did n't work . [O] [A] [S]	[O] did n't [A] work [S] bad
+so we exchanged it for the same on and after 2 hours it did n't work . [A] [O] [S]	[A] work [O] did n't [S] bad
+so we exchanged it for the same on and after 2 hours it did n't work . [O] [S] [A]	[O] did n't [S] bad [A] work
+so we exchanged it for the same on and after 2 hours it did n't work . [A] [S] [O]	[A] work [S] bad [O] did n't
+so we exchanged it for the same on and after 2 hours it did n't work . [S] [O] [A]	[S] bad [O] did n't [A] work
+the os is still as fast as the day that the laptop was purchased and continues to run flawlessly . [O] [A] [S]	[O] fast [A] os [S] good [SSEP] [O] flawlessly [A] run [S] good
+the os is still as fast as the day that the laptop was purchased and continues to run flawlessly . [A] [O] [S]	[A] os [O] fast [S] good [SSEP] [A] run [O] flawlessly [S] good
+the os is still as fast as the day that the laptop was purchased and continues to run flawlessly . [O] [S] [A]	[O] fast [S] good [A] os [SSEP] [O] flawlessly [S] good [A] run
+the os is still as fast as the day that the laptop was purchased and continues to run flawlessly . [A] [S] [O]	[A] os [S] good [O] fast [SSEP] [A] run [S] good [O] flawlessly
+the os is still as fast as the day that the laptop was purchased and continues to run flawlessly . [S] [O] [A]	[S] good [O] fast [A] os [SSEP] [S] good [O] flawlessly [A] run
+after way too many times sending the thing in for repairs ( delivery service was slow , and without the laptop i had no access to the internet , and thus no way of tracking it to find out when i might hope to see my computer again ) , it finally kicked the bucket after just over 2 years . [O] [A] [S]	[O] slow [A] delivery service [S] bad
+after way too many times sending the thing in for repairs ( delivery service was slow , and without the laptop i had no access to the internet , and thus no way of tracking it to find out when i might hope to see my computer again ) , it finally kicked the bucket after just over 2 years . [A] [O] [S]	[A] delivery service [O] slow [S] bad
+after way too many times sending the thing in for repairs ( delivery service was slow , and without the laptop i had no access to the internet , and thus no way of tracking it to find out when i might hope to see my computer again ) , it finally kicked the bucket after just over 2 years . [O] [S] [A]	[O] slow [S] bad [A] delivery service
+after way too many times sending the thing in for repairs ( delivery service was slow , and without the laptop i had no access to the internet , and thus no way of tracking it to find out when i might hope to see my computer again ) , it finally kicked the bucket after just over 2 years . [A] [S] [O]	[A] delivery service [S] bad [O] slow
+after way too many times sending the thing in for repairs ( delivery service was slow , and without the laptop i had no access to the internet , and thus no way of tracking it to find out when i might hope to see my computer again ) , it finally kicked the bucket after just over 2 years . [S] [O] [A]	[S] bad [O] slow [A] delivery service
+the only thing i wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does . [O] [A] [S]	[O] turn off [A] touchpad [S] bad
+the only thing i wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does . [A] [O] [S]	[A] touchpad [O] turn off [S] bad
+the only thing i wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does . [O] [S] [A]	[O] turn off [S] bad [A] touchpad
+the only thing i wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does . [A] [S] [O]	[A] touchpad [S] bad [O] turn off
+the only thing i wish this had was the option to turn off the touchpad with a button like my big 16 '' laptop does . [S] [O] [A]	[S] bad [O] turn off [A] touchpad
+i especially like the backlit keyboard . [O] [A] [S]	[O] like [A] backlit keyboard [S] good
+i especially like the backlit keyboard . [A] [O] [S]	[A] backlit keyboard [O] like [S] good
+i especially like the backlit keyboard . [O] [S] [A]	[O] like [S] good [A] backlit keyboard
+i especially like the backlit keyboard . [A] [S] [O]	[A] backlit keyboard [S] good [O] like
+i especially like the backlit keyboard . [S] [O] [A]	[S] good [O] like [A] backlit keyboard
+the buttons you have to press a little harder than most . [O] [A] [S]	[O] harder [A] buttons [S] bad
+the buttons you have to press a little harder than most . [A] [O] [S]	[A] buttons [O] harder [S] bad
+the buttons you have to press a little harder than most . [O] [S] [A]	[O] harder [S] bad [A] buttons
+the buttons you have to press a little harder than most . [A] [S] [O]	[A] buttons [S] bad [O] harder
+the buttons you have to press a little harder than most . [S] [O] [A]	[S] bad [O] harder [A] buttons
+but to be honest , i do n't use my computer for anything like graphics editing and complex data analysis and gaming . [O] [A] [S]	[O] do n't use [A] gaming [S] ok [SSEP] [O] do n't use [A] graphics editing [S] ok [SSEP] [O] do n't use [A] complex data analysis [S] ok
+but to be honest , i do n't use my computer for anything like graphics editing and complex data analysis and gaming . [A] [O] [S]	[A] gaming [O] do n't use [S] ok [SSEP] [A] graphics editing [O] do n't use [S] ok [SSEP] [A] complex data analysis [O] do n't use [S] ok
+but to be honest , i do n't use my computer for anything like graphics editing and complex data analysis and gaming . [O] [S] [A]	[O] do n't use [S] ok [A] gaming [SSEP] [O] do n't use [S] ok [A] graphics editing [SSEP] [O] do n't use [S] ok [A] complex data analysis
+but to be honest , i do n't use my computer for anything like graphics editing and complex data analysis and gaming . [A] [S] [O]	[A] gaming [S] ok [O] do n't use [SSEP] [A] graphics editing [S] ok [O] do n't use [SSEP] [A] complex data analysis [S] ok [O] do n't use
+but to be honest , i do n't use my computer for anything like graphics editing and complex data analysis and gaming . [S] [O] [A]	[S] ok [O] do n't use [A] gaming [SSEP] [S] ok [O] do n't use [A] graphics editing [SSEP] [S] ok [O] do n't use [A] complex data analysis
+the one thing i wish it had was a detailed hardcopy manuel . [O] [A] [S]	[O] wish [A] hardcopy manuel [S] bad [SSEP] [O] detailed [A] hardcopy manuel [S] bad
+the one thing i wish it had was a detailed hardcopy manuel . [A] [O] [S]	[A] hardcopy manuel [O] wish [S] bad [SSEP] [A] hardcopy manuel [O] detailed [S] bad
+the one thing i wish it had was a detailed hardcopy manuel . [O] [S] [A]	[O] wish [S] bad [A] hardcopy manuel [SSEP] [O] detailed [S] bad [A] hardcopy manuel
+the one thing i wish it had was a detailed hardcopy manuel . [A] [S] [O]	[A] hardcopy manuel [S] bad [O] wish [SSEP] [A] hardcopy manuel [S] bad [O] detailed
+the one thing i wish it had was a detailed hardcopy manuel . [S] [O] [A]	[S] bad [O] wish [A] hardcopy manuel [SSEP] [S] bad [O] detailed [A] hardcopy manuel
+the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds . [O] [A] [S]	[O] easy [A] speeds [S] good [SSEP] [O] blazing [A] speeds [S] good
+the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds . [A] [O] [S]	[A] speeds [O] easy [S] good [SSEP] [A] speeds [O] blazing [S] good
+the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds . [O] [S] [A]	[O] easy [S] good [A] speeds [SSEP] [O] blazing [S] good [A] speeds
+the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds . [A] [S] [O]	[A] speeds [S] good [O] easy [SSEP] [A] speeds [S] good [O] blazing
+the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds . [S] [O] [A]	[S] good [O] easy [A] speeds [SSEP] [S] good [O] blazing [A] speeds
+however , i love this particular mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad . [O] [A] [S]	[O] great [A] size [S] good [SSEP] [O] fantastic [A] features [S] good [SSEP] [O] fantastic [A] lighted keyboard [S] good [SSEP] [O] fantastic [A] mouse pad [S] good [SSEP] [O] easy [A] mouse pad [S] good
+however , i love this particular mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad . [A] [O] [S]	[A] size [O] great [S] good [SSEP] [A] features [O] fantastic [S] good [SSEP] [A] lighted keyboard [O] fantastic [S] good [SSEP] [A] mouse pad [O] fantastic [S] good [SSEP] [A] mouse pad [O] easy [S] good
+however , i love this particular mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad . [O] [S] [A]	[O] great [S] good [A] size [SSEP] [O] fantastic [S] good [A] features [SSEP] [O] fantastic [S] good [A] lighted keyboard [SSEP] [O] fantastic [S] good [A] mouse pad [SSEP] [O] easy [S] good [A] mouse pad
+however , i love this particular mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad . [A] [S] [O]	[A] size [S] good [O] great [SSEP] [A] features [S] good [O] fantastic [SSEP] [A] lighted keyboard [S] good [O] fantastic [SSEP] [A] mouse pad [S] good [O] fantastic [SSEP] [A] mouse pad [S] good [O] easy
+however , i love this particular mac because its very fast , great size , and has fantastic features like the lighted keyboard and easy mouse pad . [S] [O] [A]	[S] good [O] great [A] size [SSEP] [S] good [O] fantastic [A] features [SSEP] [S] good [O] fantastic [A] lighted keyboard [SSEP] [S] good [O] fantastic [A] mouse pad [SSEP] [S] good [O] easy [A] mouse pad
+we paid for the three year warranty and the extended warranty after that one ended as well . [O] [A] [S]	[O] paid for [A] three year warranty [S] ok [SSEP] [O] paid for [A] extended warranty [S] ok
+we paid for the three year warranty and the extended warranty after that one ended as well . [A] [O] [S]	[A] three year warranty [O] paid for [S] ok [SSEP] [A] extended warranty [O] paid for [S] ok
+we paid for the three year warranty and the extended warranty after that one ended as well . [O] [S] [A]	[O] paid for [S] ok [A] three year warranty [SSEP] [O] paid for [S] ok [A] extended warranty
+we paid for the three year warranty and the extended warranty after that one ended as well . [A] [S] [O]	[A] three year warranty [S] ok [O] paid for [SSEP] [A] extended warranty [S] ok [O] paid for
+we paid for the three year warranty and the extended warranty after that one ended as well . [S] [O] [A]	[S] ok [O] paid for [A] three year warranty [SSEP] [S] ok [O] paid for [A] extended warranty
+my husband got me this for chrismas after getting me a very expensive laptop that did not work after 2 days . [O] [A] [S]	[O] not [A] work [S] bad
+my husband got me this for chrismas after getting me a very expensive laptop that did not work after 2 days . [A] [O] [S]	[A] work [O] not [S] bad
+my husband got me this for chrismas after getting me a very expensive laptop that did not work after 2 days . [O] [S] [A]	[O] not [S] bad [A] work
+my husband got me this for chrismas after getting me a very expensive laptop that did not work after 2 days . [A] [S] [O]	[A] work [S] bad [O] not
+my husband got me this for chrismas after getting me a very expensive laptop that did not work after 2 days . [S] [O] [A]	[S] bad [O] not [A] work
+the resolution is even higher then any other laptop on the market . [O] [A] [S]	[O] higher [A] resolution [S] good
+the resolution is even higher then any other laptop on the market . [A] [O] [S]	[A] resolution [O] higher [S] good
+the resolution is even higher then any other laptop on the market . [O] [S] [A]	[O] higher [S] good [A] resolution
+the resolution is even higher then any other laptop on the market . [A] [S] [O]	[A] resolution [S] good [O] higher
+the resolution is even higher then any other laptop on the market . [S] [O] [A]	[S] good [O] higher [A] resolution
+but with a way bigger screen , and is able to connect to an hdmi . [O] [A] [S]	[O] bigger [A] screen [S] good [SSEP] [O] able to connect [A] hdmi [S] ok
+but with a way bigger screen , and is able to connect to an hdmi . [A] [O] [S]	[A] screen [O] bigger [S] good [SSEP] [A] hdmi [O] able to connect [S] ok
+but with a way bigger screen , and is able to connect to an hdmi . [O] [S] [A]	[O] bigger [S] good [A] screen [SSEP] [O] able to connect [S] ok [A] hdmi
+but with a way bigger screen , and is able to connect to an hdmi . [A] [S] [O]	[A] screen [S] good [O] bigger [SSEP] [A] hdmi [S] ok [O] able to connect
+but with a way bigger screen , and is able to connect to an hdmi . [S] [O] [A]	[S] good [O] bigger [A] screen [SSEP] [S] ok [O] able to connect [A] hdmi
+the graphics are awful and the wireless switch it at the top rather than the side which i am used to it being on the side . [O] [A] [S]	[O] awful [A] graphics [S] bad
+the graphics are awful and the wireless switch it at the top rather than the side which i am used to it being on the side . [A] [O] [S]	[A] graphics [O] awful [S] bad
+the graphics are awful and the wireless switch it at the top rather than the side which i am used to it being on the side . [O] [S] [A]	[O] awful [S] bad [A] graphics
+the graphics are awful and the wireless switch it at the top rather than the side which i am used to it being on the side . [A] [S] [O]	[A] graphics [S] bad [O] awful
+the graphics are awful and the wireless switch it at the top rather than the side which i am used to it being on the side . [S] [O] [A]	[S] bad [O] awful [A] graphics
+the speakers are terrible and are probably the cheapest ones i have ever seen in a laptop so if your planning to listen to music i suggest you get something better . [O] [A] [S]	[O] terrible [A] speakers [S] bad [SSEP] [O] cheapest [A] speakers [S] bad
+the speakers are terrible and are probably the cheapest ones i have ever seen in a laptop so if your planning to listen to music i suggest you get something better . [A] [O] [S]	[A] speakers [O] terrible [S] bad [SSEP] [A] speakers [O] cheapest [S] bad
+the speakers are terrible and are probably the cheapest ones i have ever seen in a laptop so if your planning to listen to music i suggest you get something better . [O] [S] [A]	[O] terrible [S] bad [A] speakers [SSEP] [O] cheapest [S] bad [A] speakers
+the speakers are terrible and are probably the cheapest ones i have ever seen in a laptop so if your planning to listen to music i suggest you get something better . [A] [S] [O]	[A] speakers [S] bad [O] terrible [SSEP] [A] speakers [S] bad [O] cheapest
+the speakers are terrible and are probably the cheapest ones i have ever seen in a laptop so if your planning to listen to music i suggest you get something better . [S] [O] [A]	[S] bad [O] terrible [A] speakers [SSEP] [S] bad [O] cheapest [A] speakers
+i have had no problems with it unlike some hardware defects on past models . [O] [A] [S]	[O] defects [A] hardware [S] bad
+i have had no problems with it unlike some hardware defects on past models . [A] [O] [S]	[A] hardware [O] defects [S] bad
+i have had no problems with it unlike some hardware defects on past models . [O] [S] [A]	[O] defects [S] bad [A] hardware
+i have had no problems with it unlike some hardware defects on past models . [A] [S] [O]	[A] hardware [S] bad [O] defects
+i have had no problems with it unlike some hardware defects on past models . [S] [O] [A]	[S] bad [O] defects [A] hardware
+not to mention the fact that your mac comes fully loaded with all necessary basic programs . [O] [A] [S]	[O] necessary [A] programs [S] good
+not to mention the fact that your mac comes fully loaded with all necessary basic programs . [A] [O] [S]	[A] programs [O] necessary [S] good
+not to mention the fact that your mac comes fully loaded with all necessary basic programs . [O] [S] [A]	[O] necessary [S] good [A] programs
+not to mention the fact that your mac comes fully loaded with all necessary basic programs . [A] [S] [O]	[A] programs [S] good [O] necessary
+not to mention the fact that your mac comes fully loaded with all necessary basic programs . [S] [O] [A]	[S] good [O] necessary [A] programs
+if this is an improvement in customer service then i would hate too see what it was before ! [O] [A] [S]	[O] improvement [A] customer service [S] bad
+if this is an improvement in customer service then i would hate too see what it was before ! [A] [O] [S]	[A] customer service [O] improvement [S] bad
+if this is an improvement in customer service then i would hate too see what it was before ! [O] [S] [A]	[O] improvement [S] bad [A] customer service
+if this is an improvement in customer service then i would hate too see what it was before ! [A] [S] [O]	[A] customer service [S] bad [O] improvement
+if this is an improvement in customer service then i would hate too see what it was before ! [S] [O] [A]	[S] bad [O] improvement [A] customer service
+for me i was lucky and a local store was selling them for $ 2000 off and best buy matched their price so i was able to buy one for under $ 1000 [O] [A] [S]	[O] lucky [A] price [S] good [SSEP] [O] best [A] price [S] good
+for me i was lucky and a local store was selling them for $ 2000 off and best buy matched their price so i was able to buy one for under $ 1000 [A] [O] [S]	[A] price [O] lucky [S] good [SSEP] [A] price [O] best [S] good
+for me i was lucky and a local store was selling them for $ 2000 off and best buy matched their price so i was able to buy one for under $ 1000 [O] [S] [A]	[O] lucky [S] good [A] price [SSEP] [O] best [S] good [A] price
+for me i was lucky and a local store was selling them for $ 2000 off and best buy matched their price so i was able to buy one for under $ 1000 [A] [S] [O]	[A] price [S] good [O] lucky [SSEP] [A] price [S] good [O] best
+for me i was lucky and a local store was selling them for $ 2000 off and best buy matched their price so i was able to buy one for under $ 1000 [S] [O] [A]	[S] good [O] lucky [A] price [SSEP] [S] good [O] best [A] price
+the layout of the macbook is horrible and confusing ; [O] [A] [S]	[O] horrible [A] layout [S] bad [SSEP] [O] confusing [A] layout [S] bad
+the layout of the macbook is horrible and confusing ; [A] [O] [S]	[A] layout [O] horrible [S] bad [SSEP] [A] layout [O] confusing [S] bad
+the layout of the macbook is horrible and confusing ; [O] [S] [A]	[O] horrible [S] bad [A] layout [SSEP] [O] confusing [S] bad [A] layout
+the layout of the macbook is horrible and confusing ; [A] [S] [O]	[A] layout [S] bad [O] horrible [SSEP] [A] layout [S] bad [O] confusing
+the layout of the macbook is horrible and confusing ; [S] [O] [A]	[S] bad [O] horrible [A] layout [SSEP] [S] bad [O] confusing [A] layout
+was not happy with one of the programs on it . [O] [A] [S]	[O] not happy [A] one of the programs [S] bad
+was not happy with one of the programs on it . [A] [O] [S]	[A] one of the programs [O] not happy [S] bad
+was not happy with one of the programs on it . [O] [S] [A]	[O] not happy [S] bad [A] one of the programs
+was not happy with one of the programs on it . [A] [S] [O]	[A] one of the programs [S] bad [O] not happy
+was not happy with one of the programs on it . [S] [O] [A]	[S] bad [O] not happy [A] one of the programs
+the first one sent : touchpad did n't work the second sent : usb did n't work the third sent : touchpad did n't work the fourth sent : has n't arrived yet . [O] [A] [S]	[O] did n't work [A] touchpad [S] bad [SSEP] [O] did n't work [A] usb [S] bad [SSEP] [O] did n't work [A] touchpad [S] bad
+the first one sent : touchpad did n't work the second sent : usb did n't work the third sent : touchpad did n't work the fourth sent : has n't arrived yet . [A] [O] [S]	[A] touchpad [O] did n't work [S] bad [SSEP] [A] usb [O] did n't work [S] bad [SSEP] [A] touchpad [O] did n't work [S] bad
+the first one sent : touchpad did n't work the second sent : usb did n't work the third sent : touchpad did n't work the fourth sent : has n't arrived yet . [O] [S] [A]	[O] did n't work [S] bad [A] touchpad [SSEP] [O] did n't work [S] bad [A] usb [SSEP] [O] did n't work [S] bad [A] touchpad
+the first one sent : touchpad did n't work the second sent : usb did n't work the third sent : touchpad did n't work the fourth sent : has n't arrived yet . [A] [S] [O]	[A] touchpad [S] bad [O] did n't work [SSEP] [A] usb [S] bad [O] did n't work [SSEP] [A] touchpad [S] bad [O] did n't work
+the first one sent : touchpad did n't work the second sent : usb did n't work the third sent : touchpad did n't work the fourth sent : has n't arrived yet . [S] [O] [A]	[S] bad [O] did n't work [A] touchpad [SSEP] [S] bad [O] did n't work [A] usb [SSEP] [S] bad [O] did n't work [A] touchpad
+in november my computer messed up entirely and would n't power on after intalling a windows update , i had to have my hd flashed and lost everything on it , including my school assignments and irriplaceable pictures that were only in digital format and several other things , when this update was installed for some reason i was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history . [O] [A] [S]	[O] messed up [A] windows update [S] ok
+in november my computer messed up entirely and would n't power on after intalling a windows update , i had to have my hd flashed and lost everything on it , including my school assignments and irriplaceable pictures that were only in digital format and several other things , when this update was installed for some reason i was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history . [A] [O] [S]	[A] windows update [O] messed up [S] ok
+in november my computer messed up entirely and would n't power on after intalling a windows update , i had to have my hd flashed and lost everything on it , including my school assignments and irriplaceable pictures that were only in digital format and several other things , when this update was installed for some reason i was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history . [O] [S] [A]	[O] messed up [S] ok [A] windows update
+in november my computer messed up entirely and would n't power on after intalling a windows update , i had to have my hd flashed and lost everything on it , including my school assignments and irriplaceable pictures that were only in digital format and several other things , when this update was installed for some reason i was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history . [A] [S] [O]	[A] windows update [S] ok [O] messed up
+in november my computer messed up entirely and would n't power on after intalling a windows update , i had to have my hd flashed and lost everything on it , including my school assignments and irriplaceable pictures that were only in digital format and several other things , when this update was installed for some reason i was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history . [S] [O] [A]	[S] ok [O] messed up [A] windows update
+overall : poor , features : average , performance : poor , battery life : excellent , price -- value : poor [O] [A] [S]	[O] average [A] features [S] ok [SSEP] [O] poor [A] performance [S] bad [SSEP] [O] excellent [A] battery life [S] good [SSEP] [O] poor [A] price [S] bad [SSEP] [O] poor [A] value [S] bad
+overall : poor , features : average , performance : poor , battery life : excellent , price -- value : poor [A] [O] [S]	[A] features [O] average [S] ok [SSEP] [A] performance [O] poor [S] bad [SSEP] [A] battery life [O] excellent [S] good [SSEP] [A] price [O] poor [S] bad [SSEP] [A] value [O] poor [S] bad
+overall : poor , features : average , performance : poor , battery life : excellent , price -- value : poor [O] [S] [A]	[O] average [S] ok [A] features [SSEP] [O] poor [S] bad [A] performance [SSEP] [O] excellent [S] good [A] battery life [SSEP] [O] poor [S] bad [A] price [SSEP] [O] poor [S] bad [A] value
+overall : poor , features : average , performance : poor , battery life : excellent , price -- value : poor [A] [S] [O]	[A] features [S] ok [O] average [SSEP] [A] performance [S] bad [O] poor [SSEP] [A] battery life [S] good [O] excellent [SSEP] [A] price [S] bad [O] poor [SSEP] [A] value [S] bad [O] poor
+overall : poor , features : average , performance : poor , battery life : excellent , price -- value : poor [S] [O] [A]	[S] ok [O] average [A] features [SSEP] [S] bad [O] poor [A] performance [SSEP] [S] good [O] excellent [A] battery life [SSEP] [S] bad [O] poor [A] price [SSEP] [S] bad [O] poor [A] value
+the graphics are stunning . [O] [A] [S]	[O] stunning [A] graphics [S] good
+the graphics are stunning . [A] [O] [S]	[A] graphics [O] stunning [S] good
+the graphics are stunning . [O] [S] [A]	[O] stunning [S] good [A] graphics
+the graphics are stunning . [A] [S] [O]	[A] graphics [S] good [O] stunning
+the graphics are stunning . [S] [O] [A]	[S] good [O] stunning [A] graphics
+( i found a 2gb stick for a bit under $ 50 ) nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours , or at the hotel taking care of some last minute details and documents . [O] [A] [S]	[O] nice [A] system [S] good [SSEP] [O] portable [A] system [S] good [SSEP] [O] decent [A] system [S] good
+( i found a 2gb stick for a bit under $ 50 ) nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours , or at the hotel taking care of some last minute details and documents . [A] [O] [S]	[A] system [O] nice [S] good [SSEP] [A] system [O] portable [S] good [SSEP] [A] system [O] decent [S] good
+( i found a 2gb stick for a bit under $ 50 ) nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours , or at the hotel taking care of some last minute details and documents . [O] [S] [A]	[O] nice [S] good [A] system [SSEP] [O] portable [S] good [A] system [SSEP] [O] decent [S] good [A] system
+( i found a 2gb stick for a bit under $ 50 ) nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours , or at the hotel taking care of some last minute details and documents . [A] [S] [O]	[A] system [S] good [O] nice [SSEP] [A] system [S] good [O] portable [SSEP] [A] system [S] good [O] decent
+( i found a 2gb stick for a bit under $ 50 ) nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours , or at the hotel taking care of some last minute details and documents . [S] [O] [A]	[S] good [O] nice [A] system [SSEP] [S] good [O] portable [A] system [SSEP] [S] good [O] decent [A] system
+after much effort and 10 days asus replaced itthe wifi is very weak . [O] [A] [S]	[O] weak [A] wifi [S] bad
+after much effort and 10 days asus replaced itthe wifi is very weak . [A] [O] [S]	[A] wifi [O] weak [S] bad
+after much effort and 10 days asus replaced itthe wifi is very weak . [O] [S] [A]	[O] weak [S] bad [A] wifi
+after much effort and 10 days asus replaced itthe wifi is very weak . [A] [S] [O]	[A] wifi [S] bad [O] weak
+after much effort and 10 days asus replaced itthe wifi is very weak . [S] [O] [A]	[S] bad [O] weak [A] wifi
+, applications respond immediately ( not like the tired ms applications ) . [O] [A] [S]	[O] respond immediately [A] applications [S] good
+, applications respond immediately ( not like the tired ms applications ) . [A] [O] [S]	[A] applications [O] respond immediately [S] good
+, applications respond immediately ( not like the tired ms applications ) . [O] [S] [A]	[O] respond immediately [S] good [A] applications
+, applications respond immediately ( not like the tired ms applications ) . [A] [S] [O]	[A] applications [S] good [O] respond immediately
+, applications respond immediately ( not like the tired ms applications ) . [S] [O] [A]	[S] good [O] respond immediately [A] applications
+the only drawback for me is how dirty the screen gets , and rather quickly too . [O] [A] [S]	[O] dirty [A] screen [S] bad [SSEP] [O] quickly [A] screen [S] bad
+the only drawback for me is how dirty the screen gets , and rather quickly too . [A] [O] [S]	[A] screen [O] dirty [S] bad [SSEP] [A] screen [O] quickly [S] bad
+the only drawback for me is how dirty the screen gets , and rather quickly too . [O] [S] [A]	[O] dirty [S] bad [A] screen [SSEP] [O] quickly [S] bad [A] screen
+the only drawback for me is how dirty the screen gets , and rather quickly too . [A] [S] [O]	[A] screen [S] bad [O] dirty [SSEP] [A] screen [S] bad [O] quickly
+the only drawback for me is how dirty the screen gets , and rather quickly too . [S] [O] [A]	[S] bad [O] dirty [A] screen [SSEP] [S] bad [O] quickly [A] screen
+seems to slow down occassionally but can run many applications ( ie internet tabs , programs , etc ) simultaneously . [O] [A] [S]	[O] many [A] applications [S] good
+seems to slow down occassionally but can run many applications ( ie internet tabs , programs , etc ) simultaneously . [A] [O] [S]	[A] applications [O] many [S] good
+seems to slow down occassionally but can run many applications ( ie internet tabs , programs , etc ) simultaneously . [O] [S] [A]	[O] many [S] good [A] applications
+seems to slow down occassionally but can run many applications ( ie internet tabs , programs , etc ) simultaneously . [A] [S] [O]	[A] applications [S] good [O] many
+seems to slow down occassionally but can run many applications ( ie internet tabs , programs , etc ) simultaneously . [S] [O] [A]	[S] good [O] many [A] applications
+not to mention sometimes the whole charger unit will decide not to work entirely . [O] [A] [S]	[O] not to work entirely [A] charger unit [S] bad
+not to mention sometimes the whole charger unit will decide not to work entirely . [A] [O] [S]	[A] charger unit [O] not to work entirely [S] bad
+not to mention sometimes the whole charger unit will decide not to work entirely . [O] [S] [A]	[O] not to work entirely [S] bad [A] charger unit
+not to mention sometimes the whole charger unit will decide not to work entirely . [A] [S] [O]	[A] charger unit [S] bad [O] not to work entirely
+not to mention sometimes the whole charger unit will decide not to work entirely . [S] [O] [A]	[S] bad [O] not to work entirely [A] charger unit
+i have other computers that get strong signals that do n't drop in places that this `` net '' book loses its signal . [O] [A] [S]	[O] strong [A] signals [S] good [SSEP] [O] loses [A] signal [S] bad
+i have other computers that get strong signals that do n't drop in places that this `` net '' book loses its signal . [A] [O] [S]	[A] signals [O] strong [S] good [SSEP] [A] signal [O] loses [S] bad
+i have other computers that get strong signals that do n't drop in places that this `` net '' book loses its signal . [O] [S] [A]	[O] strong [S] good [A] signals [SSEP] [O] loses [S] bad [A] signal
+i have other computers that get strong signals that do n't drop in places that this `` net '' book loses its signal . [A] [S] [O]	[A] signals [S] good [O] strong [SSEP] [A] signal [S] bad [O] loses
+i have other computers that get strong signals that do n't drop in places that this `` net '' book loses its signal . [S] [O] [A]	[S] good [O] strong [A] signals [SSEP] [S] bad [O] loses [A] signal
+anyway , in early july of this year , the dvd burner stopped working , and the computer stared having issues with power supply . [O] [A] [S]	[O] stopped working [A] dvd burner [S] bad [SSEP] [O] issues [A] power supply [S] bad
+anyway , in early july of this year , the dvd burner stopped working , and the computer stared having issues with power supply . [A] [O] [S]	[A] dvd burner [O] stopped working [S] bad [SSEP] [A] power supply [O] issues [S] bad
+anyway , in early july of this year , the dvd burner stopped working , and the computer stared having issues with power supply . [O] [S] [A]	[O] stopped working [S] bad [A] dvd burner [SSEP] [O] issues [S] bad [A] power supply
+anyway , in early july of this year , the dvd burner stopped working , and the computer stared having issues with power supply . [A] [S] [O]	[A] dvd burner [S] bad [O] stopped working [SSEP] [A] power supply [S] bad [O] issues
+anyway , in early july of this year , the dvd burner stopped working , and the computer stared having issues with power supply . [S] [O] [A]	[S] bad [O] stopped working [A] dvd burner [SSEP] [S] bad [O] issues [A] power supply
+the screen gets smeary and dusty very quickly and it 's very noticeable . [O] [A] [S]	[O] smeary [A] screen [S] bad [SSEP] [O] dusty [A] screen [S] bad [SSEP] [O] quickly [A] screen [S] bad [SSEP] [O] noticeable [A] screen [S] bad
+the screen gets smeary and dusty very quickly and it 's very noticeable . [A] [O] [S]	[A] screen [O] smeary [S] bad [SSEP] [A] screen [O] dusty [S] bad [SSEP] [A] screen [O] quickly [S] bad [SSEP] [A] screen [O] noticeable [S] bad
+the screen gets smeary and dusty very quickly and it 's very noticeable . [O] [S] [A]	[O] smeary [S] bad [A] screen [SSEP] [O] dusty [S] bad [A] screen [SSEP] [O] quickly [S] bad [A] screen [SSEP] [O] noticeable [S] bad [A] screen
+the screen gets smeary and dusty very quickly and it 's very noticeable . [A] [S] [O]	[A] screen [S] bad [O] smeary [SSEP] [A] screen [S] bad [O] dusty [SSEP] [A] screen [S] bad [O] quickly [SSEP] [A] screen [S] bad [O] noticeable
+the screen gets smeary and dusty very quickly and it 's very noticeable . [S] [O] [A]	[S] bad [O] smeary [A] screen [SSEP] [S] bad [O] dusty [A] screen [SSEP] [S] bad [O] quickly [A] screen [SSEP] [S] bad [O] noticeable [A] screen
+the battery life , before the battery completely died of course , left much to be desired . [O] [A] [S]	[O] left much to be desired [A] battery life [S] bad
+the battery life , before the battery completely died of course , left much to be desired . [A] [O] [S]	[A] battery life [O] left much to be desired [S] bad
+the battery life , before the battery completely died of course , left much to be desired . [O] [S] [A]	[O] left much to be desired [S] bad [A] battery life
+the battery life , before the battery completely died of course , left much to be desired . [A] [S] [O]	[A] battery life [S] bad [O] left much to be desired
+the battery life , before the battery completely died of course , left much to be desired . [S] [O] [A]	[S] bad [O] left much to be desired [A] battery life
+it had most of the features and all of the power that i wanted to replace my desktop machine . [O] [A] [S]	[O] wanted [A] features [S] good [SSEP] [O] wanted [A] power [S] good
+it had most of the features and all of the power that i wanted to replace my desktop machine . [A] [O] [S]	[A] features [O] wanted [S] good [SSEP] [A] power [O] wanted [S] good
+it had most of the features and all of the power that i wanted to replace my desktop machine . [O] [S] [A]	[O] wanted [S] good [A] features [SSEP] [O] wanted [S] good [A] power
+it had most of the features and all of the power that i wanted to replace my desktop machine . [A] [S] [O]	[A] features [S] good [O] wanted [SSEP] [A] power [S] good [O] wanted
+it had most of the features and all of the power that i wanted to replace my desktop machine . [S] [O] [A]	[S] good [O] wanted [A] features [SSEP] [S] good [O] wanted [A] power
+it seemed to be a very nice laptop except i was not able to load my garmin gps software or microsoft office 2003 . [O] [A] [S]	[O] not able to load [A] garmin gps software [S] bad [SSEP] [O] not able to load [A] microsoft office 2003 [S] bad
+it seemed to be a very nice laptop except i was not able to load my garmin gps software or microsoft office 2003 . [A] [O] [S]	[A] garmin gps software [O] not able to load [S] bad [SSEP] [A] microsoft office 2003 [O] not able to load [S] bad
+it seemed to be a very nice laptop except i was not able to load my garmin gps software or microsoft office 2003 . [O] [S] [A]	[O] not able to load [S] bad [A] garmin gps software [SSEP] [O] not able to load [S] bad [A] microsoft office 2003
+it seemed to be a very nice laptop except i was not able to load my garmin gps software or microsoft office 2003 . [A] [S] [O]	[A] garmin gps software [S] bad [O] not able to load [SSEP] [A] microsoft office 2003 [S] bad [O] not able to load
+it seemed to be a very nice laptop except i was not able to load my garmin gps software or microsoft office 2003 . [S] [O] [A]	[S] bad [O] not able to load [A] garmin gps software [SSEP] [S] bad [O] not able to load [A] microsoft office 2003
+was very much worth the price i paid . [O] [A] [S]	[O] worth [A] price [S] good
+was very much worth the price i paid . [A] [O] [S]	[A] price [O] worth [S] good
+was very much worth the price i paid . [O] [S] [A]	[O] worth [S] good [A] price
+was very much worth the price i paid . [A] [S] [O]	[A] price [S] good [O] worth
+was very much worth the price i paid . [S] [O] [A]	[S] good [O] worth [A] price
+this is a great little computer for the price . [O] [A] [S]	[O] great [A] price [S] good
+this is a great little computer for the price . [A] [O] [S]	[A] price [O] great [S] good
+this is a great little computer for the price . [O] [S] [A]	[O] great [S] good [A] price
+this is a great little computer for the price . [A] [S] [O]	[A] price [S] good [O] great
+this is a great little computer for the price . [S] [O] [A]	[S] good [O] great [A] price
+all apple associates are always willing to help you out with anything , no matter when you purchased the computer and how many years passed . [O] [A] [S]	[O] willing [A] apple associates [S] good
+all apple associates are always willing to help you out with anything , no matter when you purchased the computer and how many years passed . [A] [O] [S]	[A] apple associates [O] willing [S] good
+all apple associates are always willing to help you out with anything , no matter when you purchased the computer and how many years passed . [O] [S] [A]	[O] willing [S] good [A] apple associates
+all apple associates are always willing to help you out with anything , no matter when you purchased the computer and how many years passed . [A] [S] [O]	[A] apple associates [S] good [O] willing
+all apple associates are always willing to help you out with anything , no matter when you purchased the computer and how many years passed . [S] [O] [A]	[S] good [O] willing [A] apple associates
+i would like to use a different operating system altogether . [O] [A] [S]	[O] like [A] operating system [S] ok [SSEP] [O] different [A] operating system [S] ok
+i would like to use a different operating system altogether . [A] [O] [S]	[A] operating system [O] like [S] ok [SSEP] [A] operating system [O] different [S] ok
+i would like to use a different operating system altogether . [O] [S] [A]	[O] like [S] ok [A] operating system [SSEP] [O] different [S] ok [A] operating system
+i would like to use a different operating system altogether . [A] [S] [O]	[A] operating system [S] ok [O] like [SSEP] [A] operating system [S] ok [O] different
+i would like to use a different operating system altogether . [S] [O] [A]	[S] ok [O] like [A] operating system [SSEP] [S] ok [O] different [A] operating system

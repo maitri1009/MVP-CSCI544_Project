@@ -1,0 +1,1050 @@
+the food is very average ... the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [O] [A] [S]	[O] average [A] food [S] bad [SSEP] [O] too sweet [A] thai fusion stuff [S] bad
+the food is very average ... the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [A] [O] [S]	[A] food [O] average [S] bad [SSEP] [A] thai fusion stuff [O] too sweet [S] bad
+the food is very average ... the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [O] [S] [A]	[O] average [S] bad [A] food [SSEP] [O] too sweet [S] bad [A] thai fusion stuff
+the food is very average ... the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [A] [S] [O]	[A] food [S] bad [O] average [SSEP] [A] thai fusion stuff [S] bad [O] too sweet
+the food is very average ... the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here . [S] [O] [A]	[S] bad [O] average [A] food [SSEP] [S] bad [O] too sweet [A] thai fusion stuff
+we went around 9:30 on a friday and it had died down a bit by then so the service was great ! [O] [A] [S]	[O] great [A] service [S] good
+we went around 9:30 on a friday and it had died down a bit by then so the service was great ! [A] [O] [S]	[A] service [O] great [S] good
+we went around 9:30 on a friday and it had died down a bit by then so the service was great ! [O] [S] [A]	[O] great [S] good [A] service
+we went around 9:30 on a friday and it had died down a bit by then so the service was great ! [A] [S] [O]	[A] service [S] good [O] great
+we went around 9:30 on a friday and it had died down a bit by then so the service was great ! [S] [O] [A]	[S] good [O] great [A] service
+we love th pink pony . [O] [A] [S]	[O] love [A] pink pony [S] good
+we love th pink pony . [A] [O] [S]	[A] pink pony [O] love [S] good
+we love th pink pony . [O] [S] [A]	[O] love [S] good [A] pink pony
+we love th pink pony . [A] [S] [O]	[A] pink pony [S] good [O] love
+we love th pink pony . [S] [O] [A]	[S] good [O] love [A] pink pony
+the food is decent . [O] [A] [S]	[O] decent [A] food [S] ok
+the food is decent . [A] [O] [S]	[A] food [O] decent [S] ok
+the food is decent . [O] [S] [A]	[O] decent [S] ok [A] food
+the food is decent . [A] [S] [O]	[A] food [S] ok [O] decent
+the food is decent . [S] [O] [A]	[S] ok [O] decent [A] food
+however , it 's the service that leaves a bad taste in my mouth . [O] [A] [S]	[O] bad taste [A] service [S] bad
+however , it 's the service that leaves a bad taste in my mouth . [A] [O] [S]	[A] service [O] bad taste [S] bad
+however , it 's the service that leaves a bad taste in my mouth . [O] [S] [A]	[O] bad taste [S] bad [A] service
+however , it 's the service that leaves a bad taste in my mouth . [A] [S] [O]	[A] service [S] bad [O] bad taste
+however , it 's the service that leaves a bad taste in my mouth . [S] [O] [A]	[S] bad [O] bad taste [A] service
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check . [O] [A] [S]	[O] bad [A] waiter [S] bad
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check . [A] [O] [S]	[A] waiter [O] bad [S] bad
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check . [O] [S] [A]	[O] bad [S] bad [A] waiter
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check . [A] [S] [O]	[A] waiter [S] bad [O] bad
+i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check . [S] [O] [A]	[S] bad [O] bad [A] waiter
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [O] [A] [S]	[O] heavenly [A] sea urchin [S] good
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [A] [O] [S]	[A] sea urchin [O] heavenly [S] good
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [O] [S] [A]	[O] heavenly [S] good [A] sea urchin
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [A] [S] [O]	[A] sea urchin [S] good [O] heavenly
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose . [S] [O] [A]	[S] good [O] heavenly [A] sea urchin
+the sushi seemed pretty fresh and was adequately proportioned . [O] [A] [S]	[O] fresh [A] sushi [S] good [SSEP] [O] proportioned [A] sushi [S] good
+the sushi seemed pretty fresh and was adequately proportioned . [A] [O] [S]	[A] sushi [O] fresh [S] good [SSEP] [A] sushi [O] proportioned [S] good
+the sushi seemed pretty fresh and was adequately proportioned . [O] [S] [A]	[O] fresh [S] good [A] sushi [SSEP] [O] proportioned [S] good [A] sushi
+the sushi seemed pretty fresh and was adequately proportioned . [A] [S] [O]	[A] sushi [S] good [O] fresh [SSEP] [A] sushi [S] good [O] proportioned
+the sushi seemed pretty fresh and was adequately proportioned . [S] [O] [A]	[S] good [O] fresh [A] sushi [SSEP] [S] good [O] proportioned [A] sushi
+in the evening , this place attracted a well dressed , with it , ny crowd . [O] [A] [S]	[O] attracted [A] crowd [S] good
+in the evening , this place attracted a well dressed , with it , ny crowd . [A] [O] [S]	[A] crowd [O] attracted [S] good
+in the evening , this place attracted a well dressed , with it , ny crowd . [O] [S] [A]	[O] attracted [S] good [A] crowd
+in the evening , this place attracted a well dressed , with it , ny crowd . [A] [S] [O]	[A] crowd [S] good [O] attracted
+in the evening , this place attracted a well dressed , with it , ny crowd . [S] [O] [A]	[S] good [O] attracted [A] crowd
+the food was well prepared and the service impecable . [O] [A] [S]	[O] well prepared [A] food [S] good [SSEP] [O] impecable [A] service [S] good
+the food was well prepared and the service impecable . [A] [O] [S]	[A] food [O] well prepared [S] good [SSEP] [A] service [O] impecable [S] good
+the food was well prepared and the service impecable . [O] [S] [A]	[O] well prepared [S] good [A] food [SSEP] [O] impecable [S] good [A] service
+the food was well prepared and the service impecable . [A] [S] [O]	[A] food [S] good [O] well prepared [SSEP] [A] service [S] good [O] impecable
+the food was well prepared and the service impecable . [S] [O] [A]	[S] good [O] well prepared [A] food [SSEP] [S] good [O] impecable [A] service
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [O] [A] [S]	[O] worth [A] prix fixe menu [S] good
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [A] [O] [S]	[A] prix fixe menu [O] worth [S] good
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [O] [S] [A]	[O] worth [S] good [A] prix fixe menu
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [A] [S] [O]	[A] prix fixe menu [S] good [O] worth
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) . [S] [O] [A]	[S] good [O] worth [A] prix fixe menu
+the kitchen however , is almost always slow . [O] [A] [S]	[O] slow [A] kitchen [S] bad
+the kitchen however , is almost always slow . [A] [O] [S]	[A] kitchen [O] slow [S] bad
+the kitchen however , is almost always slow . [O] [S] [A]	[O] slow [S] bad [A] kitchen
+the kitchen however , is almost always slow . [A] [S] [O]	[A] kitchen [S] bad [O] slow
+the kitchen however , is almost always slow . [S] [O] [A]	[S] bad [O] slow [A] kitchen
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening . [O] [A] [S]	[O] great [A] service [S] good [SSEP] [O] great [A] food [S] good
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening . [A] [O] [S]	[A] service [O] great [S] good [SSEP] [A] food [O] great [S] good
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening . [O] [S] [A]	[O] great [S] good [A] service [SSEP] [O] great [S] good [A] food
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening . [A] [S] [O]	[A] service [S] good [O] great [SSEP] [A] food [S] good [O] great
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening . [S] [O] [A]	[S] good [O] great [A] service [SSEP] [S] good [O] great [A] food
+the pizza was delivered cold and the cheese was n't even fully melted ! [O] [A] [S]	[O] cold [A] pizza [S] bad [SSEP] [O] was n't even fully melted [A] cheese [S] bad
+the pizza was delivered cold and the cheese was n't even fully melted ! [A] [O] [S]	[A] pizza [O] cold [S] bad [SSEP] [A] cheese [O] was n't even fully melted [S] bad
+the pizza was delivered cold and the cheese was n't even fully melted ! [O] [S] [A]	[O] cold [S] bad [A] pizza [SSEP] [O] was n't even fully melted [S] bad [A] cheese
+the pizza was delivered cold and the cheese was n't even fully melted ! [A] [S] [O]	[A] pizza [S] bad [O] cold [SSEP] [A] cheese [S] bad [O] was n't even fully melted
+the pizza was delivered cold and the cheese was n't even fully melted ! [S] [O] [A]	[S] bad [O] cold [A] pizza [SSEP] [S] bad [O] was n't even fully melted [A] cheese
+yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right . [O] [A] [S]	[O] fancy [A] ingredients [S] good [SSEP] [O] good [A] pizza [S] bad
+yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right . [A] [O] [S]	[A] ingredients [O] fancy [S] good [SSEP] [A] pizza [O] good [S] bad
+yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right . [O] [S] [A]	[O] fancy [S] good [A] ingredients [SSEP] [O] good [S] bad [A] pizza
+yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right . [A] [S] [O]	[A] ingredients [S] good [O] fancy [SSEP] [A] pizza [S] bad [O] good
+yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right . [S] [O] [A]	[S] good [O] fancy [A] ingredients [SSEP] [S] bad [O] good [A] pizza
+best pastrami i ever had and great portion without being ridiculous . [O] [A] [S]	[O] best [A] pastrami [S] good [SSEP] [O] great [A] portion [S] good
+best pastrami i ever had and great portion without being ridiculous . [A] [O] [S]	[A] pastrami [O] best [S] good [SSEP] [A] portion [O] great [S] good
+best pastrami i ever had and great portion without being ridiculous . [O] [S] [A]	[O] best [S] good [A] pastrami [SSEP] [O] great [S] good [A] portion
+best pastrami i ever had and great portion without being ridiculous . [A] [S] [O]	[A] pastrami [S] good [O] best [SSEP] [A] portion [S] good [O] great
+best pastrami i ever had and great portion without being ridiculous . [S] [O] [A]	[S] good [O] best [A] pastrami [SSEP] [S] good [O] great [A] portion
+my wife had the fried shrimp which are huge and loved it . [O] [A] [S]	[O] huge [A] fried shrimp [S] good [SSEP] [O] loved [A] fried shrimp [S] good
+my wife had the fried shrimp which are huge and loved it . [A] [O] [S]	[A] fried shrimp [O] huge [S] good [SSEP] [A] fried shrimp [O] loved [S] good
+my wife had the fried shrimp which are huge and loved it . [O] [S] [A]	[O] huge [S] good [A] fried shrimp [SSEP] [O] loved [S] good [A] fried shrimp
+my wife had the fried shrimp which are huge and loved it . [A] [S] [O]	[A] fried shrimp [S] good [O] huge [SSEP] [A] fried shrimp [S] good [O] loved
+my wife had the fried shrimp which are huge and loved it . [S] [O] [A]	[S] good [O] huge [A] fried shrimp [SSEP] [S] good [O] loved [A] fried shrimp
+this place is the most japanese it can ever get . [O] [A] [S]	[O] japanese [A] place [S] good
+this place is the most japanese it can ever get . [A] [O] [S]	[A] place [O] japanese [S] good
+this place is the most japanese it can ever get . [O] [S] [A]	[O] japanese [S] good [A] place
+this place is the most japanese it can ever get . [A] [S] [O]	[A] place [S] good [O] japanese
+this place is the most japanese it can ever get . [S] [O] [A]	[S] good [O] japanese [A] place
+leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere . [O] [A] [S]	[O] casual [A] leon [S] good [SSEP] [O] hip [A] leon [S] good [SSEP] [O] good [A] specials [S] good [SSEP] [O] warm [A] atmosphere [S] good [SSEP] [O] lively [A] atmosphere [S] good [SSEP] [O] well prepared [A] french bistro fare [S] good
+leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere . [A] [O] [S]	[A] leon [O] casual [S] good [SSEP] [A] leon [O] hip [S] good [SSEP] [A] specials [O] good [S] good [SSEP] [A] atmosphere [O] warm [S] good [SSEP] [A] atmosphere [O] lively [S] good [SSEP] [A] french bistro fare [O] well prepared [S] good
+leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere . [O] [S] [A]	[O] casual [S] good [A] leon [SSEP] [O] hip [S] good [A] leon [SSEP] [O] good [S] good [A] specials [SSEP] [O] warm [S] good [A] atmosphere [SSEP] [O] lively [S] good [A] atmosphere [SSEP] [O] well prepared [S] good [A] french bistro fare
+leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere . [A] [S] [O]	[A] leon [S] good [O] casual [SSEP] [A] leon [S] good [O] hip [SSEP] [A] specials [S] good [O] good [SSEP] [A] atmosphere [S] good [O] warm [SSEP] [A] atmosphere [S] good [O] lively [SSEP] [A] french bistro fare [S] good [O] well prepared
+leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere . [S] [O] [A]	[S] good [O] casual [A] leon [SSEP] [S] good [O] hip [A] leon [SSEP] [S] good [O] good [A] specials [SSEP] [S] good [O] warm [A] atmosphere [SSEP] [S] good [O] lively [A] atmosphere [SSEP] [S] good [O] well prepared [A] french bistro fare
+the food was bland oily . [O] [A] [S]	[O] bland oily [A] food [S] bad
+the food was bland oily . [A] [O] [S]	[A] food [O] bland oily [S] bad
+the food was bland oily . [O] [S] [A]	[O] bland oily [S] bad [A] food
+the food was bland oily . [A] [S] [O]	[A] food [S] bad [O] bland oily
+the food was bland oily . [S] [O] [A]	[S] bad [O] bland oily [A] food
+i went there for lunch and it was not as good as i expected from the reviews i read . [O] [A] [S]	[O] not as good as i expected [A] lunch [S] bad
+i went there for lunch and it was not as good as i expected from the reviews i read . [A] [O] [S]	[A] lunch [O] not as good as i expected [S] bad
+i went there for lunch and it was not as good as i expected from the reviews i read . [O] [S] [A]	[O] not as good as i expected [S] bad [A] lunch
+i went there for lunch and it was not as good as i expected from the reviews i read . [A] [S] [O]	[A] lunch [S] bad [O] not as good as i expected
+i went there for lunch and it was not as good as i expected from the reviews i read . [S] [O] [A]	[S] bad [O] not as good as i expected [A] lunch
+this place is great . [O] [A] [S]	[O] great [A] place [S] good
+this place is great . [A] [O] [S]	[A] place [O] great [S] good
+this place is great . [O] [S] [A]	[O] great [S] good [A] place
+this place is great . [A] [S] [O]	[A] place [S] good [O] great
+this place is great . [S] [O] [A]	[S] good [O] great [A] place
+great pizza and fantastic service . [O] [A] [S]	[O] great [A] pizza [S] good [SSEP] [O] fantastic [A] service [S] good
+great pizza and fantastic service . [A] [O] [S]	[A] pizza [O] great [S] good [SSEP] [A] service [O] fantastic [S] good
+great pizza and fantastic service . [O] [S] [A]	[O] great [S] good [A] pizza [SSEP] [O] fantastic [S] good [A] service
+great pizza and fantastic service . [A] [S] [O]	[A] pizza [S] good [O] great [SSEP] [A] service [S] good [O] fantastic
+great pizza and fantastic service . [S] [O] [A]	[S] good [O] great [A] pizza [SSEP] [S] good [O] fantastic [A] service
+the place is small and cramped but the food is fantastic . [O] [A] [S]	[O] small [A] place [S] bad [SSEP] [O] cramped [A] place [S] bad [SSEP] [O] fantastic [A] food [S] good
+the place is small and cramped but the food is fantastic . [A] [O] [S]	[A] place [O] small [S] bad [SSEP] [A] place [O] cramped [S] bad [SSEP] [A] food [O] fantastic [S] good
+the place is small and cramped but the food is fantastic . [O] [S] [A]	[O] small [S] bad [A] place [SSEP] [O] cramped [S] bad [A] place [SSEP] [O] fantastic [S] good [A] food
+the place is small and cramped but the food is fantastic . [A] [S] [O]	[A] place [S] bad [O] small [SSEP] [A] place [S] bad [O] cramped [SSEP] [A] food [S] good [O] fantastic
+the place is small and cramped but the food is fantastic . [S] [O] [A]	[S] bad [O] small [A] place [SSEP] [S] bad [O] cramped [A] place [SSEP] [S] good [O] fantastic [A] food
+moules were excellent , lobster ravioli was very salty ! [O] [A] [S]	[O] excellent [A] moules [S] good [SSEP] [O] salty [A] lobster ravioli [S] bad
+moules were excellent , lobster ravioli was very salty ! [A] [O] [S]	[A] moules [O] excellent [S] good [SSEP] [A] lobster ravioli [O] salty [S] bad
+moules were excellent , lobster ravioli was very salty ! [O] [S] [A]	[O] excellent [S] good [A] moules [SSEP] [O] salty [S] bad [A] lobster ravioli
+moules were excellent , lobster ravioli was very salty ! [A] [S] [O]	[A] moules [S] good [O] excellent [SSEP] [A] lobster ravioli [S] bad [O] salty
+moules were excellent , lobster ravioli was very salty ! [S] [O] [A]	[S] good [O] excellent [A] moules [SSEP] [S] bad [O] salty [A] lobster ravioli
+service is not exactly five star , but thats not really a big deal . [O] [A] [S]	[O] not exactly five star [A] service [S] ok
+service is not exactly five star , but thats not really a big deal . [A] [O] [S]	[A] service [O] not exactly five star [S] ok
+service is not exactly five star , but thats not really a big deal . [O] [S] [A]	[O] not exactly five star [S] ok [A] service
+service is not exactly five star , but thats not really a big deal . [A] [S] [O]	[A] service [S] ok [O] not exactly five star
+service is not exactly five star , but thats not really a big deal . [S] [O] [A]	[S] ok [O] not exactly five star [A] service
+downstairs lounge is always a good attraction [O] [A] [S]	[O] good attraction [A] downstairs lounge [S] good
+downstairs lounge is always a good attraction [A] [O] [S]	[A] downstairs lounge [O] good attraction [S] good
+downstairs lounge is always a good attraction [O] [S] [A]	[O] good attraction [S] good [A] downstairs lounge
+downstairs lounge is always a good attraction [A] [S] [O]	[A] downstairs lounge [S] good [O] good attraction
+downstairs lounge is always a good attraction [S] [O] [A]	[S] good [O] good attraction [A] downstairs lounge
+the staff is incredibly helpful and attentive . [O] [A] [S]	[O] helpful [A] staff [S] good [SSEP] [O] attentive [A] staff [S] good
+the staff is incredibly helpful and attentive . [A] [O] [S]	[A] staff [O] helpful [S] good [SSEP] [A] staff [O] attentive [S] good
+the staff is incredibly helpful and attentive . [O] [S] [A]	[O] helpful [S] good [A] staff [SSEP] [O] attentive [S] good [A] staff
+the staff is incredibly helpful and attentive . [A] [S] [O]	[A] staff [S] good [O] helpful [SSEP] [A] staff [S] good [O] attentive
+the staff is incredibly helpful and attentive . [S] [O] [A]	[S] good [O] helpful [A] staff [SSEP] [S] good [O] attentive [A] staff
+rude service , medicore food ... there are tons of restaurants in ny ... stay away from this one [O] [A] [S]	[O] rude [A] service [S] bad [SSEP] [O] medicore [A] food [S] ok
+rude service , medicore food ... there are tons of restaurants in ny ... stay away from this one [A] [O] [S]	[A] service [O] rude [S] bad [SSEP] [A] food [O] medicore [S] ok
+rude service , medicore food ... there are tons of restaurants in ny ... stay away from this one [O] [S] [A]	[O] rude [S] bad [A] service [SSEP] [O] medicore [S] ok [A] food
+rude service , medicore food ... there are tons of restaurants in ny ... stay away from this one [A] [S] [O]	[A] service [S] bad [O] rude [SSEP] [A] food [S] ok [O] medicore
+rude service , medicore food ... there are tons of restaurants in ny ... stay away from this one [S] [O] [A]	[S] bad [O] rude [A] service [SSEP] [S] ok [O] medicore [A] food
+i had a great time at jekyll and hyde ! [O] [A] [S]	[O] great time [A] jekyll and hyde [S] good
+i had a great time at jekyll and hyde ! [A] [O] [S]	[A] jekyll and hyde [O] great time [S] good
+i had a great time at jekyll and hyde ! [O] [S] [A]	[O] great time [S] good [A] jekyll and hyde
+i had a great time at jekyll and hyde ! [A] [S] [O]	[A] jekyll and hyde [S] good [O] great time
+i had a great time at jekyll and hyde ! [S] [O] [A]	[S] good [O] great time [A] jekyll and hyde
+the food was good too . [O] [A] [S]	[O] good [A] food [S] good
+the food was good too . [A] [O] [S]	[A] food [O] good [S] good
+the food was good too . [O] [S] [A]	[O] good [S] good [A] food
+the food was good too . [A] [S] [O]	[A] food [S] good [O] good
+the food was good too . [S] [O] [A]	[S] good [O] good [A] food
+the tuna and wasabe potatoes are excellent . [O] [A] [S]	[O] excellent [A] tuna [S] good [SSEP] [O] excellent [A] wasabe potatoes [S] good
+the tuna and wasabe potatoes are excellent . [A] [O] [S]	[A] tuna [O] excellent [S] good [SSEP] [A] wasabe potatoes [O] excellent [S] good
+the tuna and wasabe potatoes are excellent . [O] [S] [A]	[O] excellent [S] good [A] tuna [SSEP] [O] excellent [S] good [A] wasabe potatoes
+the tuna and wasabe potatoes are excellent . [A] [S] [O]	[A] tuna [S] good [O] excellent [SSEP] [A] wasabe potatoes [S] good [O] excellent
+the tuna and wasabe potatoes are excellent . [S] [O] [A]	[S] good [O] excellent [A] tuna [SSEP] [S] good [O] excellent [A] wasabe potatoes
+great service , great food . [O] [A] [S]	[O] great [A] service [S] good [SSEP] [O] great [A] food [S] good
+great service , great food . [A] [O] [S]	[A] service [O] great [S] good [SSEP] [A] food [O] great [S] good
+great service , great food . [O] [S] [A]	[O] great [S] good [A] service [SSEP] [O] great [S] good [A] food
+great service , great food . [A] [S] [O]	[A] service [S] good [O] great [SSEP] [A] food [S] good [O] great
+great service , great food . [S] [O] [A]	[S] good [O] great [A] service [SSEP] [S] good [O] great [A] food
+the pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's . [O] [A] [S]	[O] delicious [A] pizza [S] good
+the pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's . [A] [O] [S]	[A] pizza [O] delicious [S] good
+the pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's . [O] [S] [A]	[O] delicious [S] good [A] pizza
+the pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's . [A] [S] [O]	[A] pizza [S] good [O] delicious
+the pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's . [S] [O] [A]	[S] good [O] delicious [A] pizza
+he served me an uni hand roll , which i never had before , and let me tell you ... it was heaven ! [O] [A] [S]	[O] heaven [A] uni hand roll [S] good
+he served me an uni hand roll , which i never had before , and let me tell you ... it was heaven ! [A] [O] [S]	[A] uni hand roll [O] heaven [S] good
+he served me an uni hand roll , which i never had before , and let me tell you ... it was heaven ! [O] [S] [A]	[O] heaven [S] good [A] uni hand roll
+he served me an uni hand roll , which i never had before , and let me tell you ... it was heaven ! [A] [S] [O]	[A] uni hand roll [S] good [O] heaven
+he served me an uni hand roll , which i never had before , and let me tell you ... it was heaven ! [S] [O] [A]	[S] good [O] heaven [A] uni hand roll
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [O] [A] [S]	[O] great [A] jekyll and hyde pub [S] good [SSEP] [O] fantastic [A] jekyll and hyde pub [S] good
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [A] [O] [S]	[A] jekyll and hyde pub [O] great [S] good [SSEP] [A] jekyll and hyde pub [O] fantastic [S] good
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [O] [S] [A]	[O] great [S] good [A] jekyll and hyde pub [SSEP] [O] fantastic [S] good [A] jekyll and hyde pub
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [A] [S] [O]	[A] jekyll and hyde pub [S] good [O] great [SSEP] [A] jekyll and hyde pub [S] good [O] fantastic
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic . [S] [O] [A]	[S] good [O] great [A] jekyll and hyde pub [SSEP] [S] good [O] fantastic [A] jekyll and hyde pub
+this was my frist time at cafe st. bart 's and i must say how delicious the food and the service was . [O] [A] [S]	[O] delicious [A] food [S] good
+this was my frist time at cafe st. bart 's and i must say how delicious the food and the service was . [A] [O] [S]	[A] food [O] delicious [S] good
+this was my frist time at cafe st. bart 's and i must say how delicious the food and the service was . [O] [S] [A]	[O] delicious [S] good [A] food
+this was my frist time at cafe st. bart 's and i must say how delicious the food and the service was . [A] [S] [O]	[A] food [S] good [O] delicious
+this was my frist time at cafe st. bart 's and i must say how delicious the food and the service was . [S] [O] [A]	[S] good [O] delicious [A] food
+i have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster . [O] [A] [S]	[O] recommend [A] lobster roll [S] good [SSEP] [O] fresh [A] lobster [S] good
+i have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster . [A] [O] [S]	[A] lobster roll [O] recommend [S] good [SSEP] [A] lobster [O] fresh [S] good
+i have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster . [O] [S] [A]	[O] recommend [S] good [A] lobster roll [SSEP] [O] fresh [S] good [A] lobster
+i have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster . [A] [S] [O]	[A] lobster roll [S] good [O] recommend [SSEP] [A] lobster [S] good [O] fresh
+i have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster . [S] [O] [A]	[S] good [O] recommend [A] lobster roll [SSEP] [S] good [O] fresh [A] lobster
+all the staff is absolutely professional ! ! [O] [A] [S]	[O] professional [A] staff [S] good
+all the staff is absolutely professional ! ! [A] [O] [S]	[A] staff [O] professional [S] good
+all the staff is absolutely professional ! ! [O] [S] [A]	[O] professional [S] good [A] staff
+all the staff is absolutely professional ! ! [A] [S] [O]	[A] staff [S] good [O] professional
+all the staff is absolutely professional ! ! [S] [O] [A]	[S] good [O] professional [A] staff
+this restaurant was way overhyped . [O] [A] [S]	[O] overhyped [A] restaurant [S] bad
+this restaurant was way overhyped . [A] [O] [S]	[A] restaurant [O] overhyped [S] bad
+this restaurant was way overhyped . [O] [S] [A]	[O] overhyped [S] bad [A] restaurant
+this restaurant was way overhyped . [A] [S] [O]	[A] restaurant [S] bad [O] overhyped
+this restaurant was way overhyped . [S] [O] [A]	[S] bad [O] overhyped [A] restaurant
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor . [O] [A] [S]	[O] below average [A] sushi [S] bad [SSEP] [O] soggy [A] tuna [S] bad [SSEP] [O] no flavor [A] rolls [S] bad
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor . [A] [O] [S]	[A] sushi [O] below average [S] bad [SSEP] [A] tuna [O] soggy [S] bad [SSEP] [A] rolls [O] no flavor [S] bad
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor . [O] [S] [A]	[O] below average [S] bad [A] sushi [SSEP] [O] soggy [S] bad [A] tuna [SSEP] [O] no flavor [S] bad [A] rolls
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor . [A] [S] [O]	[A] sushi [S] bad [O] below average [SSEP] [A] tuna [S] bad [O] soggy [SSEP] [A] rolls [S] bad [O] no flavor
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor . [S] [O] [A]	[S] bad [O] below average [A] sushi [SSEP] [S] bad [O] soggy [A] tuna [SSEP] [S] bad [O] no flavor [A] rolls
+their pad penang is delicious and everything else is fantastic . [O] [A] [S]	[O] delicious [A] pad penang [S] good
+their pad penang is delicious and everything else is fantastic . [A] [O] [S]	[A] pad penang [O] delicious [S] good
+their pad penang is delicious and everything else is fantastic . [O] [S] [A]	[O] delicious [S] good [A] pad penang
+their pad penang is delicious and everything else is fantastic . [A] [S] [O]	[A] pad penang [S] good [O] delicious
+their pad penang is delicious and everything else is fantastic . [S] [O] [A]	[S] good [O] delicious [A] pad penang
+the price is reasonable although the service is poor . [O] [A] [S]	[O] poor [A] service [S] bad
+the price is reasonable although the service is poor . [A] [O] [S]	[A] service [O] poor [S] bad
+the price is reasonable although the service is poor . [O] [S] [A]	[O] poor [S] bad [A] service
+the price is reasonable although the service is poor . [A] [S] [O]	[A] service [S] bad [O] poor
+the price is reasonable although the service is poor . [S] [O] [A]	[S] bad [O] poor [A] service
+the spicy tuna roll is huge and probably the best that i 've had at this price range . [O] [A] [S]	[O] huge [A] spicy tuna roll [S] good [SSEP] [O] best [A] spicy tuna roll [S] good
+the spicy tuna roll is huge and probably the best that i 've had at this price range . [A] [O] [S]	[A] spicy tuna roll [O] huge [S] good [SSEP] [A] spicy tuna roll [O] best [S] good
+the spicy tuna roll is huge and probably the best that i 've had at this price range . [O] [S] [A]	[O] huge [S] good [A] spicy tuna roll [SSEP] [O] best [S] good [A] spicy tuna roll
+the spicy tuna roll is huge and probably the best that i 've had at this price range . [A] [S] [O]	[A] spicy tuna roll [S] good [O] huge [SSEP] [A] spicy tuna roll [S] good [O] best
+the spicy tuna roll is huge and probably the best that i 've had at this price range . [S] [O] [A]	[S] good [O] huge [A] spicy tuna roll [SSEP] [S] good [O] best [A] spicy tuna roll
+the staff was accomodating , the food was absolutely delicious and the place is lovely . [O] [A] [S]	[O] accomodating [A] staff [S] good [SSEP] [O] delicious [A] food [S] good [SSEP] [O] lovely [A] place [S] good
+the staff was accomodating , the food was absolutely delicious and the place is lovely . [A] [O] [S]	[A] staff [O] accomodating [S] good [SSEP] [A] food [O] delicious [S] good [SSEP] [A] place [O] lovely [S] good
+the staff was accomodating , the food was absolutely delicious and the place is lovely . [O] [S] [A]	[O] accomodating [S] good [A] staff [SSEP] [O] delicious [S] good [A] food [SSEP] [O] lovely [S] good [A] place
+the staff was accomodating , the food was absolutely delicious and the place is lovely . [A] [S] [O]	[A] staff [S] good [O] accomodating [SSEP] [A] food [S] good [O] delicious [SSEP] [A] place [S] good [O] lovely
+the staff was accomodating , the food was absolutely delicious and the place is lovely . [S] [O] [A]	[S] good [O] accomodating [A] staff [SSEP] [S] good [O] delicious [A] food [SSEP] [S] good [O] lovely [A] place
+the food is authentic italian - delicious ! [O] [A] [S]	[O] authentic italian [A] food [S] good [SSEP] [O] delicious [A] food [S] good
+the food is authentic italian - delicious ! [A] [O] [S]	[A] food [O] authentic italian [S] good [SSEP] [A] food [O] delicious [S] good
+the food is authentic italian - delicious ! [O] [S] [A]	[O] authentic italian [S] good [A] food [SSEP] [O] delicious [S] good [A] food
+the food is authentic italian - delicious ! [A] [S] [O]	[A] food [S] good [O] authentic italian [SSEP] [A] food [S] good [O] delicious
+the food is authentic italian - delicious ! [S] [O] [A]	[S] good [O] authentic italian [A] food [SSEP] [S] good [O] delicious [A] food
+i 'm still mad that i had to pay for lousy food . [O] [A] [S]	[O] lousy [A] food [S] bad
+i 'm still mad that i had to pay for lousy food . [A] [O] [S]	[A] food [O] lousy [S] bad
+i 'm still mad that i had to pay for lousy food . [O] [S] [A]	[O] lousy [S] bad [A] food
+i 'm still mad that i had to pay for lousy food . [A] [S] [O]	[A] food [S] bad [O] lousy
+i 'm still mad that i had to pay for lousy food . [S] [O] [A]	[S] bad [O] lousy [A] food
+very affordable and excellent ambient ! [O] [A] [S]	[O] affordable [A] ambient [S] good [SSEP] [O] excellent [A] ambient [S] good
+very affordable and excellent ambient ! [A] [O] [S]	[A] ambient [O] affordable [S] good [SSEP] [A] ambient [O] excellent [S] good
+very affordable and excellent ambient ! [O] [S] [A]	[O] affordable [S] good [A] ambient [SSEP] [O] excellent [S] good [A] ambient
+very affordable and excellent ambient ! [A] [S] [O]	[A] ambient [S] good [O] affordable [SSEP] [A] ambient [S] good [O] excellent
+very affordable and excellent ambient ! [S] [O] [A]	[S] good [O] affordable [A] ambient [SSEP] [S] good [O] excellent [A] ambient
+we wo n't go to this place again for a good meal . [O] [A] [S]	[O] good [A] meal [S] bad
+we wo n't go to this place again for a good meal . [A] [O] [S]	[A] meal [O] good [S] bad
+we wo n't go to this place again for a good meal . [O] [S] [A]	[O] good [S] bad [A] meal
+we wo n't go to this place again for a good meal . [A] [S] [O]	[A] meal [S] bad [O] good
+we wo n't go to this place again for a good meal . [S] [O] [A]	[S] bad [O] good [A] meal
+however , i think this place is a good hang out spot . [O] [A] [S]	[O] good [A] place [S] good
+however , i think this place is a good hang out spot . [A] [O] [S]	[A] place [O] good [S] good
+however , i think this place is a good hang out spot . [O] [S] [A]	[O] good [S] good [A] place
+however , i think this place is a good hang out spot . [A] [S] [O]	[A] place [S] good [O] good
+however , i think this place is a good hang out spot . [S] [O] [A]	[S] good [O] good [A] place
+cute place , nice wait staff but would never go there again . [O] [A] [S]	[O] nice [A] wait staff [S] good [SSEP] [O] cute [A] place [S] bad
+cute place , nice wait staff but would never go there again . [A] [O] [S]	[A] wait staff [O] nice [S] good [SSEP] [A] place [O] cute [S] bad
+cute place , nice wait staff but would never go there again . [O] [S] [A]	[O] nice [S] good [A] wait staff [SSEP] [O] cute [S] bad [A] place
+cute place , nice wait staff but would never go there again . [A] [S] [O]	[A] wait staff [S] good [O] nice [SSEP] [A] place [S] bad [O] cute
+cute place , nice wait staff but would never go there again . [S] [O] [A]	[S] good [O] nice [A] wait staff [SSEP] [S] bad [O] cute [A] place
+someone else recommended the dessert - we also left that . [O] [A] [S]	[O] recommended [A] dessert [S] bad
+someone else recommended the dessert - we also left that . [A] [O] [S]	[A] dessert [O] recommended [S] bad
+someone else recommended the dessert - we also left that . [O] [S] [A]	[O] recommended [S] bad [A] dessert
+someone else recommended the dessert - we also left that . [A] [S] [O]	[A] dessert [S] bad [O] recommended
+someone else recommended the dessert - we also left that . [S] [O] [A]	[S] bad [O] recommended [A] dessert
+i 've never had bad service and the fish is fresh and delicious . [O] [A] [S]	[O] never had bad [A] service [S] good [SSEP] [O] fresh [A] fish [S] good [SSEP] [O] delicious [A] fish [S] good
+i 've never had bad service and the fish is fresh and delicious . [A] [O] [S]	[A] service [O] never had bad [S] good [SSEP] [A] fish [O] fresh [S] good [SSEP] [A] fish [O] delicious [S] good
+i 've never had bad service and the fish is fresh and delicious . [O] [S] [A]	[O] never had bad [S] good [A] service [SSEP] [O] fresh [S] good [A] fish [SSEP] [O] delicious [S] good [A] fish
+i 've never had bad service and the fish is fresh and delicious . [A] [S] [O]	[A] service [S] good [O] never had bad [SSEP] [A] fish [S] good [O] fresh [SSEP] [A] fish [S] good [O] delicious
+i 've never had bad service and the fish is fresh and delicious . [S] [O] [A]	[S] good [O] never had bad [A] service [SSEP] [S] good [O] fresh [A] fish [SSEP] [S] good [O] delicious [A] fish
+the place is so cool and the service is prompt and curtious . [O] [A] [S]	[O] prompt [A] service [S] good [SSEP] [O] curtious [A] service [S] good [SSEP] [O] cool [A] place [S] good
+the place is so cool and the service is prompt and curtious . [A] [O] [S]	[A] service [O] prompt [S] good [SSEP] [A] service [O] curtious [S] good [SSEP] [A] place [O] cool [S] good
+the place is so cool and the service is prompt and curtious . [O] [S] [A]	[O] prompt [S] good [A] service [SSEP] [O] curtious [S] good [A] service [SSEP] [O] cool [S] good [A] place
+the place is so cool and the service is prompt and curtious . [A] [S] [O]	[A] service [S] good [O] prompt [SSEP] [A] service [S] good [O] curtious [SSEP] [A] place [S] good [O] cool
+the place is so cool and the service is prompt and curtious . [S] [O] [A]	[S] good [O] prompt [A] service [SSEP] [S] good [O] curtious [A] service [SSEP] [S] good [O] cool [A] place
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque . [O] [A] [S]	[O] good [A] new england chowder [S] good [SSEP] [O] award [A] lobster bisque [S] good
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque . [A] [O] [S]	[A] new england chowder [O] good [S] good [SSEP] [A] lobster bisque [O] award [S] good
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque . [O] [S] [A]	[O] good [S] good [A] new england chowder [SSEP] [O] award [S] good [A] lobster bisque
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque . [A] [S] [O]	[A] new england chowder [S] good [O] good [SSEP] [A] lobster bisque [S] good [O] award
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque . [S] [O] [A]	[S] good [O] good [A] new england chowder [SSEP] [S] good [O] award [A] lobster bisque
+the characters really make for an enjoyable experience . [O] [A] [S]	[O] enjoyable [A] characters [S] good
+the characters really make for an enjoyable experience . [A] [O] [S]	[A] characters [O] enjoyable [S] good
+the characters really make for an enjoyable experience . [O] [S] [A]	[O] enjoyable [S] good [A] characters
+the characters really make for an enjoyable experience . [A] [S] [O]	[A] characters [S] good [O] enjoyable
+the characters really make for an enjoyable experience . [S] [O] [A]	[S] good [O] enjoyable [A] characters
+food was good not great not worth the wait or another visit [O] [A] [S]	[O] good not great not worth the wait or another visit [A] food [S] ok
+food was good not great not worth the wait or another visit [A] [O] [S]	[A] food [O] good not great not worth the wait or another visit [S] ok
+food was good not great not worth the wait or another visit [O] [S] [A]	[O] good not great not worth the wait or another visit [S] ok [A] food
+food was good not great not worth the wait or another visit [A] [S] [O]	[A] food [S] ok [O] good not great not worth the wait or another visit
+food was good not great not worth the wait or another visit [S] [O] [A]	[S] ok [O] good not great not worth the wait or another visit [A] food
+the lox is always fresh too . [O] [A] [S]	[O] fresh [A] lox [S] good
+the lox is always fresh too . [A] [O] [S]	[A] lox [O] fresh [S] good
+the lox is always fresh too . [O] [S] [A]	[O] fresh [S] good [A] lox
+the lox is always fresh too . [A] [S] [O]	[A] lox [S] good [O] fresh
+the lox is always fresh too . [S] [O] [A]	[S] good [O] fresh [A] lox
+the service is ok , some of the people did n't get what they asked for . [O] [A] [S]	[O] ok [A] service [S] ok
+the service is ok , some of the people did n't get what they asked for . [A] [O] [S]	[A] service [O] ok [S] ok
+the service is ok , some of the people did n't get what they asked for . [O] [S] [A]	[O] ok [S] ok [A] service
+the service is ok , some of the people did n't get what they asked for . [A] [S] [O]	[A] service [S] ok [O] ok
+the service is ok , some of the people did n't get what they asked for . [S] [O] [A]	[S] ok [O] ok [A] service
+the wine the service was very good too . [O] [A] [S]	[O] good [A] wine [S] good [SSEP] [O] good [A] service [S] good
+the wine the service was very good too . [A] [O] [S]	[A] wine [O] good [S] good [SSEP] [A] service [O] good [S] good
+the wine the service was very good too . [O] [S] [A]	[O] good [S] good [A] wine [SSEP] [O] good [S] good [A] service
+the wine the service was very good too . [A] [S] [O]	[A] wine [S] good [O] good [SSEP] [A] service [S] good [O] good
+the wine the service was very good too . [S] [O] [A]	[S] good [O] good [A] wine [SSEP] [S] good [O] good [A] service
+great staff . [O] [A] [S]	[O] great [A] staff [S] good
+great staff . [A] [O] [S]	[A] staff [O] great [S] good
+great staff . [O] [S] [A]	[O] great [S] good [A] staff
+great staff . [A] [S] [O]	[A] staff [S] good [O] great
+great staff . [S] [O] [A]	[S] good [O] great [A] staff
+the hostess and the waitress were incredibly rude and did everything they could to rush us out . [O] [A] [S]	[O] rude [A] hostess [S] bad [SSEP] [O] rude [A] waitress [S] bad
+the hostess and the waitress were incredibly rude and did everything they could to rush us out . [A] [O] [S]	[A] hostess [O] rude [S] bad [SSEP] [A] waitress [O] rude [S] bad
+the hostess and the waitress were incredibly rude and did everything they could to rush us out . [O] [S] [A]	[O] rude [S] bad [A] hostess [SSEP] [O] rude [S] bad [A] waitress
+the hostess and the waitress were incredibly rude and did everything they could to rush us out . [A] [S] [O]	[A] hostess [S] bad [O] rude [SSEP] [A] waitress [S] bad [O] rude
+the hostess and the waitress were incredibly rude and did everything they could to rush us out . [S] [O] [A]	[S] bad [O] rude [A] hostess [SSEP] [S] bad [O] rude [A] waitress
+this place is always packed . [O] [A] [S]	[O] packed [A] place [S] ok
+this place is always packed . [A] [O] [S]	[A] place [O] packed [S] ok
+this place is always packed . [O] [S] [A]	[O] packed [S] ok [A] place
+this place is always packed . [A] [S] [O]	[A] place [S] ok [O] packed
+this place is always packed . [S] [O] [A]	[S] ok [O] packed [A] place
+and yes dal bukhara is so dam good and so are all the kababs . [O] [A] [S]	[O] good [A] kababs [S] good [SSEP] [O] good [A] dal bukhara [S] good
+and yes dal bukhara is so dam good and so are all the kababs . [A] [O] [S]	[A] kababs [O] good [S] good [SSEP] [A] dal bukhara [O] good [S] good
+and yes dal bukhara is so dam good and so are all the kababs . [O] [S] [A]	[O] good [S] good [A] kababs [SSEP] [O] good [S] good [A] dal bukhara
+and yes dal bukhara is so dam good and so are all the kababs . [A] [S] [O]	[A] kababs [S] good [O] good [SSEP] [A] dal bukhara [S] good [O] good
+and yes dal bukhara is so dam good and so are all the kababs . [S] [O] [A]	[S] good [O] good [A] kababs [SSEP] [S] good [O] good [A] dal bukhara
+i have been to roth 's twice and both times were very disappointing . [O] [A] [S]	[O] disappointing [A] roth 's [S] bad
+i have been to roth 's twice and both times were very disappointing . [A] [O] [S]	[A] roth 's [O] disappointing [S] bad
+i have been to roth 's twice and both times were very disappointing . [O] [S] [A]	[O] disappointing [S] bad [A] roth 's
+i have been to roth 's twice and both times were very disappointing . [A] [S] [O]	[A] roth 's [S] bad [O] disappointing
+i have been to roth 's twice and both times were very disappointing . [S] [O] [A]	[S] bad [O] disappointing [A] roth 's
+chennai garden is my favorite indian restaurant in the city . [O] [A] [S]	[O] favorite [A] chennai garden [S] good
+chennai garden is my favorite indian restaurant in the city . [A] [O] [S]	[A] chennai garden [O] favorite [S] good
+chennai garden is my favorite indian restaurant in the city . [O] [S] [A]	[O] favorite [S] good [A] chennai garden
+chennai garden is my favorite indian restaurant in the city . [A] [S] [O]	[A] chennai garden [S] good [O] favorite
+chennai garden is my favorite indian restaurant in the city . [S] [O] [A]	[S] good [O] favorite [A] chennai garden
+they have authentic indian at amazin prices . [O] [A] [S]	[O] authentic [A] indian [S] good
+they have authentic indian at amazin prices . [A] [O] [S]	[A] indian [O] authentic [S] good
+they have authentic indian at amazin prices . [O] [S] [A]	[O] authentic [S] good [A] indian
+they have authentic indian at amazin prices . [A] [S] [O]	[A] indian [S] good [O] authentic
+they have authentic indian at amazin prices . [S] [O] [A]	[S] good [O] authentic [A] indian
+it 's a rather cramped and busy restaurant and it closes early . [O] [A] [S]	[O] cramped [A] restaurant [S] bad [SSEP] [O] busy [A] restaurant [S] bad
+it 's a rather cramped and busy restaurant and it closes early . [A] [O] [S]	[A] restaurant [O] cramped [S] bad [SSEP] [A] restaurant [O] busy [S] bad
+it 's a rather cramped and busy restaurant and it closes early . [O] [S] [A]	[O] cramped [S] bad [A] restaurant [SSEP] [O] busy [S] bad [A] restaurant
+it 's a rather cramped and busy restaurant and it closes early . [A] [S] [O]	[A] restaurant [S] bad [O] cramped [SSEP] [A] restaurant [S] bad [O] busy
+it 's a rather cramped and busy restaurant and it closes early . [S] [O] [A]	[S] bad [O] cramped [A] restaurant [SSEP] [S] bad [O] busy [A] restaurant
+food is excellent . [O] [A] [S]	[O] excellent [A] food [S] good
+food is excellent . [A] [O] [S]	[A] food [O] excellent [S] good
+food is excellent . [O] [S] [A]	[O] excellent [S] good [A] food
+food is excellent . [A] [S] [O]	[A] food [S] good [O] excellent
+food is excellent . [S] [O] [A]	[S] good [O] excellent [A] food
+fish is so very fresh . [O] [A] [S]	[O] fresh [A] fish [S] good
+fish is so very fresh . [A] [O] [S]	[A] fish [O] fresh [S] good
+fish is so very fresh . [O] [S] [A]	[O] fresh [S] good [A] fish
+fish is so very fresh . [A] [S] [O]	[A] fish [S] good [O] fresh
+fish is so very fresh . [S] [O] [A]	[S] good [O] fresh [A] fish
+love yuka . [O] [A] [S]	[O] love [A] yuka [S] good
+love yuka . [A] [O] [S]	[A] yuka [O] love [S] good
+love yuka . [O] [S] [A]	[O] love [S] good [A] yuka
+love yuka . [A] [S] [O]	[A] yuka [S] good [O] love
+love yuka . [S] [O] [A]	[S] good [O] love [A] yuka
+the food is so cheap and the waiters are nice . [O] [A] [S]	[O] cheap [A] food [S] good [SSEP] [O] nice [A] waiters [S] good
+the food is so cheap and the waiters are nice . [A] [O] [S]	[A] food [O] cheap [S] good [SSEP] [A] waiters [O] nice [S] good
+the food is so cheap and the waiters are nice . [O] [S] [A]	[O] cheap [S] good [A] food [SSEP] [O] nice [S] good [A] waiters
+the food is so cheap and the waiters are nice . [A] [S] [O]	[A] food [S] good [O] cheap [SSEP] [A] waiters [S] good [O] nice
+the food is so cheap and the waiters are nice . [S] [O] [A]	[S] good [O] cheap [A] food [SSEP] [S] good [O] nice [A] waiters
+be sure to try the seasonal , and always delicious , specials . [O] [A] [S]	[O] try [A] specials [S] good [SSEP] [O] seasonal [A] specials [S] good [SSEP] [O] delicious [A] specials [S] good
+be sure to try the seasonal , and always delicious , specials . [A] [O] [S]	[A] specials [O] try [S] good [SSEP] [A] specials [O] seasonal [S] good [SSEP] [A] specials [O] delicious [S] good
+be sure to try the seasonal , and always delicious , specials . [O] [S] [A]	[O] try [S] good [A] specials [SSEP] [O] seasonal [S] good [A] specials [SSEP] [O] delicious [S] good [A] specials
+be sure to try the seasonal , and always delicious , specials . [A] [S] [O]	[A] specials [S] good [O] try [SSEP] [A] specials [S] good [O] seasonal [SSEP] [A] specials [S] good [O] delicious
+be sure to try the seasonal , and always delicious , specials . [S] [O] [A]	[S] good [O] try [A] specials [SSEP] [S] good [O] seasonal [A] specials [SSEP] [S] good [O] delicious [A] specials
+salads are a delicious way to begin the meal . [O] [A] [S]	[O] delicious [A] salads [S] good
+salads are a delicious way to begin the meal . [A] [O] [S]	[A] salads [O] delicious [S] good
+salads are a delicious way to begin the meal . [O] [S] [A]	[O] delicious [S] good [A] salads
+salads are a delicious way to begin the meal . [A] [S] [O]	[A] salads [S] good [O] delicious
+salads are a delicious way to begin the meal . [S] [O] [A]	[S] good [O] delicious [A] salads
+i would definitely recommend sea if you like thai cuisine ! [O] [A] [S]	[O] like [A] thai cuisine [S] good
+i would definitely recommend sea if you like thai cuisine ! [A] [O] [S]	[A] thai cuisine [O] like [S] good
+i would definitely recommend sea if you like thai cuisine ! [O] [S] [A]	[O] like [S] good [A] thai cuisine
+i would definitely recommend sea if you like thai cuisine ! [A] [S] [O]	[A] thai cuisine [S] good [O] like
+i would definitely recommend sea if you like thai cuisine ! [S] [O] [A]	[S] good [O] like [A] thai cuisine
+i absolutely loved this place . [O] [A] [S]	[O] loved [A] place [S] good
+i absolutely loved this place . [A] [O] [S]	[A] place [O] loved [S] good
+i absolutely loved this place . [O] [S] [A]	[O] loved [S] good [A] place
+i absolutely loved this place . [A] [S] [O]	[A] place [S] good [O] loved
+i absolutely loved this place . [S] [O] [A]	[S] good [O] loved [A] place
+everything was wonderful ; food , drinks , staff , mileau . [O] [A] [S]	[O] wonderful [A] food [S] good [SSEP] [O] wonderful [A] drinks [S] good [SSEP] [O] wonderful [A] staff [S] good [SSEP] [O] wonderful [A] mileau [S] good
+everything was wonderful ; food , drinks , staff , mileau . [A] [O] [S]	[A] food [O] wonderful [S] good [SSEP] [A] drinks [O] wonderful [S] good [SSEP] [A] staff [O] wonderful [S] good [SSEP] [A] mileau [O] wonderful [S] good
+everything was wonderful ; food , drinks , staff , mileau . [O] [S] [A]	[O] wonderful [S] good [A] food [SSEP] [O] wonderful [S] good [A] drinks [SSEP] [O] wonderful [S] good [A] staff [SSEP] [O] wonderful [S] good [A] mileau
+everything was wonderful ; food , drinks , staff , mileau . [A] [S] [O]	[A] food [S] good [O] wonderful [SSEP] [A] drinks [S] good [O] wonderful [SSEP] [A] staff [S] good [O] wonderful [SSEP] [A] mileau [S] good [O] wonderful
+everything was wonderful ; food , drinks , staff , mileau . [S] [O] [A]	[S] good [O] wonderful [A] food [SSEP] [S] good [O] wonderful [A] drinks [SSEP] [S] good [O] wonderful [A] staff [SSEP] [S] good [O] wonderful [A] mileau
+nice family owned traditional restaurant . [O] [A] [S]	[O] traditional [A] restaurant [S] good
+nice family owned traditional restaurant . [A] [O] [S]	[A] restaurant [O] traditional [S] good
+nice family owned traditional restaurant . [O] [S] [A]	[O] traditional [S] good [A] restaurant
+nice family owned traditional restaurant . [A] [S] [O]	[A] restaurant [S] good [O] traditional
+nice family owned traditional restaurant . [S] [O] [A]	[S] good [O] traditional [A] restaurant
+i also ordered the change mojito , which was out of this world . [O] [A] [S]	[O] out of this world [A] change mojito [S] good
+i also ordered the change mojito , which was out of this world . [A] [O] [S]	[A] change mojito [O] out of this world [S] good
+i also ordered the change mojito , which was out of this world . [O] [S] [A]	[O] out of this world [S] good [A] change mojito
+i also ordered the change mojito , which was out of this world . [A] [S] [O]	[A] change mojito [S] good [O] out of this world
+i also ordered the change mojito , which was out of this world . [S] [O] [A]	[S] good [O] out of this world [A] change mojito
+the place was nice and calm . [O] [A] [S]	[O] nice [A] place [S] good [SSEP] [O] calm [A] place [S] good
+the place was nice and calm . [A] [O] [S]	[A] place [O] nice [S] good [SSEP] [A] place [O] calm [S] good
+the place was nice and calm . [O] [S] [A]	[O] nice [S] good [A] place [SSEP] [O] calm [S] good [A] place
+the place was nice and calm . [A] [S] [O]	[A] place [S] good [O] nice [SSEP] [A] place [S] good [O] calm
+the place was nice and calm . [S] [O] [A]	[S] good [O] nice [A] place [SSEP] [S] good [O] calm [A] place
+consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them . [O] [A] [S]	[O] fell apart [A] burgers [S] bad
+consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them . [A] [O] [S]	[A] burgers [O] fell apart [S] bad
+consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them . [O] [S] [A]	[O] fell apart [S] bad [A] burgers
+consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them . [A] [S] [O]	[A] burgers [S] bad [O] fell apart
+consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them . [S] [O] [A]	[S] bad [O] fell apart [A] burgers
+i had a huge pastrami sandwich on a roll . [O] [A] [S]	[O] huge [A] pastrami sandwich on a roll [S] ok
+i had a huge pastrami sandwich on a roll . [A] [O] [S]	[A] pastrami sandwich on a roll [O] huge [S] ok
+i had a huge pastrami sandwich on a roll . [O] [S] [A]	[O] huge [S] ok [A] pastrami sandwich on a roll
+i had a huge pastrami sandwich on a roll . [A] [S] [O]	[A] pastrami sandwich on a roll [S] ok [O] huge
+i had a huge pastrami sandwich on a roll . [S] [O] [A]	[S] ok [O] huge [A] pastrami sandwich on a roll
+the back garden sitting area is very pleasant , where you can see their personal herb garden . [O] [A] [S]	[O] pleasant [A] back garden sitting area [S] good
+the back garden sitting area is very pleasant , where you can see their personal herb garden . [A] [O] [S]	[A] back garden sitting area [O] pleasant [S] good
+the back garden sitting area is very pleasant , where you can see their personal herb garden . [O] [S] [A]	[O] pleasant [S] good [A] back garden sitting area
+the back garden sitting area is very pleasant , where you can see their personal herb garden . [A] [S] [O]	[A] back garden sitting area [S] good [O] pleasant
+the back garden sitting area is very pleasant , where you can see their personal herb garden . [S] [O] [A]	[S] good [O] pleasant [A] back garden sitting area
+we ended our great experience by having gulab jamun ( dessert ) recommended by the waiter . [O] [A] [S]	[O] great [A] gulab jamun ( dessert ) [S] good
+we ended our great experience by having gulab jamun ( dessert ) recommended by the waiter . [A] [O] [S]	[A] gulab jamun ( dessert ) [O] great [S] good
+we ended our great experience by having gulab jamun ( dessert ) recommended by the waiter . [O] [S] [A]	[O] great [S] good [A] gulab jamun ( dessert )
+we ended our great experience by having gulab jamun ( dessert ) recommended by the waiter . [A] [S] [O]	[A] gulab jamun ( dessert ) [S] good [O] great
+we ended our great experience by having gulab jamun ( dessert ) recommended by the waiter . [S] [O] [A]	[S] good [O] great [A] gulab jamun ( dessert )
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others . [O] [A] [S]	[O] recommend [A] restaurant [S] good
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others . [A] [O] [S]	[A] restaurant [O] recommend [S] good
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others . [O] [S] [A]	[O] recommend [S] good [A] restaurant
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others . [A] [S] [O]	[A] restaurant [S] good [O] recommend
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others . [S] [O] [A]	[S] good [O] recommend [A] restaurant
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded . [O] [A] [S]	[O] overcrowded [A] pizza place [S] good
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded . [A] [O] [S]	[A] pizza place [O] overcrowded [S] good
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded . [O] [S] [A]	[O] overcrowded [S] good [A] pizza place
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded . [A] [S] [O]	[A] pizza place [S] good [O] overcrowded
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded . [S] [O] [A]	[S] good [O] overcrowded [A] pizza place
+while their kitchen food is delicious , their sushi is out of this world . [O] [A] [S]	[O] delicious [A] kitchen food [S] good [SSEP] [O] out of this world [A] sushi [S] good
+while their kitchen food is delicious , their sushi is out of this world . [A] [O] [S]	[A] kitchen food [O] delicious [S] good [SSEP] [A] sushi [O] out of this world [S] good
+while their kitchen food is delicious , their sushi is out of this world . [O] [S] [A]	[O] delicious [S] good [A] kitchen food [SSEP] [O] out of this world [S] good [A] sushi
+while their kitchen food is delicious , their sushi is out of this world . [A] [S] [O]	[A] kitchen food [S] good [O] delicious [SSEP] [A] sushi [S] good [O] out of this world
+while their kitchen food is delicious , their sushi is out of this world . [S] [O] [A]	[S] good [O] delicious [A] kitchen food [SSEP] [S] good [O] out of this world [A] sushi
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up . [O] [A] [S]	[O] beautiful [A] people [S] good [SSEP] [O] does n't quite match up [A] food [S] bad [SSEP] [O] beautiful [A] thalia [S] good
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up . [A] [O] [S]	[A] people [O] beautiful [S] good [SSEP] [A] food [O] does n't quite match up [S] bad [SSEP] [A] thalia [O] beautiful [S] good
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up . [O] [S] [A]	[O] beautiful [S] good [A] people [SSEP] [O] does n't quite match up [S] bad [A] food [SSEP] [O] beautiful [S] good [A] thalia
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up . [A] [S] [O]	[A] people [S] good [O] beautiful [SSEP] [A] food [S] bad [O] does n't quite match up [SSEP] [A] thalia [S] good [O] beautiful
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up . [S] [O] [A]	[S] good [O] beautiful [A] people [SSEP] [S] bad [O] does n't quite match up [A] food [SSEP] [S] good [O] beautiful [A] thalia
+i expected quite a bit more from such an expensive menu . [O] [A] [S]	[O] expensive [A] menu [S] bad
+i expected quite a bit more from such an expensive menu . [A] [O] [S]	[A] menu [O] expensive [S] bad
+i expected quite a bit more from such an expensive menu . [O] [S] [A]	[O] expensive [S] bad [A] menu
+i expected quite a bit more from such an expensive menu . [A] [S] [O]	[A] menu [S] bad [O] expensive
+i expected quite a bit more from such an expensive menu . [S] [O] [A]	[S] bad [O] expensive [A] menu
+the view is spectacular , and the food is great . [O] [A] [S]	[O] spectacular [A] view [S] good [SSEP] [O] great [A] food [S] good
+the view is spectacular , and the food is great . [A] [O] [S]	[A] view [O] spectacular [S] good [SSEP] [A] food [O] great [S] good
+the view is spectacular , and the food is great . [O] [S] [A]	[O] spectacular [S] good [A] view [SSEP] [O] great [S] good [A] food
+the view is spectacular , and the food is great . [A] [S] [O]	[A] view [S] good [O] spectacular [SSEP] [A] food [S] good [O] great
+the view is spectacular , and the food is great . [S] [O] [A]	[S] good [O] spectacular [A] view [SSEP] [S] good [O] great [A] food
+authentic taiwanese food that 's cheap ... what more could you ask for ? [O] [A] [S]	[O] authentic [A] taiwanese food [S] good [SSEP] [O] cheap [A] taiwanese food [S] good
+authentic taiwanese food that 's cheap ... what more could you ask for ? [A] [O] [S]	[A] taiwanese food [O] authentic [S] good [SSEP] [A] taiwanese food [O] cheap [S] good
+authentic taiwanese food that 's cheap ... what more could you ask for ? [O] [S] [A]	[O] authentic [S] good [A] taiwanese food [SSEP] [O] cheap [S] good [A] taiwanese food
+authentic taiwanese food that 's cheap ... what more could you ask for ? [A] [S] [O]	[A] taiwanese food [S] good [O] authentic [SSEP] [A] taiwanese food [S] good [O] cheap
+authentic taiwanese food that 's cheap ... what more could you ask for ? [S] [O] [A]	[S] good [O] authentic [A] taiwanese food [SSEP] [S] good [O] cheap [A] taiwanese food
+kind , attentive wait staff . [O] [A] [S]	[O] kind [A] wait staff [S] good [SSEP] [O] attentive [A] wait staff [S] good
+kind , attentive wait staff . [A] [O] [S]	[A] wait staff [O] kind [S] good [SSEP] [A] wait staff [O] attentive [S] good
+kind , attentive wait staff . [O] [S] [A]	[O] kind [S] good [A] wait staff [SSEP] [O] attentive [S] good [A] wait staff
+kind , attentive wait staff . [A] [S] [O]	[A] wait staff [S] good [O] kind [SSEP] [A] wait staff [S] good [O] attentive
+kind , attentive wait staff . [S] [O] [A]	[S] good [O] kind [A] wait staff [SSEP] [S] good [O] attentive [A] wait staff
+my friend devoured her chicken and mashed potatos . [O] [A] [S]	[O] devoured [A] chicken and mashed potatos [S] good
+my friend devoured her chicken and mashed potatos . [A] [O] [S]	[A] chicken and mashed potatos [O] devoured [S] good
+my friend devoured her chicken and mashed potatos . [O] [S] [A]	[O] devoured [S] good [A] chicken and mashed potatos
+my friend devoured her chicken and mashed potatos . [A] [S] [O]	[A] chicken and mashed potatos [S] good [O] devoured
+my friend devoured her chicken and mashed potatos . [S] [O] [A]	[S] good [O] devoured [A] chicken and mashed potatos
+the atmosphere is unheralded , the service impecible , and the food magnificant . [O] [A] [S]	[O] unheralded [A] atmosphere [S] good [SSEP] [O] impecible [A] service [S] good [SSEP] [O] magnificant [A] food [S] good
+the atmosphere is unheralded , the service impecible , and the food magnificant . [A] [O] [S]	[A] atmosphere [O] unheralded [S] good [SSEP] [A] service [O] impecible [S] good [SSEP] [A] food [O] magnificant [S] good
+the atmosphere is unheralded , the service impecible , and the food magnificant . [O] [S] [A]	[O] unheralded [S] good [A] atmosphere [SSEP] [O] impecible [S] good [A] service [SSEP] [O] magnificant [S] good [A] food
+the atmosphere is unheralded , the service impecible , and the food magnificant . [A] [S] [O]	[A] atmosphere [S] good [O] unheralded [SSEP] [A] service [S] good [O] impecible [SSEP] [A] food [S] good [O] magnificant
+the atmosphere is unheralded , the service impecible , and the food magnificant . [S] [O] [A]	[S] good [O] unheralded [A] atmosphere [SSEP] [S] good [O] impecible [A] service [SSEP] [S] good [O] magnificant [A] food
+this is such a lovely , peaceful place to eat outside . [O] [A] [S]	[O] lovely [A] place [S] good [SSEP] [O] peaceful [A] place [S] good
+this is such a lovely , peaceful place to eat outside . [A] [O] [S]	[A] place [O] lovely [S] good [SSEP] [A] place [O] peaceful [S] good
+this is such a lovely , peaceful place to eat outside . [O] [S] [A]	[O] lovely [S] good [A] place [SSEP] [O] peaceful [S] good [A] place
+this is such a lovely , peaceful place to eat outside . [A] [S] [O]	[A] place [S] good [O] lovely [SSEP] [A] place [S] good [O] peaceful
+this is such a lovely , peaceful place to eat outside . [S] [O] [A]	[S] good [O] lovely [A] place [SSEP] [S] good [O] peaceful [A] place
+great sushi experience . [O] [A] [S]	[O] great [A] sushi [S] good
+great sushi experience . [A] [O] [S]	[A] sushi [O] great [S] good
+great sushi experience . [O] [S] [A]	[O] great [S] good [A] sushi
+great sushi experience . [A] [S] [O]	[A] sushi [S] good [O] great
+great sushi experience . [S] [O] [A]	[S] good [O] great [A] sushi
+this place is not worth the prices . [O] [A] [S]	[O] not worth the prices [A] place [S] bad
+this place is not worth the prices . [A] [O] [S]	[A] place [O] not worth the prices [S] bad
+this place is not worth the prices . [O] [S] [A]	[O] not worth the prices [S] bad [A] place
+this place is not worth the prices . [A] [S] [O]	[A] place [S] bad [O] not worth the prices
+this place is not worth the prices . [S] [O] [A]	[S] bad [O] not worth the prices [A] place
+love pizza 33 ... [O] [A] [S]	[O] love [A] pizza 33 [S] good
+love pizza 33 ... [A] [O] [S]	[A] pizza 33 [O] love [S] good
+love pizza 33 ... [O] [S] [A]	[O] love [S] good [A] pizza 33
+love pizza 33 ... [A] [S] [O]	[A] pizza 33 [S] good [O] love
+love pizza 33 ... [S] [O] [A]	[S] good [O] love [A] pizza 33
+the rice was poor quality and was cooked so badly it was hard . [O] [A] [S]	[O] poor quality [A] rice [S] bad [SSEP] [O] cooked so badly [A] rice [S] bad [SSEP] [O] hard [A] rice [S] bad
+the rice was poor quality and was cooked so badly it was hard . [A] [O] [S]	[A] rice [O] poor quality [S] bad [SSEP] [A] rice [O] cooked so badly [S] bad [SSEP] [A] rice [O] hard [S] bad
+the rice was poor quality and was cooked so badly it was hard . [O] [S] [A]	[O] poor quality [S] bad [A] rice [SSEP] [O] cooked so badly [S] bad [A] rice [SSEP] [O] hard [S] bad [A] rice
+the rice was poor quality and was cooked so badly it was hard . [A] [S] [O]	[A] rice [S] bad [O] poor quality [SSEP] [A] rice [S] bad [O] cooked so badly [SSEP] [A] rice [S] bad [O] hard
+the rice was poor quality and was cooked so badly it was hard . [S] [O] [A]	[S] bad [O] poor quality [A] rice [SSEP] [S] bad [O] cooked so badly [A] rice [SSEP] [S] bad [O] hard [A] rice
+the fish was adequate , but inexpertly sliced . [O] [A] [S]	[O] adequate [A] fish [S] bad [SSEP] [O] inexpertly sliced [A] fish [S] bad
+the fish was adequate , but inexpertly sliced . [A] [O] [S]	[A] fish [O] adequate [S] bad [SSEP] [A] fish [O] inexpertly sliced [S] bad
+the fish was adequate , but inexpertly sliced . [O] [S] [A]	[O] adequate [S] bad [A] fish [SSEP] [O] inexpertly sliced [S] bad [A] fish
+the fish was adequate , but inexpertly sliced . [A] [S] [O]	[A] fish [S] bad [O] adequate [SSEP] [A] fish [S] bad [O] inexpertly sliced
+the fish was adequate , but inexpertly sliced . [S] [O] [A]	[S] bad [O] adequate [A] fish [SSEP] [S] bad [O] inexpertly sliced [A] fish
+the wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) . [O] [A] [S]	[O] pleasant [A] wait staff [S] good [SSEP] [O] fun [A] wait staff [S] good [SSEP] [O] gorgeous [A] wait staff [S] good
+the wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) . [A] [O] [S]	[A] wait staff [O] pleasant [S] good [SSEP] [A] wait staff [O] fun [S] good [SSEP] [A] wait staff [O] gorgeous [S] good
+the wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) . [O] [S] [A]	[O] pleasant [S] good [A] wait staff [SSEP] [O] fun [S] good [A] wait staff [SSEP] [O] gorgeous [S] good [A] wait staff
+the wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) . [A] [S] [O]	[A] wait staff [S] good [O] pleasant [SSEP] [A] wait staff [S] good [O] fun [SSEP] [A] wait staff [S] good [O] gorgeous
+the wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) . [S] [O] [A]	[S] good [O] pleasant [A] wait staff [SSEP] [S] good [O] fun [A] wait staff [SSEP] [S] good [O] gorgeous [A] wait staff
+but the best part about ls is the late night atmosphere , delightfully free of the bts . [O] [A] [S]	[O] best [A] late night atmosphere [S] good
+but the best part about ls is the late night atmosphere , delightfully free of the bts . [A] [O] [S]	[A] late night atmosphere [O] best [S] good
+but the best part about ls is the late night atmosphere , delightfully free of the bts . [O] [S] [A]	[O] best [S] good [A] late night atmosphere
+but the best part about ls is the late night atmosphere , delightfully free of the bts . [A] [S] [O]	[A] late night atmosphere [S] good [O] best
+but the best part about ls is the late night atmosphere , delightfully free of the bts . [S] [O] [A]	[S] good [O] best [A] late night atmosphere
+suan is a great place that i often take my friends ( classmates ) too . [O] [A] [S]	[O] great [A] suan [S] good
+suan is a great place that i often take my friends ( classmates ) too . [A] [O] [S]	[A] suan [O] great [S] good
+suan is a great place that i often take my friends ( classmates ) too . [O] [S] [A]	[O] great [S] good [A] suan
+suan is a great place that i often take my friends ( classmates ) too . [A] [S] [O]	[A] suan [S] good [O] great
+suan is a great place that i often take my friends ( classmates ) too . [S] [O] [A]	[S] good [O] great [A] suan
+noodles with shrimp and chicken and coconut juice is the must ! [O] [A] [S]	[O] must [A] noodles with shrimp and chicken and coconut juice [S] good
+noodles with shrimp and chicken and coconut juice is the must ! [A] [O] [S]	[A] noodles with shrimp and chicken and coconut juice [O] must [S] good
+noodles with shrimp and chicken and coconut juice is the must ! [O] [S] [A]	[O] must [S] good [A] noodles with shrimp and chicken and coconut juice
+noodles with shrimp and chicken and coconut juice is the must ! [A] [S] [O]	[A] noodles with shrimp and chicken and coconut juice [S] good [O] must
+noodles with shrimp and chicken and coconut juice is the must ! [S] [O] [A]	[S] good [O] must [A] noodles with shrimp and chicken and coconut juice
+i can not imagine a friendlier staff working in a restaurant . [O] [A] [S]	[O] friendlier [A] staff [S] good
+i can not imagine a friendlier staff working in a restaurant . [A] [O] [S]	[A] staff [O] friendlier [S] good
+i can not imagine a friendlier staff working in a restaurant . [O] [S] [A]	[O] friendlier [S] good [A] staff
+i can not imagine a friendlier staff working in a restaurant . [A] [S] [O]	[A] staff [S] good [O] friendlier
+i can not imagine a friendlier staff working in a restaurant . [S] [O] [A]	[S] good [O] friendlier [A] staff
+i can not imagine better indian food in all of the city . [O] [A] [S]	[O] better [A] indian food [S] good
+i can not imagine better indian food in all of the city . [A] [O] [S]	[A] indian food [O] better [S] good
+i can not imagine better indian food in all of the city . [O] [S] [A]	[O] better [S] good [A] indian food
+i can not imagine better indian food in all of the city . [A] [S] [O]	[A] indian food [S] good [O] better
+i can not imagine better indian food in all of the city . [S] [O] [A]	[S] good [O] better [A] indian food
+if you 're daring , try the balsamic vinegar over icecream , it 's wonderful ! [O] [A] [S]	[O] try [A] balsamic vinegar over icecream [S] good [SSEP] [O] wonderful [A] balsamic vinegar over icecream [S] good
+if you 're daring , try the balsamic vinegar over icecream , it 's wonderful ! [A] [O] [S]	[A] balsamic vinegar over icecream [O] try [S] good [SSEP] [A] balsamic vinegar over icecream [O] wonderful [S] good
+if you 're daring , try the balsamic vinegar over icecream , it 's wonderful ! [O] [S] [A]	[O] try [S] good [A] balsamic vinegar over icecream [SSEP] [O] wonderful [S] good [A] balsamic vinegar over icecream
+if you 're daring , try the balsamic vinegar over icecream , it 's wonderful ! [A] [S] [O]	[A] balsamic vinegar over icecream [S] good [O] try [SSEP] [A] balsamic vinegar over icecream [S] good [O] wonderful
+if you 're daring , try the balsamic vinegar over icecream , it 's wonderful ! [S] [O] [A]	[S] good [O] try [A] balsamic vinegar over icecream [SSEP] [S] good [O] wonderful [A] balsamic vinegar over icecream
+the rest of the dim sum , though pricey by chinatown standards , is worth it . [O] [A] [S]	[O] pricey [A] dim sum [S] good [SSEP] [O] worth [A] dim sum [S] good
+the rest of the dim sum , though pricey by chinatown standards , is worth it . [A] [O] [S]	[A] dim sum [O] pricey [S] good [SSEP] [A] dim sum [O] worth [S] good
+the rest of the dim sum , though pricey by chinatown standards , is worth it . [O] [S] [A]	[O] pricey [S] good [A] dim sum [SSEP] [O] worth [S] good [A] dim sum
+the rest of the dim sum , though pricey by chinatown standards , is worth it . [A] [S] [O]	[A] dim sum [S] good [O] pricey [SSEP] [A] dim sum [S] good [O] worth
+the rest of the dim sum , though pricey by chinatown standards , is worth it . [S] [O] [A]	[S] good [O] pricey [A] dim sum [SSEP] [S] good [O] worth [A] dim sum
+a few tips : skip the turnip cake , roast pork buns and egg custards . [O] [A] [S]	[O] skip [A] turnip cake [S] bad [SSEP] [O] skip [A] roast pork buns [S] bad [SSEP] [O] skip [A] egg custards [S] bad
+a few tips : skip the turnip cake , roast pork buns and egg custards . [A] [O] [S]	[A] turnip cake [O] skip [S] bad [SSEP] [A] roast pork buns [O] skip [S] bad [SSEP] [A] egg custards [O] skip [S] bad
+a few tips : skip the turnip cake , roast pork buns and egg custards . [O] [S] [A]	[O] skip [S] bad [A] turnip cake [SSEP] [O] skip [S] bad [A] roast pork buns [SSEP] [O] skip [S] bad [A] egg custards
+a few tips : skip the turnip cake , roast pork buns and egg custards . [A] [S] [O]	[A] turnip cake [S] bad [O] skip [SSEP] [A] roast pork buns [S] bad [O] skip [SSEP] [A] egg custards [S] bad [O] skip
+a few tips : skip the turnip cake , roast pork buns and egg custards . [S] [O] [A]	[S] bad [O] skip [A] turnip cake [SSEP] [S] bad [O] skip [A] roast pork buns [SSEP] [S] bad [O] skip [A] egg custards
+the food was exceptional . [O] [A] [S]	[O] exceptional [A] food [S] good
+the food was exceptional . [A] [O] [S]	[A] food [O] exceptional [S] good
+the food was exceptional . [O] [S] [A]	[O] exceptional [S] good [A] food
+the food was exceptional . [A] [S] [O]	[A] food [S] good [O] exceptional
+the food was exceptional . [S] [O] [A]	[S] good [O] exceptional [A] food
+it 's a perfect place to have a amazing indian food . [O] [A] [S]	[O] amazing [A] indian food [S] good
+it 's a perfect place to have a amazing indian food . [A] [O] [S]	[A] indian food [O] amazing [S] good
+it 's a perfect place to have a amazing indian food . [O] [S] [A]	[O] amazing [S] good [A] indian food
+it 's a perfect place to have a amazing indian food . [A] [S] [O]	[A] indian food [S] good [O] amazing
+it 's a perfect place to have a amazing indian food . [S] [O] [A]	[S] good [O] amazing [A] indian food
+drawbacks : service is slow and they do n't toast ! [O] [A] [S]	[O] slow [A] service [S] bad
+drawbacks : service is slow and they do n't toast ! [A] [O] [S]	[A] service [O] slow [S] bad
+drawbacks : service is slow and they do n't toast ! [O] [S] [A]	[O] slow [S] bad [A] service
+drawbacks : service is slow and they do n't toast ! [A] [S] [O]	[A] service [S] bad [O] slow
+drawbacks : service is slow and they do n't toast ! [S] [O] [A]	[S] bad [O] slow [A] service
+downtown dinner 2002 - prixe fix : appetizers were ok , waiter gave me poor suggestion ... try the potato stuff kanish best one . [O] [A] [S]	[O] ok [A] appetizers [S] ok [SSEP] [O] poor [A] waiter [S] bad [SSEP] [O] try [A] potato stuff kanish [S] good [SSEP] [O] best [A] potato stuff kanish [S] good
+downtown dinner 2002 - prixe fix : appetizers were ok , waiter gave me poor suggestion ... try the potato stuff kanish best one . [A] [O] [S]	[A] appetizers [O] ok [S] ok [SSEP] [A] waiter [O] poor [S] bad [SSEP] [A] potato stuff kanish [O] try [S] good [SSEP] [A] potato stuff kanish [O] best [S] good
+downtown dinner 2002 - prixe fix : appetizers were ok , waiter gave me poor suggestion ... try the potato stuff kanish best one . [O] [S] [A]	[O] ok [S] ok [A] appetizers [SSEP] [O] poor [S] bad [A] waiter [SSEP] [O] try [S] good [A] potato stuff kanish [SSEP] [O] best [S] good [A] potato stuff kanish
+downtown dinner 2002 - prixe fix : appetizers were ok , waiter gave me poor suggestion ... try the potato stuff kanish best one . [A] [S] [O]	[A] appetizers [S] ok [O] ok [SSEP] [A] waiter [S] bad [O] poor [SSEP] [A] potato stuff kanish [S] good [O] try [SSEP] [A] potato stuff kanish [S] good [O] best
+downtown dinner 2002 - prixe fix : appetizers were ok , waiter gave me poor suggestion ... try the potato stuff kanish best one . [S] [O] [A]	[S] ok [O] ok [A] appetizers [SSEP] [S] bad [O] poor [A] waiter [SSEP] [S] good [O] try [A] potato stuff kanish [SSEP] [S] good [O] best [A] potato stuff kanish
+the anti-pasta was excellent , especially the calamari , as were the filling pasta mains . [O] [A] [S]	[O] excellent [A] anti-pasta [S] good [SSEP] [O] excellent [A] calamari [S] good [SSEP] [O] excellent [A] pasta mains [S] good
+the anti-pasta was excellent , especially the calamari , as were the filling pasta mains . [A] [O] [S]	[A] anti-pasta [O] excellent [S] good [SSEP] [A] calamari [O] excellent [S] good [SSEP] [A] pasta mains [O] excellent [S] good
+the anti-pasta was excellent , especially the calamari , as were the filling pasta mains . [O] [S] [A]	[O] excellent [S] good [A] anti-pasta [SSEP] [O] excellent [S] good [A] calamari [SSEP] [O] excellent [S] good [A] pasta mains
+the anti-pasta was excellent , especially the calamari , as were the filling pasta mains . [A] [S] [O]	[A] anti-pasta [S] good [O] excellent [SSEP] [A] calamari [S] good [O] excellent [SSEP] [A] pasta mains [S] good [O] excellent
+the anti-pasta was excellent , especially the calamari , as were the filling pasta mains . [S] [O] [A]	[S] good [O] excellent [A] anti-pasta [SSEP] [S] good [O] excellent [A] calamari [SSEP] [S] good [O] excellent [A] pasta mains
+great food , great decor , great service . [O] [A] [S]	[O] great [A] food [S] good [SSEP] [O] great [A] decor [S] good [SSEP] [O] great [A] service [S] good
+great food , great decor , great service . [A] [O] [S]	[A] food [O] great [S] good [SSEP] [A] decor [O] great [S] good [SSEP] [A] service [O] great [S] good
+great food , great decor , great service . [O] [S] [A]	[O] great [S] good [A] food [SSEP] [O] great [S] good [A] decor [SSEP] [O] great [S] good [A] service
+great food , great decor , great service . [A] [S] [O]	[A] food [S] good [O] great [SSEP] [A] decor [S] good [O] great [SSEP] [A] service [S] good [O] great
+great food , great decor , great service . [S] [O] [A]	[S] good [O] great [A] food [SSEP] [S] good [O] great [A] decor [SSEP] [S] good [O] great [A] service
+not the typical nyc gimmick theme restaurant . [O] [A] [S]	[O] not the typical [A] restaurant [S] good
+not the typical nyc gimmick theme restaurant . [A] [O] [S]	[A] restaurant [O] not the typical [S] good
+not the typical nyc gimmick theme restaurant . [O] [S] [A]	[O] not the typical [S] good [A] restaurant
+not the typical nyc gimmick theme restaurant . [A] [S] [O]	[A] restaurant [S] good [O] not the typical
+not the typical nyc gimmick theme restaurant . [S] [O] [A]	[S] good [O] not the typical [A] restaurant
+service was very prompt but slightly rushed . [O] [A] [S]	[O] prompt [A] service [S] bad [SSEP] [O] rushed [A] service [S] bad
+service was very prompt but slightly rushed . [A] [O] [S]	[A] service [O] prompt [S] bad [SSEP] [A] service [O] rushed [S] bad
+service was very prompt but slightly rushed . [O] [S] [A]	[O] prompt [S] bad [A] service [SSEP] [O] rushed [S] bad [A] service
+service was very prompt but slightly rushed . [A] [S] [O]	[A] service [S] bad [O] prompt [SSEP] [A] service [S] bad [O] rushed
+service was very prompt but slightly rushed . [S] [O] [A]	[S] bad [O] prompt [A] service [SSEP] [S] bad [O] rushed [A] service
+i ca n't wait for summer , when they serve outside on their gigantic patio . [O] [A] [S]	[O] gigantic [A] patio [S] good
+i ca n't wait for summer , when they serve outside on their gigantic patio . [A] [O] [S]	[A] patio [O] gigantic [S] good
+i ca n't wait for summer , when they serve outside on their gigantic patio . [O] [S] [A]	[O] gigantic [S] good [A] patio
+i ca n't wait for summer , when they serve outside on their gigantic patio . [A] [S] [O]	[A] patio [S] good [O] gigantic
+i ca n't wait for summer , when they serve outside on their gigantic patio . [S] [O] [A]	[S] good [O] gigantic [A] patio
+good drink . [O] [A] [S]	[O] good [A] drink [S] good
+good drink . [A] [O] [S]	[A] drink [O] good [S] good
+good drink . [O] [S] [A]	[O] good [S] good [A] drink
+good drink . [A] [S] [O]	[A] drink [S] good [O] good
+good drink . [S] [O] [A]	[S] good [O] good [A] drink
+i 've been to sapphire twice and both times the food was fine , if not good . [O] [A] [S]	[O] fine [A] food [S] good
+i 've been to sapphire twice and both times the food was fine , if not good . [A] [O] [S]	[A] food [O] fine [S] good
+i 've been to sapphire twice and both times the food was fine , if not good . [O] [S] [A]	[O] fine [S] good [A] food
+i 've been to sapphire twice and both times the food was fine , if not good . [A] [S] [O]	[A] food [S] good [O] fine
+i 've been to sapphire twice and both times the food was fine , if not good . [S] [O] [A]	[S] good [O] fine [A] food
+stick with the chicken , beef , and lamb dishes . [O] [A] [S]	[O] stick [A] chicken [S] good [SSEP] [O] stick [A] beef [S] good [SSEP] [O] stick [A] lamb dishes [S] good
+stick with the chicken , beef , and lamb dishes . [A] [O] [S]	[A] chicken [O] stick [S] good [SSEP] [A] beef [O] stick [S] good [SSEP] [A] lamb dishes [O] stick [S] good
+stick with the chicken , beef , and lamb dishes . [O] [S] [A]	[O] stick [S] good [A] chicken [SSEP] [O] stick [S] good [A] beef [SSEP] [O] stick [S] good [A] lamb dishes
+stick with the chicken , beef , and lamb dishes . [A] [S] [O]	[A] chicken [S] good [O] stick [SSEP] [A] beef [S] good [O] stick [SSEP] [A] lamb dishes [S] good [O] stick
+stick with the chicken , beef , and lamb dishes . [S] [O] [A]	[S] good [O] stick [A] chicken [SSEP] [S] good [O] stick [A] beef [SSEP] [S] good [O] stick [A] lamb dishes
+service is friendly , and never had a problem walking in and getting a table . [O] [A] [S]	[O] friendly [A] service [S] good
+service is friendly , and never had a problem walking in and getting a table . [A] [O] [S]	[A] service [O] friendly [S] good
+service is friendly , and never had a problem walking in and getting a table . [O] [S] [A]	[O] friendly [S] good [A] service
+service is friendly , and never had a problem walking in and getting a table . [A] [S] [O]	[A] service [S] good [O] friendly
+service is friendly , and never had a problem walking in and getting a table . [S] [O] [A]	[S] good [O] friendly [A] service
+skip dessert . [O] [A] [S]	[O] skip [A] dessert [S] bad
+skip dessert . [A] [O] [S]	[A] dessert [O] skip [S] bad
+skip dessert . [O] [S] [A]	[O] skip [S] bad [A] dessert
+skip dessert . [A] [S] [O]	[A] dessert [S] bad [O] skip
+skip dessert . [S] [O] [A]	[S] bad [O] skip [A] dessert
+pizza was a little soggy . [O] [A] [S]	[O] soggy [A] pizza [S] bad
+pizza was a little soggy . [A] [O] [S]	[A] pizza [O] soggy [S] bad
+pizza was a little soggy . [O] [S] [A]	[O] soggy [S] bad [A] pizza
+pizza was a little soggy . [A] [S] [O]	[A] pizza [S] bad [O] soggy
+pizza was a little soggy . [S] [O] [A]	[S] bad [O] soggy [A] pizza
+this place is a great bargain . [O] [A] [S]	[O] great bargain [A] place [S] good
+this place is a great bargain . [A] [O] [S]	[A] place [O] great bargain [S] good
+this place is a great bargain . [O] [S] [A]	[O] great bargain [S] good [A] place
+this place is a great bargain . [A] [S] [O]	[A] place [S] good [O] great bargain
+this place is a great bargain . [S] [O] [A]	[S] good [O] great bargain [A] place
+the design and atmosphere is just as good . [O] [A] [S]	[O] good [A] design [S] good [SSEP] [O] good [A] atmosphere [S] good
+the design and atmosphere is just as good . [A] [O] [S]	[A] design [O] good [S] good [SSEP] [A] atmosphere [O] good [S] good
+the design and atmosphere is just as good . [O] [S] [A]	[O] good [S] good [A] design [SSEP] [O] good [S] good [A] atmosphere
+the design and atmosphere is just as good . [A] [S] [O]	[A] design [S] good [O] good [SSEP] [A] atmosphere [S] good [O] good
+the design and atmosphere is just as good . [S] [O] [A]	[S] good [O] good [A] design [SSEP] [S] good [O] good [A] atmosphere
+the drinks are amazing and half off till 8pm . [O] [A] [S]	[O] amazing [A] drinks [S] good
+the drinks are amazing and half off till 8pm . [A] [O] [S]	[A] drinks [O] amazing [S] good
+the drinks are amazing and half off till 8pm . [O] [S] [A]	[O] amazing [S] good [A] drinks
+the drinks are amazing and half off till 8pm . [A] [S] [O]	[A] drinks [S] good [O] amazing
+the drinks are amazing and half off till 8pm . [S] [O] [A]	[S] good [O] amazing [A] drinks
+this is an amazing place to try some roti rolls . [O] [A] [S]	[O] try [A] roti rolls [S] good
+this is an amazing place to try some roti rolls . [A] [O] [S]	[A] roti rolls [O] try [S] good
+this is an amazing place to try some roti rolls . [O] [S] [A]	[O] try [S] good [A] roti rolls
+this is an amazing place to try some roti rolls . [A] [S] [O]	[A] roti rolls [S] good [O] try
+this is an amazing place to try some roti rolls . [S] [O] [A]	[S] good [O] try [A] roti rolls
+the food 's as good as ever . [O] [A] [S]	[O] good [A] food [S] good
+the food 's as good as ever . [A] [O] [S]	[A] food [O] good [S] good
+the food 's as good as ever . [O] [S] [A]	[O] good [S] good [A] food
+the food 's as good as ever . [A] [S] [O]	[A] food [S] good [O] good
+the food 's as good as ever . [S] [O] [A]	[S] good [O] good [A] food
+best drumsticks over rice and sour spicy soup in town ! [O] [A] [S]	[O] best [A] drumsticks over rice [S] good [SSEP] [O] best [A] sour spicy soup [S] good
+best drumsticks over rice and sour spicy soup in town ! [A] [O] [S]	[A] drumsticks over rice [O] best [S] good [SSEP] [A] sour spicy soup [O] best [S] good
+best drumsticks over rice and sour spicy soup in town ! [O] [S] [A]	[O] best [S] good [A] drumsticks over rice [SSEP] [O] best [S] good [A] sour spicy soup
+best drumsticks over rice and sour spicy soup in town ! [A] [S] [O]	[A] drumsticks over rice [S] good [O] best [SSEP] [A] sour spicy soup [S] good [O] best
+best drumsticks over rice and sour spicy soup in town ! [S] [O] [A]	[S] good [O] best [A] drumsticks over rice [SSEP] [S] good [O] best [A] sour spicy soup
+the service is good and the resturant is clean . [O] [A] [S]	[O] good [A] service [S] good [SSEP] [O] clean [A] resturant [S] good
+the service is good and the resturant is clean . [A] [O] [S]	[A] service [O] good [S] good [SSEP] [A] resturant [O] clean [S] good
+the service is good and the resturant is clean . [O] [S] [A]	[O] good [S] good [A] service [SSEP] [O] clean [S] good [A] resturant
+the service is good and the resturant is clean . [A] [S] [O]	[A] service [S] good [O] good [SSEP] [A] resturant [S] good [O] clean
+the service is good and the resturant is clean . [S] [O] [A]	[S] good [O] good [A] service [SSEP] [S] good [O] clean [A] resturant
+we recently decided to try this location , and to our delight , they have outdoor seating , perfect since i had my yorkie with me . [O] [A] [S]	[O] perfect [A] outdoor seating [S] good
+we recently decided to try this location , and to our delight , they have outdoor seating , perfect since i had my yorkie with me . [A] [O] [S]	[A] outdoor seating [O] perfect [S] good
+we recently decided to try this location , and to our delight , they have outdoor seating , perfect since i had my yorkie with me . [O] [S] [A]	[O] perfect [S] good [A] outdoor seating
+we recently decided to try this location , and to our delight , they have outdoor seating , perfect since i had my yorkie with me . [A] [S] [O]	[A] outdoor seating [S] good [O] perfect
+we recently decided to try this location , and to our delight , they have outdoor seating , perfect since i had my yorkie with me . [S] [O] [A]	[S] good [O] perfect [A] outdoor seating
+great indian food and the service is incredible . [O] [A] [S]	[O] great [A] indian food [S] good [SSEP] [O] incredible [A] service [S] good
+great indian food and the service is incredible . [A] [O] [S]	[A] indian food [O] great [S] good [SSEP] [A] service [O] incredible [S] good
+great indian food and the service is incredible . [O] [S] [A]	[O] great [S] good [A] indian food [SSEP] [O] incredible [S] good [A] service
+great indian food and the service is incredible . [A] [S] [O]	[A] indian food [S] good [O] great [SSEP] [A] service [S] good [O] incredible
+great indian food and the service is incredible . [S] [O] [A]	[S] good [O] great [A] indian food [SSEP] [S] good [O] incredible [A] service
+the food here does a great service to the name ( cantonese that is ... ) . [O] [A] [S]	[O] great [A] food [S] good
+the food here does a great service to the name ( cantonese that is ... ) . [A] [O] [S]	[A] food [O] great [S] good
+the food here does a great service to the name ( cantonese that is ... ) . [O] [S] [A]	[O] great [S] good [A] food
+the food here does a great service to the name ( cantonese that is ... ) . [A] [S] [O]	[A] food [S] good [O] great
+the food here does a great service to the name ( cantonese that is ... ) . [S] [O] [A]	[S] good [O] great [A] food
+good music , great food , speedy service affordable prices . [O] [A] [S]	[O] good [A] music [S] good [SSEP] [O] great [A] food [S] good [SSEP] [O] speedy [A] service [S] good
+good music , great food , speedy service affordable prices . [A] [O] [S]	[A] music [O] good [S] good [SSEP] [A] food [O] great [S] good [SSEP] [A] service [O] speedy [S] good
+good music , great food , speedy service affordable prices . [O] [S] [A]	[O] good [S] good [A] music [SSEP] [O] great [S] good [A] food [SSEP] [O] speedy [S] good [A] service
+good music , great food , speedy service affordable prices . [A] [S] [O]	[A] music [S] good [O] good [SSEP] [A] food [S] good [O] great [SSEP] [A] service [S] good [O] speedy
+good music , great food , speedy service affordable prices . [S] [O] [A]	[S] good [O] good [A] music [SSEP] [S] good [O] great [A] food [SSEP] [S] good [O] speedy [A] service
+atmosphere is nice and relaxed too ... [O] [A] [S]	[O] nice [A] atmosphere [S] good [SSEP] [O] relaxed [A] atmosphere [S] good
+atmosphere is nice and relaxed too ... [A] [O] [S]	[A] atmosphere [O] nice [S] good [SSEP] [A] atmosphere [O] relaxed [S] good
+atmosphere is nice and relaxed too ... [O] [S] [A]	[O] nice [S] good [A] atmosphere [SSEP] [O] relaxed [S] good [A] atmosphere
+atmosphere is nice and relaxed too ... [A] [S] [O]	[A] atmosphere [S] good [O] nice [SSEP] [A] atmosphere [S] good [O] relaxed
+atmosphere is nice and relaxed too ... [S] [O] [A]	[S] good [O] nice [A] atmosphere [SSEP] [S] good [O] relaxed [A] atmosphere
+if you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place . [O] [A] [S]	[O] low quality [A] fish [S] bad [SSEP] [O] unfriendly [A] staff [S] bad [SSEP] [O] miserable [A] sushi chef [S] bad
+if you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place . [A] [O] [S]	[A] fish [O] low quality [S] bad [SSEP] [A] staff [O] unfriendly [S] bad [SSEP] [A] sushi chef [O] miserable [S] bad
+if you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place . [O] [S] [A]	[O] low quality [S] bad [A] fish [SSEP] [O] unfriendly [S] bad [A] staff [SSEP] [O] miserable [S] bad [A] sushi chef
+if you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place . [A] [S] [O]	[A] fish [S] bad [O] low quality [SSEP] [A] staff [S] bad [O] unfriendly [SSEP] [A] sushi chef [S] bad [O] miserable
+if you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place . [S] [O] [A]	[S] bad [O] low quality [A] fish [SSEP] [S] bad [O] unfriendly [A] staff [SSEP] [S] bad [O] miserable [A] sushi chef
+one would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so . [O] [A] [S]	[O] snobby [A] waiter [S] bad
+one would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so . [A] [O] [S]	[A] waiter [O] snobby [S] bad
+one would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so . [O] [S] [A]	[O] snobby [S] bad [A] waiter
+one would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so . [A] [S] [O]	[A] waiter [S] bad [O] snobby
+one would think we 'd get an apology or complimentary drinks - instead , we got a snobby waiter would n't even take our order for 15 minutes and gave us lip when we asked him to do so . [S] [O] [A]	[S] bad [O] snobby [A] waiter
+with so many good restaurants on the uws , i do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care . [O] [A] [S]	[O] overpriced [A] food [S] bad [SSEP] [O] arrogant [A] wait-staff [S] bad [SSEP] [O] clumsy [A] service [S] bad
+with so many good restaurants on the uws , i do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care . [A] [O] [S]	[A] food [O] overpriced [S] bad [SSEP] [A] wait-staff [O] arrogant [S] bad [SSEP] [A] service [O] clumsy [S] bad
+with so many good restaurants on the uws , i do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care . [O] [S] [A]	[O] overpriced [S] bad [A] food [SSEP] [O] arrogant [S] bad [A] wait-staff [SSEP] [O] clumsy [S] bad [A] service
+with so many good restaurants on the uws , i do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care . [A] [S] [O]	[A] food [S] bad [O] overpriced [SSEP] [A] wait-staff [S] bad [O] arrogant [SSEP] [A] service [S] bad [O] clumsy
+with so many good restaurants on the uws , i do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care . [S] [O] [A]	[S] bad [O] overpriced [A] food [SSEP] [S] bad [O] arrogant [A] wait-staff [SSEP] [S] bad [O] clumsy [A] service
+$ 20 for all you can eat sushi can not be beaten . [O] [A] [S]	[O] beaten [A] all you can eat sushi [S] good
+$ 20 for all you can eat sushi can not be beaten . [A] [O] [S]	[A] all you can eat sushi [O] beaten [S] good
+$ 20 for all you can eat sushi can not be beaten . [O] [S] [A]	[O] beaten [S] good [A] all you can eat sushi
+$ 20 for all you can eat sushi can not be beaten . [A] [S] [O]	[A] all you can eat sushi [S] good [O] beaten
+$ 20 for all you can eat sushi can not be beaten . [S] [O] [A]	[S] good [O] beaten [A] all you can eat sushi
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went . [O] [A] [S]	[O] good [A] food [S] good [SSEP] [O] terrific [A] view of the new york city skiline [S] good
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went . [A] [O] [S]	[A] food [O] good [S] good [SSEP] [A] view of the new york city skiline [O] terrific [S] good
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went . [O] [S] [A]	[O] good [S] good [A] food [SSEP] [O] terrific [S] good [A] view of the new york city skiline
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went . [A] [S] [O]	[A] food [S] good [O] good [SSEP] [A] view of the new york city skiline [S] good [O] terrific
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went . [S] [O] [A]	[S] good [O] good [A] food [SSEP] [S] good [O] terrific [A] view of the new york city skiline
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat . [O] [A] [S]	[O] good [A] service [S] good [SSEP] [O] relaxing [A] place [S] good
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat . [A] [O] [S]	[A] service [O] good [S] good [SSEP] [A] place [O] relaxing [S] good
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat . [O] [S] [A]	[O] good [S] good [A] service [SSEP] [O] relaxing [S] good [A] place
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat . [A] [S] [O]	[A] service [S] good [O] good [SSEP] [A] place [S] good [O] relaxing
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat . [S] [O] [A]	[S] good [O] good [A] service [SSEP] [S] good [O] relaxing [A] place
+the pizza was pretty good and huge . [O] [A] [S]	[O] good [A] pizza [S] good [SSEP] [O] huge [A] pizza [S] good
+the pizza was pretty good and huge . [A] [O] [S]	[A] pizza [O] good [S] good [SSEP] [A] pizza [O] huge [S] good
+the pizza was pretty good and huge . [O] [S] [A]	[O] good [S] good [A] pizza [SSEP] [O] huge [S] good [A] pizza
+the pizza was pretty good and huge . [A] [S] [O]	[A] pizza [S] good [O] good [SSEP] [A] pizza [S] good [O] huge
+the pizza was pretty good and huge . [S] [O] [A]	[S] good [O] good [A] pizza [SSEP] [S] good [O] huge [A] pizza
+la rosa waltzes in , and i think they are doing it the best . [O] [A] [S]	[O] best [A] la rosa [S] good
+la rosa waltzes in , and i think they are doing it the best . [A] [O] [S]	[A] la rosa [O] best [S] good
+la rosa waltzes in , and i think they are doing it the best . [O] [S] [A]	[O] best [S] good [A] la rosa
+la rosa waltzes in , and i think they are doing it the best . [A] [S] [O]	[A] la rosa [S] good [O] best
+la rosa waltzes in , and i think they are doing it the best . [S] [O] [A]	[S] good [O] best [A] la rosa
+the mussels were fantastic and so was the dessert ... definitely going to be back very soon . [O] [A] [S]	[O] fantastic [A] mussels [S] good [SSEP] [O] fantastic [A] dessert [S] good
+the mussels were fantastic and so was the dessert ... definitely going to be back very soon . [A] [O] [S]	[A] mussels [O] fantastic [S] good [SSEP] [A] dessert [O] fantastic [S] good
+the mussels were fantastic and so was the dessert ... definitely going to be back very soon . [O] [S] [A]	[O] fantastic [S] good [A] mussels [SSEP] [O] fantastic [S] good [A] dessert
+the mussels were fantastic and so was the dessert ... definitely going to be back very soon . [A] [S] [O]	[A] mussels [S] good [O] fantastic [SSEP] [A] dessert [S] good [O] fantastic
+the mussels were fantastic and so was the dessert ... definitely going to be back very soon . [S] [O] [A]	[S] good [O] fantastic [A] mussels [SSEP] [S] good [O] fantastic [A] dessert
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna . [O] [A] [S]	[O] good [A] service [S] good [SSEP] [O] great [A] staff [S] good
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna . [A] [O] [S]	[A] service [O] good [S] good [SSEP] [A] staff [O] great [S] good
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna . [O] [S] [A]	[O] good [S] good [A] service [SSEP] [O] great [S] good [A] staff
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna . [A] [S] [O]	[A] service [S] good [O] good [SSEP] [A] staff [S] good [O] great
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna . [S] [O] [A]	[S] good [O] good [A] service [SSEP] [S] good [O] great [A] staff
+love al di la [O] [A] [S]	[O] love [A] al di la [S] good
+love al di la [A] [O] [S]	[A] al di la [O] love [S] good
+love al di la [O] [S] [A]	[O] love [S] good [A] al di la
+love al di la [A] [S] [O]	[A] al di la [S] good [O] love
+love al di la [S] [O] [A]	[S] good [O] love [A] al di la
+an awesome organic dog , and a conscious eco friendly establishment . [O] [A] [S]	[O] organic [A] dog [S] good [SSEP] [O] eco friendly [A] establishment [S] good
+an awesome organic dog , and a conscious eco friendly establishment . [A] [O] [S]	[A] dog [O] organic [S] good [SSEP] [A] establishment [O] eco friendly [S] good
+an awesome organic dog , and a conscious eco friendly establishment . [O] [S] [A]	[O] organic [S] good [A] dog [SSEP] [O] eco friendly [S] good [A] establishment
+an awesome organic dog , and a conscious eco friendly establishment . [A] [S] [O]	[A] dog [S] good [O] organic [SSEP] [A] establishment [S] good [O] eco friendly
+an awesome organic dog , and a conscious eco friendly establishment . [S] [O] [A]	[S] good [O] organic [A] dog [SSEP] [S] good [O] eco friendly [A] establishment
+but the best pork souvlaki i ever had is the main thing . [O] [A] [S]	[O] best [A] pork souvlaki [S] good
+but the best pork souvlaki i ever had is the main thing . [A] [O] [S]	[A] pork souvlaki [O] best [S] good
+but the best pork souvlaki i ever had is the main thing . [O] [S] [A]	[O] best [S] good [A] pork souvlaki
+but the best pork souvlaki i ever had is the main thing . [A] [S] [O]	[A] pork souvlaki [S] good [O] best
+but the best pork souvlaki i ever had is the main thing . [S] [O] [A]	[S] good [O] best [A] pork souvlaki
+i looove their eggplant pizza , as well as their pastas ! [O] [A] [S]	[O] looove [A] eggplant pizza [S] good [SSEP] [O] looove [A] pastas [S] good
+i looove their eggplant pizza , as well as their pastas ! [A] [O] [S]	[A] eggplant pizza [O] looove [S] good [SSEP] [A] pastas [O] looove [S] good
+i looove their eggplant pizza , as well as their pastas ! [O] [S] [A]	[O] looove [S] good [A] eggplant pizza [SSEP] [O] looove [S] good [A] pastas
+i looove their eggplant pizza , as well as their pastas ! [A] [S] [O]	[A] eggplant pizza [S] good [O] looove [SSEP] [A] pastas [S] good [O] looove
+i looove their eggplant pizza , as well as their pastas ! [S] [O] [A]	[S] good [O] looove [A] eggplant pizza [SSEP] [S] good [O] looove [A] pastas
+we had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza ! [O] [A] [S]	[O] huge [A] half/half pizza [S] good
+we had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza ! [A] [O] [S]	[A] half/half pizza [O] huge [S] good
+we had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza ! [O] [S] [A]	[O] huge [S] good [A] half/half pizza
+we had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza ! [A] [S] [O]	[A] half/half pizza [S] good [O] huge
+we had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza ! [S] [O] [A]	[S] good [O] huge [A] half/half pizza
+reliable , fresh sushi [O] [A] [S]	[O] reliable [A] sushi [S] good [SSEP] [O] fresh [A] sushi [S] good
+reliable , fresh sushi [A] [O] [S]	[A] sushi [O] reliable [S] good [SSEP] [A] sushi [O] fresh [S] good
+reliable , fresh sushi [O] [S] [A]	[O] reliable [S] good [A] sushi [SSEP] [O] fresh [S] good [A] sushi
+reliable , fresh sushi [A] [S] [O]	[A] sushi [S] good [O] reliable [SSEP] [A] sushi [S] good [O] fresh
+reliable , fresh sushi [S] [O] [A]	[S] good [O] reliable [A] sushi [SSEP] [S] good [O] fresh [A] sushi
+the sashimi is always fresh and the rolls are innovative and delicious . [O] [A] [S]	[O] fresh [A] sashimi [S] good [SSEP] [O] innovative [A] rolls [S] good [SSEP] [O] delicious [A] rolls [S] good
+the sashimi is always fresh and the rolls are innovative and delicious . [A] [O] [S]	[A] sashimi [O] fresh [S] good [SSEP] [A] rolls [O] innovative [S] good [SSEP] [A] rolls [O] delicious [S] good
+the sashimi is always fresh and the rolls are innovative and delicious . [O] [S] [A]	[O] fresh [S] good [A] sashimi [SSEP] [O] innovative [S] good [A] rolls [SSEP] [O] delicious [S] good [A] rolls
+the sashimi is always fresh and the rolls are innovative and delicious . [A] [S] [O]	[A] sashimi [S] good [O] fresh [SSEP] [A] rolls [S] good [O] innovative [SSEP] [A] rolls [S] good [O] delicious
+the sashimi is always fresh and the rolls are innovative and delicious . [S] [O] [A]	[S] good [O] fresh [A] sashimi [SSEP] [S] good [O] innovative [A] rolls [SSEP] [S] good [O] delicious [A] rolls
+delivery guy sometimes get upset if you do n't tip more than 10 % . [O] [A] [S]	[O] upset [A] delivery guy [S] bad
+delivery guy sometimes get upset if you do n't tip more than 10 % . [A] [O] [S]	[A] delivery guy [O] upset [S] bad
+delivery guy sometimes get upset if you do n't tip more than 10 % . [O] [S] [A]	[O] upset [S] bad [A] delivery guy
+delivery guy sometimes get upset if you do n't tip more than 10 % . [A] [S] [O]	[A] delivery guy [S] bad [O] upset
+delivery guy sometimes get upset if you do n't tip more than 10 % . [S] [O] [A]	[S] bad [O] upset [A] delivery guy
+the place is a bit hidden away , but once you get there , it 's all worth it . [O] [A] [S]	[O] hidden away [A] place [S] good [SSEP] [O] worth [A] place [S] good
+the place is a bit hidden away , but once you get there , it 's all worth it . [A] [O] [S]	[A] place [O] hidden away [S] good [SSEP] [A] place [O] worth [S] good
+the place is a bit hidden away , but once you get there , it 's all worth it . [O] [S] [A]	[O] hidden away [S] good [A] place [SSEP] [O] worth [S] good [A] place
+the place is a bit hidden away , but once you get there , it 's all worth it . [A] [S] [O]	[A] place [S] good [O] hidden away [SSEP] [A] place [S] good [O] worth
+the place is a bit hidden away , but once you get there , it 's all worth it . [S] [O] [A]	[S] good [O] hidden away [A] place [SSEP] [S] good [O] worth [A] place
+good food : my favorite is the seafood spaghetti . [O] [A] [S]	[O] good [A] food [S] good [SSEP] [O] favorite [A] seafood spaghetti [S] good
+good food : my favorite is the seafood spaghetti . [A] [O] [S]	[A] food [O] good [S] good [SSEP] [A] seafood spaghetti [O] favorite [S] good
+good food : my favorite is the seafood spaghetti . [O] [S] [A]	[O] good [S] good [A] food [SSEP] [O] favorite [S] good [A] seafood spaghetti
+good food : my favorite is the seafood spaghetti . [A] [S] [O]	[A] food [S] good [O] good [SSEP] [A] seafood spaghetti [S] good [O] favorite
+good food : my favorite is the seafood spaghetti . [S] [O] [A]	[S] good [O] good [A] food [SSEP] [S] good [O] favorite [A] seafood spaghetti
+the wait staff is very courteous and accomodating . [O] [A] [S]	[O] courteous [A] wait staff [S] good [SSEP] [O] accomodating [A] wait staff [S] good
+the wait staff is very courteous and accomodating . [A] [O] [S]	[A] wait staff [O] courteous [S] good [SSEP] [A] wait staff [O] accomodating [S] good
+the wait staff is very courteous and accomodating . [O] [S] [A]	[O] courteous [S] good [A] wait staff [SSEP] [O] accomodating [S] good [A] wait staff
+the wait staff is very courteous and accomodating . [A] [S] [O]	[A] wait staff [S] good [O] courteous [SSEP] [A] wait staff [S] good [O] accomodating
+the wait staff is very courteous and accomodating . [S] [O] [A]	[S] good [O] courteous [A] wait staff [SSEP] [S] good [O] accomodating [A] wait staff
+i thought the restaurant was nice and clean . [O] [A] [S]	[O] nice [A] restaurant [S] good [SSEP] [O] clean [A] restaurant [S] good
+i thought the restaurant was nice and clean . [A] [O] [S]	[A] restaurant [O] nice [S] good [SSEP] [A] restaurant [O] clean [S] good
+i thought the restaurant was nice and clean . [O] [S] [A]	[O] nice [S] good [A] restaurant [SSEP] [O] clean [S] good [A] restaurant
+i thought the restaurant was nice and clean . [A] [S] [O]	[A] restaurant [S] good [O] nice [SSEP] [A] restaurant [S] good [O] clean
+i thought the restaurant was nice and clean . [S] [O] [A]	[S] good [O] nice [A] restaurant [SSEP] [S] good [O] clean [A] restaurant
+worst place on smith street in brooklyn [O] [A] [S]	[O] worst [A] place [S] bad
+worst place on smith street in brooklyn [A] [O] [S]	[A] place [O] worst [S] bad
+worst place on smith street in brooklyn [O] [S] [A]	[O] worst [S] bad [A] place
+worst place on smith street in brooklyn [A] [S] [O]	[A] place [S] bad [O] worst
+worst place on smith street in brooklyn [S] [O] [A]	[S] bad [O] worst [A] place
+the waitress was not attentive at all . [O] [A] [S]	[O] not attentive [A] waitress [S] bad
+the waitress was not attentive at all . [A] [O] [S]	[A] waitress [O] not attentive [S] bad
+the waitress was not attentive at all . [O] [S] [A]	[O] not attentive [S] bad [A] waitress
+the waitress was not attentive at all . [A] [S] [O]	[A] waitress [S] bad [O] not attentive
+the waitress was not attentive at all . [S] [O] [A]	[S] bad [O] not attentive [A] waitress
+the seafood dynamite is also otherworldly . [O] [A] [S]	[O] otherworldly [A] seafood dynamite [S] good
+the seafood dynamite is also otherworldly . [A] [O] [S]	[A] seafood dynamite [O] otherworldly [S] good
+the seafood dynamite is also otherworldly . [O] [S] [A]	[O] otherworldly [S] good [A] seafood dynamite
+the seafood dynamite is also otherworldly . [A] [S] [O]	[A] seafood dynamite [S] good [O] otherworldly
+the seafood dynamite is also otherworldly . [S] [O] [A]	[S] good [O] otherworldly [A] seafood dynamite
+in the summer months , the back garden area is really nice . [O] [A] [S]	[O] nice [A] back garden area [S] good
+in the summer months , the back garden area is really nice . [A] [O] [S]	[A] back garden area [O] nice [S] good
+in the summer months , the back garden area is really nice . [O] [S] [A]	[O] nice [S] good [A] back garden area
+in the summer months , the back garden area is really nice . [A] [S] [O]	[A] back garden area [S] good [O] nice
+in the summer months , the back garden area is really nice . [S] [O] [A]	[S] good [O] nice [A] back garden area
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [O] [A] [S]	[O] creative [A] rolls [S] good [SSEP] [O] inventive [A] japanese food [S] good [SSEP] [O] delicious [A] japanese food [S] good
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [A] [O] [S]	[A] rolls [O] creative [S] good [SSEP] [A] japanese food [O] inventive [S] good [SSEP] [A] japanese food [O] delicious [S] good
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [O] [S] [A]	[O] creative [S] good [A] rolls [SSEP] [O] inventive [S] good [A] japanese food [SSEP] [O] delicious [S] good [A] japanese food
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [A] [S] [O]	[A] rolls [S] good [O] creative [SSEP] [A] japanese food [S] good [O] inventive [SSEP] [A] japanese food [S] good [O] delicious
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food . [S] [O] [A]	[S] good [O] creative [A] rolls [SSEP] [S] good [O] inventive [A] japanese food [SSEP] [S] good [O] delicious [A] japanese food
+i can eat here every day of the week really lol love this place ... ) [O] [A] [S]	[O] love [A] place [S] good
+i can eat here every day of the week really lol love this place ... ) [A] [O] [S]	[A] place [O] love [S] good
+i can eat here every day of the week really lol love this place ... ) [O] [S] [A]	[O] love [S] good [A] place
+i can eat here every day of the week really lol love this place ... ) [A] [S] [O]	[A] place [S] good [O] love
+i can eat here every day of the week really lol love this place ... ) [S] [O] [A]	[S] good [O] love [A] place
+great indian food ! [O] [A] [S]	[O] great [A] indian food [S] good
+great indian food ! [A] [O] [S]	[A] indian food [O] great [S] good
+great indian food ! [O] [S] [A]	[O] great [S] good [A] indian food
+great indian food ! [A] [S] [O]	[A] indian food [S] good [O] great
+great indian food ! [S] [O] [A]	[S] good [O] great [A] indian food
+this is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized . [O] [A] [S]	[O] great [A] food [S] good
+this is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized . [A] [O] [S]	[A] food [O] great [S] good
+this is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized . [O] [S] [A]	[O] great [S] good [A] food
+this is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized . [A] [S] [O]	[A] food [S] good [O] great
+this is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized . [S] [O] [A]	[S] good [O] great [A] food
+love their drink menu . [O] [A] [S]	[O] love [A] drink menu [S] good
+love their drink menu . [A] [O] [S]	[A] drink menu [O] love [S] good
+love their drink menu . [O] [S] [A]	[O] love [S] good [A] drink menu
+love their drink menu . [A] [S] [O]	[A] drink menu [S] good [O] love
+love their drink menu . [S] [O] [A]	[S] good [O] love [A] drink menu
+a beautifully designed dreamy egyptian restaurant that gets sceney at night . [O] [A] [S]	[O] dreamy [A] egyptian restaurant [S] good
+a beautifully designed dreamy egyptian restaurant that gets sceney at night . [A] [O] [S]	[A] egyptian restaurant [O] dreamy [S] good
+a beautifully designed dreamy egyptian restaurant that gets sceney at night . [O] [S] [A]	[O] dreamy [S] good [A] egyptian restaurant
+a beautifully designed dreamy egyptian restaurant that gets sceney at night . [A] [S] [O]	[A] egyptian restaurant [S] good [O] dreamy
+a beautifully designed dreamy egyptian restaurant that gets sceney at night . [S] [O] [A]	[S] good [O] dreamy [A] egyptian restaurant
+watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky . [O] [A] [S]	[O] enjoy delicious [A] baba ganoush [S] good [SSEP] [O] talented [A] belly dancers [S] good
+watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky . [A] [O] [S]	[A] baba ganoush [O] enjoy delicious [S] good [SSEP] [A] belly dancers [O] talented [S] good
+watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky . [O] [S] [A]	[O] enjoy delicious [S] good [A] baba ganoush [SSEP] [O] talented [S] good [A] belly dancers
+watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky . [A] [S] [O]	[A] baba ganoush [S] good [O] enjoy delicious [SSEP] [A] belly dancers [S] good [O] talented
+watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky . [S] [O] [A]	[S] good [O] enjoy delicious [A] baba ganoush [SSEP] [S] good [O] talented [A] belly dancers
+the drinks are great , especially when made by raymond . [O] [A] [S]	[O] great [A] drinks [S] good [SSEP] [O] great [A] raymond [S] good
+the drinks are great , especially when made by raymond . [A] [O] [S]	[A] drinks [O] great [S] good [SSEP] [A] raymond [O] great [S] good
+the drinks are great , especially when made by raymond . [O] [S] [A]	[O] great [S] good [A] drinks [SSEP] [O] great [S] good [A] raymond
+the drinks are great , especially when made by raymond . [A] [S] [O]	[A] drinks [S] good [O] great [SSEP] [A] raymond [S] good [O] great
+the drinks are great , especially when made by raymond . [S] [O] [A]	[S] good [O] great [A] drinks [SSEP] [S] good [O] great [A] raymond
+decor needs to be upgraded but the food is amazing ! [O] [A] [S]	[O] upgraded [A] decor [S] bad [SSEP] [O] amazing [A] food [S] good
+decor needs to be upgraded but the food is amazing ! [A] [O] [S]	[A] decor [O] upgraded [S] bad [SSEP] [A] food [O] amazing [S] good
+decor needs to be upgraded but the food is amazing ! [O] [S] [A]	[O] upgraded [S] bad [A] decor [SSEP] [O] amazing [S] good [A] food
+decor needs to be upgraded but the food is amazing ! [A] [S] [O]	[A] decor [S] bad [O] upgraded [SSEP] [A] food [S] good [O] amazing
+decor needs to be upgraded but the food is amazing ! [S] [O] [A]	[S] bad [O] upgraded [A] decor [SSEP] [S] good [O] amazing [A] food
+great food , amazing service , this place is a class act . [O] [A] [S]	[O] great [A] food [S] good [SSEP] [O] amazing [A] service [S] good [SSEP] [O] class act [A] place [S] good
+great food , amazing service , this place is a class act . [A] [O] [S]	[A] food [O] great [S] good [SSEP] [A] service [O] amazing [S] good [SSEP] [A] place [O] class act [S] good
+great food , amazing service , this place is a class act . [O] [S] [A]	[O] great [S] good [A] food [SSEP] [O] amazing [S] good [A] service [SSEP] [O] class act [S] good [A] place
+great food , amazing service , this place is a class act . [A] [S] [O]	[A] food [S] good [O] great [SSEP] [A] service [S] good [O] amazing [SSEP] [A] place [S] good [O] class act
+great food , amazing service , this place is a class act . [S] [O] [A]	[S] good [O] great [A] food [SSEP] [S] good [O] amazing [A] service [SSEP] [S] good [O] class act [A] place
+paul , the maitre d ' , was totally professional and always on top of things . [O] [A] [S]	[O] professional [A] paul [S] good
+paul , the maitre d ' , was totally professional and always on top of things . [A] [O] [S]	[A] paul [O] professional [S] good
+paul , the maitre d ' , was totally professional and always on top of things . [O] [S] [A]	[O] professional [S] good [A] paul
+paul , the maitre d ' , was totally professional and always on top of things . [A] [S] [O]	[A] paul [S] good [O] professional
+paul , the maitre d ' , was totally professional and always on top of things . [S] [O] [A]	[S] good [O] professional [A] paul
+the bar drinks were eh , ok to say the least . [O] [A] [S]	[O] ok [A] bar drinks [S] bad
+the bar drinks were eh , ok to say the least . [A] [O] [S]	[A] bar drinks [O] ok [S] bad
+the bar drinks were eh , ok to say the least . [O] [S] [A]	[O] ok [S] bad [A] bar drinks
+the bar drinks were eh , ok to say the least . [A] [S] [O]	[A] bar drinks [S] bad [O] ok
+the bar drinks were eh , ok to say the least . [S] [O] [A]	[S] bad [O] ok [A] bar drinks
+the bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing . [O] [A] [S]	[O] horrible [A] bread [S] bad [SSEP] [O] rock hard [A] bread [S] bad [SSEP] [O] cold [A] bread [S] bad [SSEP] [O] disappointing [A] appetizer of olives [S] bad
+the bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing . [A] [O] [S]	[A] bread [O] horrible [S] bad [SSEP] [A] bread [O] rock hard [S] bad [SSEP] [A] bread [O] cold [S] bad [SSEP] [A] appetizer of olives [O] disappointing [S] bad
+the bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing . [O] [S] [A]	[O] horrible [S] bad [A] bread [SSEP] [O] rock hard [S] bad [A] bread [SSEP] [O] cold [S] bad [A] bread [SSEP] [O] disappointing [S] bad [A] appetizer of olives
+the bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing . [A] [S] [O]	[A] bread [S] bad [O] horrible [SSEP] [A] bread [S] bad [O] rock hard [SSEP] [A] bread [S] bad [O] cold [SSEP] [A] appetizer of olives [S] bad [O] disappointing
+the bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing . [S] [O] [A]	[S] bad [O] horrible [A] bread [SSEP] [S] bad [O] rock hard [A] bread [SSEP] [S] bad [O] cold [A] bread [SSEP] [S] bad [O] disappointing [A] appetizer of olives
+short and sweet – seating is great : it 's romantic , cozy and private . [O] [A] [S]	[O] great [A] seating [S] good
+short and sweet – seating is great : it 's romantic , cozy and private . [A] [O] [S]	[A] seating [O] great [S] good
+short and sweet – seating is great : it 's romantic , cozy and private . [O] [S] [A]	[O] great [S] good [A] seating
+short and sweet – seating is great : it 's romantic , cozy and private . [A] [S] [O]	[A] seating [S] good [O] great
+short and sweet – seating is great : it 's romantic , cozy and private . [S] [O] [A]	[S] good [O] great [A] seating
+the service was extremely fast and attentive ( thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order . [O] [A] [S]	[O] fast [A] service [S] good [SSEP] [O] attentive [A] service [S] good [SSEP] [O] thanks to [A] service button [S] good [SSEP] [O] barely understood [A] waiter [S] bad
+the service was extremely fast and attentive ( thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order . [A] [O] [S]	[A] service [O] fast [S] good [SSEP] [A] service [O] attentive [S] good [SSEP] [A] service button [O] thanks to [S] good [SSEP] [A] waiter [O] barely understood [S] bad
+the service was extremely fast and attentive ( thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order . [O] [S] [A]	[O] fast [S] good [A] service [SSEP] [O] attentive [S] good [A] service [SSEP] [O] thanks to [S] good [A] service button [SSEP] [O] barely understood [S] bad [A] waiter
+the service was extremely fast and attentive ( thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order . [A] [S] [O]	[A] service [S] good [O] fast [SSEP] [A] service [S] good [O] attentive [SSEP] [A] service button [S] good [O] thanks to [SSEP] [A] waiter [S] bad [O] barely understood
+the service was extremely fast and attentive ( thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order . [S] [O] [A]	[S] good [O] fast [A] service [SSEP] [S] good [O] attentive [A] service [SSEP] [S] good [O] thanks to [A] service button [SSEP] [S] bad [O] barely understood [A] waiter
+highly impressed from the decor to the food to the hospitality to the great night i had ! [O] [A] [S]	[O] impressed [A] decor [S] good [SSEP] [O] impressed [A] food [S] good
+highly impressed from the decor to the food to the hospitality to the great night i had ! [A] [O] [S]	[A] decor [O] impressed [S] good [SSEP] [A] food [O] impressed [S] good
+highly impressed from the decor to the food to the hospitality to the great night i had ! [O] [S] [A]	[O] impressed [S] good [A] decor [SSEP] [O] impressed [S] good [A] food
+highly impressed from the decor to the food to the hospitality to the great night i had ! [A] [S] [O]	[A] decor [S] good [O] impressed [SSEP] [A] food [S] good [O] impressed
+highly impressed from the decor to the food to the hospitality to the great night i had ! [S] [O] [A]	[S] good [O] impressed [A] decor [SSEP] [S] good [O] impressed [A] food
+food took some time to prepare , all worth waiting for . [O] [A] [S]	[O] worth [A] food [S] good
+food took some time to prepare , all worth waiting for . [A] [O] [S]	[A] food [O] worth [S] good
+food took some time to prepare , all worth waiting for . [O] [S] [A]	[O] worth [S] good [A] food
+food took some time to prepare , all worth waiting for . [A] [S] [O]	[A] food [S] good [O] worth
+food took some time to prepare , all worth waiting for . [S] [O] [A]	[S] good [O] worth [A] food
+the menu looked great , and the waiter was very nice , but when the food came , it was average . [O] [A] [S]	[O] great [A] menu [S] good [SSEP] [O] nice [A] waiter [S] good [SSEP] [O] average [A] food [S] ok
+the menu looked great , and the waiter was very nice , but when the food came , it was average . [A] [O] [S]	[A] menu [O] great [S] good [SSEP] [A] waiter [O] nice [S] good [SSEP] [A] food [O] average [S] ok
+the menu looked great , and the waiter was very nice , but when the food came , it was average . [O] [S] [A]	[O] great [S] good [A] menu [SSEP] [O] nice [S] good [A] waiter [SSEP] [O] average [S] ok [A] food
+the menu looked great , and the waiter was very nice , but when the food came , it was average . [A] [S] [O]	[A] menu [S] good [O] great [SSEP] [A] waiter [S] good [O] nice [SSEP] [A] food [S] ok [O] average
+the menu looked great , and the waiter was very nice , but when the food came , it was average . [S] [O] [A]	[S] good [O] great [A] menu [SSEP] [S] good [O] nice [A] waiter [SSEP] [S] ok [O] average [A] food
+it 's a great place to order from or sit-in . [O] [A] [S]	[O] great [A] place [S] good
+it 's a great place to order from or sit-in . [A] [O] [S]	[A] place [O] great [S] good
+it 's a great place to order from or sit-in . [O] [S] [A]	[O] great [S] good [A] place
+it 's a great place to order from or sit-in . [A] [S] [O]	[A] place [S] good [O] great
+it 's a great place to order from or sit-in . [S] [O] [A]	[S] good [O] great [A] place
+yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much . [O] [A] [S]	[O] excellent [A] yamato [S] good
+yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much . [A] [O] [S]	[A] yamato [O] excellent [S] good
+yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much . [O] [S] [A]	[O] excellent [S] good [A] yamato
+yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much . [A] [S] [O]	[A] yamato [S] good [O] excellent
+yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much . [S] [O] [A]	[S] good [O] excellent [A] yamato
+i 've had my fair share of modern japanese and this spot delivers . [O] [A] [S]	[O] delivers [A] modern japanese [S] good
+i 've had my fair share of modern japanese and this spot delivers . [A] [O] [S]	[A] modern japanese [O] delivers [S] good
+i 've had my fair share of modern japanese and this spot delivers . [O] [S] [A]	[O] delivers [S] good [A] modern japanese
+i 've had my fair share of modern japanese and this spot delivers . [A] [S] [O]	[A] modern japanese [S] good [O] delivers
+i 've had my fair share of modern japanese and this spot delivers . [S] [O] [A]	[S] good [O] delivers [A] modern japanese
+everything on the menu is great . [O] [A] [S]	[O] great [A] menu [S] good
+everything on the menu is great . [A] [O] [S]	[A] menu [O] great [S] good
+everything on the menu is great . [O] [S] [A]	[O] great [S] good [A] menu
+everything on the menu is great . [A] [S] [O]	[A] menu [S] good [O] great
+everything on the menu is great . [S] [O] [A]	[S] good [O] great [A] menu
+bison was quite excellent however . [O] [A] [S]	[O] excellent [A] bison [S] good
+bison was quite excellent however . [A] [O] [S]	[A] bison [O] excellent [S] good
+bison was quite excellent however . [O] [S] [A]	[O] excellent [S] good [A] bison
+bison was quite excellent however . [A] [S] [O]	[A] bison [S] good [O] excellent
+bison was quite excellent however . [S] [O] [A]	[S] good [O] excellent [A] bison
+all in all , the food was great ( except for the dessserts ) . [O] [A] [S]	[O] great [A] food [S] good
+all in all , the food was great ( except for the dessserts ) . [A] [O] [S]	[A] food [O] great [S] good
+all in all , the food was great ( except for the dessserts ) . [O] [S] [A]	[O] great [S] good [A] food
+all in all , the food was great ( except for the dessserts ) . [A] [S] [O]	[A] food [S] good [O] great
+all in all , the food was great ( except for the dessserts ) . [S] [O] [A]	[S] good [O] great [A] food
+however , our $ 14 drinks were were horrible ! [O] [A] [S]	[O] horrible [A] drinks [S] bad
+however , our $ 14 drinks were were horrible ! [A] [O] [S]	[A] drinks [O] horrible [S] bad
+however , our $ 14 drinks were were horrible ! [O] [S] [A]	[O] horrible [S] bad [A] drinks
+however , our $ 14 drinks were were horrible ! [A] [S] [O]	[A] drinks [S] bad [O] horrible
+however , our $ 14 drinks were were horrible ! [S] [O] [A]	[S] bad [O] horrible [A] drinks
+the menu is fairly simple without much descriptions . [O] [A] [S]	[O] simple [A] menu [S] ok
+the menu is fairly simple without much descriptions . [A] [O] [S]	[A] menu [O] simple [S] ok
+the menu is fairly simple without much descriptions . [O] [S] [A]	[O] simple [S] ok [A] menu
+the menu is fairly simple without much descriptions . [A] [S] [O]	[A] menu [S] ok [O] simple
+the menu is fairly simple without much descriptions . [S] [O] [A]	[S] ok [O] simple [A] menu
+not much of a selection of bottled beer either , we went with brahma . [O] [A] [S]	[O] not much [A] selection of bottled beer [S] bad
+not much of a selection of bottled beer either , we went with brahma . [A] [O] [S]	[A] selection of bottled beer [O] not much [S] bad
+not much of a selection of bottled beer either , we went with brahma . [O] [S] [A]	[O] not much [S] bad [A] selection of bottled beer
+not much of a selection of bottled beer either , we went with brahma . [A] [S] [O]	[A] selection of bottled beer [S] bad [O] not much
+not much of a selection of bottled beer either , we went with brahma . [S] [O] [A]	[S] bad [O] not much [A] selection of bottled beer
+all in all the food was good - a little on the expensive side , but fresh . [O] [A] [S]	[O] good [A] food [S] bad [SSEP] [O] expensive [A] food [S] bad [SSEP] [O] fresh [A] food [S] bad
+all in all the food was good - a little on the expensive side , but fresh . [A] [O] [S]	[A] food [O] good [S] bad [SSEP] [A] food [O] expensive [S] bad [SSEP] [A] food [O] fresh [S] bad
+all in all the food was good - a little on the expensive side , but fresh . [O] [S] [A]	[O] good [S] bad [A] food [SSEP] [O] expensive [S] bad [A] food [SSEP] [O] fresh [S] bad [A] food
+all in all the food was good - a little on the expensive side , but fresh . [A] [S] [O]	[A] food [S] bad [O] good [SSEP] [A] food [S] bad [O] expensive [SSEP] [A] food [S] bad [O] fresh
+all in all the food was good - a little on the expensive side , but fresh . [S] [O] [A]	[S] bad [O] good [A] food [SSEP] [S] bad [O] expensive [A] food [SSEP] [S] bad [O] fresh [A] food
+it was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive . [O] [A] [S]	[O] repulsive [A] restaurant [S] bad
+it was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive . [A] [O] [S]	[A] restaurant [O] repulsive [S] bad
+it was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive . [O] [S] [A]	[O] repulsive [S] bad [A] restaurant
+it was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive . [A] [S] [O]	[A] restaurant [S] bad [O] repulsive
+it was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive . [S] [O] [A]	[S] bad [O] repulsive [A] restaurant
+gorgeous place ideal for a romantic dinner [O] [A] [S]	[O] gorgeous [A] place [S] good [SSEP] [O] ideal [A] place [S] good
+gorgeous place ideal for a romantic dinner [A] [O] [S]	[A] place [O] gorgeous [S] good [SSEP] [A] place [O] ideal [S] good
+gorgeous place ideal for a romantic dinner [O] [S] [A]	[O] gorgeous [S] good [A] place [SSEP] [O] ideal [S] good [A] place
+gorgeous place ideal for a romantic dinner [A] [S] [O]	[A] place [S] good [O] gorgeous [SSEP] [A] place [S] good [O] ideal
+gorgeous place ideal for a romantic dinner [S] [O] [A]	[S] good [O] gorgeous [A] place [SSEP] [S] good [O] ideal [A] place
+the nakgi-bokum was horrible . [O] [A] [S]	[O] horrible [A] nakgi-bokum [S] bad
+the nakgi-bokum was horrible . [A] [O] [S]	[A] nakgi-bokum [O] horrible [S] bad
+the nakgi-bokum was horrible . [O] [S] [A]	[O] horrible [S] bad [A] nakgi-bokum
+the nakgi-bokum was horrible . [A] [S] [O]	[A] nakgi-bokum [S] bad [O] horrible
+the nakgi-bokum was horrible . [S] [O] [A]	[S] bad [O] horrible [A] nakgi-bokum
+the side dishes were passable , and i did get a refill upon request . [O] [A] [S]	[O] passable [A] side dishes [S] ok
+the side dishes were passable , and i did get a refill upon request . [A] [O] [S]	[A] side dishes [O] passable [S] ok
+the side dishes were passable , and i did get a refill upon request . [O] [S] [A]	[O] passable [S] ok [A] side dishes
+the side dishes were passable , and i did get a refill upon request . [A] [S] [O]	[A] side dishes [S] ok [O] passable
+the side dishes were passable , and i did get a refill upon request . [S] [O] [A]	[S] ok [O] passable [A] side dishes
+my wife had barely touched that mess of a dish . [O] [A] [S]	[O] mess [A] dish [S] bad
+my wife had barely touched that mess of a dish . [A] [O] [S]	[A] dish [O] mess [S] bad
+my wife had barely touched that mess of a dish . [O] [S] [A]	[O] mess [S] bad [A] dish
+my wife had barely touched that mess of a dish . [A] [S] [O]	[A] dish [S] bad [O] mess
+my wife had barely touched that mess of a dish . [S] [O] [A]	[S] bad [O] mess [A] dish
+the wife had the risotto which was amazing . [O] [A] [S]	[O] amazing [A] risotto [S] good
+the wife had the risotto which was amazing . [A] [O] [S]	[A] risotto [O] amazing [S] good
+the wife had the risotto which was amazing . [O] [S] [A]	[O] amazing [S] good [A] risotto
+the wife had the risotto which was amazing . [A] [S] [O]	[A] risotto [S] good [O] amazing
+the wife had the risotto which was amazing . [S] [O] [A]	[S] good [O] amazing [A] risotto
+the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components . [O] [A] [S]	[O] great [A] crust [S] good [SSEP] [O] good [A] crust [S] good [SSEP] [O] light [A] sauce [S] good [SSEP] [O] great [A] cheese [S] good
+the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components . [A] [O] [S]	[A] crust [O] great [S] good [SSEP] [A] crust [O] good [S] good [SSEP] [A] sauce [O] light [S] good [SSEP] [A] cheese [O] great [S] good
+the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components . [O] [S] [A]	[O] great [S] good [A] crust [SSEP] [O] good [S] good [A] crust [SSEP] [O] light [S] good [A] sauce [SSEP] [O] great [S] good [A] cheese
+the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components . [A] [S] [O]	[A] crust [S] good [O] great [SSEP] [A] crust [S] good [O] good [SSEP] [A] sauce [S] good [O] light [SSEP] [A] cheese [S] good [O] great
+the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components . [S] [O] [A]	[S] good [O] great [A] crust [SSEP] [S] good [O] good [A] crust [SSEP] [S] good [O] light [A] sauce [SSEP] [S] good [O] great [A] cheese
+i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better . [O] [A] [S]	[O] devoured [A] grilled black cod [S] good [SSEP] [O] better [A] grilled salmon dish [S] good
+i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better . [A] [O] [S]	[A] grilled black cod [O] devoured [S] good [SSEP] [A] grilled salmon dish [O] better [S] good
+i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better . [O] [S] [A]	[O] devoured [S] good [A] grilled black cod [SSEP] [O] better [S] good [A] grilled salmon dish
+i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better . [A] [S] [O]	[A] grilled black cod [S] good [O] devoured [SSEP] [A] grilled salmon dish [S] good [O] better
+i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better . [S] [O] [A]	[S] good [O] devoured [A] grilled black cod [SSEP] [S] good [O] better [A] grilled salmon dish
+the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night . [O] [A] [S]	[O] leaves much to be desired [A] service [S] bad
+the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night . [A] [O] [S]	[A] service [O] leaves much to be desired [S] bad
+the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night . [O] [S] [A]	[O] leaves much to be desired [S] bad [A] service
+the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night . [A] [S] [O]	[A] service [S] bad [O] leaves much to be desired
+the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night . [S] [O] [A]	[S] bad [O] leaves much to be desired [A] service
+the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun . [O] [A] [S]	[O] good [A] hot dogs [S] good [SSEP] [O] fantastic [A] pork croquette sandwich [S] good [SSEP] [O] perfect [A] bun [S] good
+the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun . [A] [O] [S]	[A] hot dogs [O] good [S] good [SSEP] [A] pork croquette sandwich [O] fantastic [S] good [SSEP] [A] bun [O] perfect [S] good
+the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun . [O] [S] [A]	[O] good [S] good [A] hot dogs [SSEP] [O] fantastic [S] good [A] pork croquette sandwich [SSEP] [O] perfect [S] good [A] bun
+the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun . [A] [S] [O]	[A] hot dogs [S] good [O] good [SSEP] [A] pork croquette sandwich [S] good [O] fantastic [SSEP] [A] bun [S] good [O] perfect
+the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun . [S] [O] [A]	[S] good [O] good [A] hot dogs [SSEP] [S] good [O] fantastic [A] pork croquette sandwich [SSEP] [S] good [O] perfect [A] bun
+the family seafood entree was very good . [O] [A] [S]	[O] good [A] family seafood entree [S] good
+the family seafood entree was very good . [A] [O] [S]	[A] family seafood entree [O] good [S] good
+the family seafood entree was very good . [O] [S] [A]	[O] good [S] good [A] family seafood entree
+the family seafood entree was very good . [A] [S] [O]	[A] family seafood entree [S] good [O] good
+the family seafood entree was very good . [S] [O] [A]	[S] good [O] good [A] family seafood entree
+price is high but the food is good , so i would come back again . [O] [A] [S]	[O] good [A] food [S] bad
+price is high but the food is good , so i would come back again . [A] [O] [S]	[A] food [O] good [S] bad
+price is high but the food is good , so i would come back again . [O] [S] [A]	[O] good [S] bad [A] food
+price is high but the food is good , so i would come back again . [A] [S] [O]	[A] food [S] bad [O] good
+price is high but the food is good , so i would come back again . [S] [O] [A]	[S] bad [O] good [A] food
+this place is not inviting and the food is totally weird . [O] [A] [S]	[O] not inviting [A] place [S] bad [SSEP] [O] weird [A] food [S] bad
+this place is not inviting and the food is totally weird . [A] [O] [S]	[A] place [O] not inviting [S] bad [SSEP] [A] food [O] weird [S] bad
+this place is not inviting and the food is totally weird . [O] [S] [A]	[O] not inviting [S] bad [A] place [SSEP] [O] weird [S] bad [A] food
+this place is not inviting and the food is totally weird . [A] [S] [O]	[A] place [S] bad [O] not inviting [SSEP] [A] food [S] bad [O] weird
+this place is not inviting and the food is totally weird . [S] [O] [A]	[S] bad [O] not inviting [A] place [SSEP] [S] bad [O] weird [A] food
+a coworker and i tried pacifico after work a few fridays and loved it . [O] [A] [S]	[O] loved [A] pacifico [S] good
+a coworker and i tried pacifico after work a few fridays and loved it . [A] [O] [S]	[A] pacifico [O] loved [S] good
+a coworker and i tried pacifico after work a few fridays and loved it . [O] [S] [A]	[O] loved [S] good [A] pacifico
+a coworker and i tried pacifico after work a few fridays and loved it . [A] [S] [O]	[A] pacifico [S] good [O] loved
+a coworker and i tried pacifico after work a few fridays and loved it . [S] [O] [A]	[S] good [O] loved [A] pacifico
+the food we ordered was excellent , although i would n't say the margaritas were anything to write home about . [O] [A] [S]	[O] excellent [A] food [S] good
+the food we ordered was excellent , although i would n't say the margaritas were anything to write home about . [A] [O] [S]	[A] food [O] excellent [S] good
+the food we ordered was excellent , although i would n't say the margaritas were anything to write home about . [O] [S] [A]	[O] excellent [S] good [A] food
+the food we ordered was excellent , although i would n't say the margaritas were anything to write home about . [A] [S] [O]	[A] food [S] good [O] excellent
+the food we ordered was excellent , although i would n't say the margaritas were anything to write home about . [S] [O] [A]	[S] good [O] excellent [A] food
+the hot dogs are top notch , and they 're slamwich is amazing ! [O] [A] [S]	[O] top notch [A] hot dogs [S] good [SSEP] [O] amazing [A] slamwich [S] good
+the hot dogs are top notch , and they 're slamwich is amazing ! [A] [O] [S]	[A] hot dogs [O] top notch [S] good [SSEP] [A] slamwich [O] amazing [S] good
+the hot dogs are top notch , and they 're slamwich is amazing ! [O] [S] [A]	[O] top notch [S] good [A] hot dogs [SSEP] [O] amazing [S] good [A] slamwich
+the hot dogs are top notch , and they 're slamwich is amazing ! [A] [S] [O]	[A] hot dogs [S] good [O] top notch [SSEP] [A] slamwich [S] good [O] amazing
+the hot dogs are top notch , and they 're slamwich is amazing ! [S] [O] [A]	[S] good [O] top notch [A] hot dogs [SSEP] [S] good [O] amazing [A] slamwich
+but nonetheless -- great spot , great food . [O] [A] [S]	[O] great [A] spot [S] good [SSEP] [O] great [A] food [S] good
+but nonetheless -- great spot , great food . [A] [O] [S]	[A] spot [O] great [S] good [SSEP] [A] food [O] great [S] good
+but nonetheless -- great spot , great food . [O] [S] [A]	[O] great [S] good [A] spot [SSEP] [O] great [S] good [A] food
+but nonetheless -- great spot , great food . [A] [S] [O]	[A] spot [S] good [O] great [SSEP] [A] food [S] good [O] great
+but nonetheless -- great spot , great food . [S] [O] [A]	[S] good [O] great [A] spot [SSEP] [S] good [O] great [A] food
+this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant . [O] [A] [S]	[O] bad [A] frontman [S] bad
+this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant . [A] [O] [S]	[A] frontman [O] bad [S] bad
+this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant . [O] [S] [A]	[O] bad [S] bad [A] frontman
+this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant . [A] [S] [O]	[A] frontman [S] bad [O] bad
+this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant . [S] [O] [A]	[S] bad [O] bad [A] frontman
+mussles and calamari were superb saturday evening . [O] [A] [S]	[O] superb [A] mussles [S] good [SSEP] [O] superb [A] calamari [S] good
+mussles and calamari were superb saturday evening . [A] [O] [S]	[A] mussles [O] superb [S] good [SSEP] [A] calamari [O] superb [S] good
+mussles and calamari were superb saturday evening . [O] [S] [A]	[O] superb [S] good [A] mussles [SSEP] [O] superb [S] good [A] calamari
+mussles and calamari were superb saturday evening . [A] [S] [O]	[A] mussles [S] good [O] superb [SSEP] [A] calamari [S] good [O] superb
+mussles and calamari were superb saturday evening . [S] [O] [A]	[S] good [O] superb [A] mussles [SSEP] [S] good [O] superb [A] calamari
+i had the lamb special which was perfect . [O] [A] [S]	[O] perfect [A] lamb special [S] good
+i had the lamb special which was perfect . [A] [O] [S]	[A] lamb special [O] perfect [S] good
+i had the lamb special which was perfect . [O] [S] [A]	[O] perfect [S] good [A] lamb special
+i had the lamb special which was perfect . [A] [S] [O]	[A] lamb special [S] good [O] perfect
+i had the lamb special which was perfect . [S] [O] [A]	[S] good [O] perfect [A] lamb special

@@ -1,0 +1,50 @@
+judging from previous posts this used to be a good place , but not any longer . [A] [C] [S]	[A] place [C] restaurant general [S] bad
+judging from previous posts this used to be a good place , but not any longer . [A] [S] [C]	[A] place [S] bad [C] restaurant general
+judging from previous posts this used to be a good place , but not any longer . [C] [S] [A]	[C] restaurant general [S] bad [A] place
+judging from previous posts this used to be a good place , but not any longer . [C] [A] [S]	[C] restaurant general [A] place [S] bad
+judging from previous posts this used to be a good place , but not any longer . [S] [C] [A]	[S] bad [C] restaurant general [A] place
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [A] [C] [S]	[A] staff [C] service general [S] bad
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [A] [S] [C]	[A] staff [S] bad [C] service general
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [C] [S] [A]	[C] service general [S] bad [A] staff
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [C] [A] [S]	[C] service general [A] staff [S] bad
+we , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude . [S] [C] [A]	[S] bad [C] service general [A] staff
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [A] [C] [S]	[A] it [C] service general [S] bad
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [A] [S] [C]	[A] it [S] bad [C] service general
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [C] [S] [A]	[C] service general [S] bad [A] it
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [C] [A] [S]	[C] service general [A] it [S] bad
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table . [S] [C] [A]	[S] bad [C] service general [A] it
+the food was lousy - too sweet or too salty and the portions tiny . [A] [C] [S]	[A] food [C] food quality [S] bad [SSEP] [A] portions [C] food style_options [S] bad
+the food was lousy - too sweet or too salty and the portions tiny . [A] [S] [C]	[A] food [S] bad [C] food quality [SSEP] [A] portions [S] bad [C] food style_options
+the food was lousy - too sweet or too salty and the portions tiny . [C] [S] [A]	[C] food quality [S] bad [A] food [SSEP] [C] food style_options [S] bad [A] portions
+the food was lousy - too sweet or too salty and the portions tiny . [C] [A] [S]	[C] food quality [A] food [S] bad [SSEP] [C] food style_options [A] portions [S] bad
+the food was lousy - too sweet or too salty and the portions tiny . [S] [C] [A]	[S] bad [C] food quality [A] food [SSEP] [S] bad [C] food style_options [A] portions
+after all that , they complained to me about the small tip . [A] [C] [S]	[A] it [C] service general [S] bad
+after all that , they complained to me about the small tip . [A] [S] [C]	[A] it [S] bad [C] service general
+after all that , they complained to me about the small tip . [C] [S] [A]	[C] service general [S] bad [A] it
+after all that , they complained to me about the small tip . [C] [A] [S]	[C] service general [A] it [S] bad
+after all that , they complained to me about the small tip . [S] [C] [A]	[S] bad [C] service general [A] it
+avoid this place ! [A] [C] [S]	[A] place [C] restaurant general [S] bad
+avoid this place ! [A] [S] [C]	[A] place [S] bad [C] restaurant general
+avoid this place ! [C] [S] [A]	[C] restaurant general [S] bad [A] place
+avoid this place ! [C] [A] [S]	[C] restaurant general [A] place [S] bad
+avoid this place ! [S] [C] [A]	[S] bad [C] restaurant general [A] place
+i have eaten at saul , many times , the food is always consistently , outrageously good . [A] [C] [S]	[A] food [C] food quality [S] good
+i have eaten at saul , many times , the food is always consistently , outrageously good . [A] [S] [C]	[A] food [S] good [C] food quality
+i have eaten at saul , many times , the food is always consistently , outrageously good . [C] [S] [A]	[C] food quality [S] good [A] food
+i have eaten at saul , many times , the food is always consistently , outrageously good . [C] [A] [S]	[C] food quality [A] food [S] good
+i have eaten at saul , many times , the food is always consistently , outrageously good . [S] [C] [A]	[S] good [C] food quality [A] food
+saul is the best restaurant on smith street and in brooklyn . [A] [C] [S]	[A] saul [C] restaurant general [S] good
+saul is the best restaurant on smith street and in brooklyn . [A] [S] [C]	[A] saul [S] good [C] restaurant general
+saul is the best restaurant on smith street and in brooklyn . [C] [S] [A]	[C] restaurant general [S] good [A] saul
+saul is the best restaurant on smith street and in brooklyn . [C] [A] [S]	[C] restaurant general [A] saul [S] good
+saul is the best restaurant on smith street and in brooklyn . [S] [C] [A]	[S] good [C] restaurant general [A] saul
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [A] [C] [S]	[A] foie gras terrine with figs [C] food quality [S] good [SSEP] [A] duck confit [C] food quality [S] good
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [A] [S] [C]	[A] foie gras terrine with figs [S] good [C] food quality [SSEP] [A] duck confit [S] good [C] food quality
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [C] [S] [A]	[C] food quality [S] good [A] foie gras terrine with figs [SSEP] [C] food quality [S] good [A] duck confit
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [C] [A] [S]	[C] food quality [A] foie gras terrine with figs [S] good [SSEP] [C] food quality [A] duck confit [S] good
+the duck confit is always amazing and the foie gras terrine with figs was out of this world . [S] [C] [A]	[S] good [C] food quality [A] foie gras terrine with figs [SSEP] [S] good [C] food quality [A] duck confit
+the wine list is interesting and has many good values . [A] [C] [S]	[A] wine list [C] drinks style_options [S] good [SSEP] [A] wine list [C] drinks prices [S] good
+the wine list is interesting and has many good values . [A] [S] [C]	[A] wine list [S] good [C] drinks style_options [SSEP] [A] wine list [S] good [C] drinks prices
+the wine list is interesting and has many good values . [C] [S] [A]	[C] drinks style_options [S] good [A] wine list [SSEP] [C] drinks prices [S] good [A] wine list
+the wine list is interesting and has many good values . [C] [A] [S]	[C] drinks style_options [A] wine list [S] good [SSEP] [C] drinks prices [A] wine list [S] good
+the wine list is interesting and has many good values . [S] [C] [A]	[S] good [C] drinks style_options [A] wine list [SSEP] [S] good [C] drinks prices [A] wine list
