@@ -252,6 +252,7 @@ def train_function(task, subtask, n_epochs):
                     print("\t\t Validation Epoch {} Iteration {}".format(epoch+1, count))
         val_loss /= len(val_dataloader)
         if val_loss<min_val_loss:
+            print("Epoch {} model saved".format(epoch+1))
             min_val_loss = val_loss
             save_path = f"models/model_{task}_{subtask}"  # Define the path to save the model
             model.save_pretrained(save_path)
