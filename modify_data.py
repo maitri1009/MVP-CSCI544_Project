@@ -4,7 +4,7 @@ def parse_labels(sent, label, task):
     if task == "acos":
         a,c,s,o = label
     elif task == "asqp":
-        a,c,o,s = label
+        a,c,s,o = label
     elif task == "aste":
         a,o,s = label
         c = None
