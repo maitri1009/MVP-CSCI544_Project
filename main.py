@@ -103,6 +103,6 @@ if __name__ == "__main__":
         model_name = "model_{}_{}".format(args.model_evaluate_task,args.model_evaluate_subtask)
         if not os.path.exists("models/{}".format(model_name)):
             train_function(args.model_evaluate_task, args.model_evaluate_subtask, int(args.train_epochs))
-        evaluate_function(args.task, args.subtask, model_name)
+        evaluate_function(args.task, args.subtask, model_name) 
 
-
+        

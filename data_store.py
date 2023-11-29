@@ -2,7 +2,7 @@ task_subtasks_list = {
     "aste": ["laptop14", "rest14", "rest15", "rest16"],
     "tasd": ['rest15', "rest16"],
     "acos": ['laptop16', "rest16"],
-    "asqp": ['rest15', "rest16"],
+    "asqp": ["rest16"],
 }
 
 best_orders_stored = {

@@ -422,14 +422,14 @@ def evaluate_function(task, subtask, model_name):
                 if 'null' not in [at, ot, sp]:  # aste has no 'null', for zero-shot only
                     output_.append(f'[A] {at} [O] {ot} [S] {sp}')
 
-                elif task == "tasd":
-                    output_.append(f"[A] {at} [S] {sp} [C] {ac}")
+            elif task == "tasd":
+                output_.append(f"[A] {at} [S] {sp} [C] {ac}")
 
-                elif task in ["asqp", "acos"]:
-                    output_.append(f"[A] {at} [O] {ot} [S] {sp} [C] {ac}")
+            elif task in ["asqp", "acos"]:
+                output_.append(f"[A] {at} [O] {ot} [S] {sp} [C] {ac}")
 
-                else:
-                    raise NotImplementedError
+            else:
+                raise NotImplementedError
             
 
         target_quads = extract_spans_para(seq=targets[i], seq_type='gold')
